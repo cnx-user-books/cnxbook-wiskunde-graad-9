@@ -1,0 +1,224 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Vergelyking van vierhoeke ten opsigte van verskille en ooreenkomste</title>
+  <metadata>
+  <md:content-id>m31522</md:content-id><md:title>Vergelyking van vierhoeke ten opsigte van verskille en ooreenkomste</md:title>
+  <md:abstract/>
+  <md:uuid>43f2ce63-26c1-4193-8bf6-b64be51c2490</md:uuid>
+</metadata>
+
+<content>
+    <section id="id13745657">
+      <title>WISKUNDE</title>
+      <para id="para-id13745657">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13770792">
+      <title>Graad 9</title>
+      <para id="para-id13770792">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13770799">
+      <title>VIERKANTE, PERSPEKTIEFTEKENING, TRANSFORMASIES</title>
+      <para id="para-id13770799">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13946727">
+      <title>Module 22</title>
+      <para id="para-id13946727">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13756284">
+      <title>VERGELYKING VAN VIERHOEKE TEN OPSIGTE VAN VERSKILLE EN OOREENKOMSTE</title>
+      <para id="id13524185">AKTIWITEIT 1</para>
+      <para id="id13524190">Om vierhoeke te vergelyk ten opsigte van ooreenkomste en verskille</para>
+      <para id="id13524194">[LU 3.4]</para>
+      <para id="id14106600">1. Vergelykings</para>
+      <para id="id13745886">Werk saam in klein groepies aan die volgende oefening. Vergelyk die pare vierhoeke wat hieronder aangegee word. Skryf neer in watter opsigte hulle eenders is en hoe hulle verskil. Probeer om te sê hoe om die een in die ander te verander – as jy dit kan doen, dan verstaan jy hul eienskappe werklik. As ‘n voorbeeld, kyk na die vraag aan die einde van deel 3 hierbo oor ewewydige sye.</para>
+      <para id="id13998144">Elke groep moet met ten minste een paar vierhoeke werk. As jy met ‘n vlieër werk, ondersoek beide soorte vlieërs.</para>
+      <list id="id13646666" list-type="bulleted">
+        <item>Ruit en vierkant</item>
+        <item>Trapesium en parallelogram</item>
+        <item>Vierkant en reghoek</item>
+        <item>Vlieër en ruit</item>
+        <item>Parallelogram en vlieër</item>
+        <item>Reghoek en trapesium</item>
+      </list>
+      <para id="id13624497">As jy hierby nóg ‘n paar vierhoeke wil vergelyk, doen dit gerus!</para>
+      <para id="id13819908">1. Definisies</para>
+      <para id="id13696952">‘n Kort en akkurate beskrywing van ‘n vierhoek volgens hierdie eienskappe word ‘n <emphasis effect="italics">definisie</emphasis> genoem. ‘n Definisie is ondubbelsinnig, sodat dit slegs op een vierhoek van toepassing is, en sodat ons dit kan gebruik om tussen soorte vierhoeke te onderskei. </para>
+      <para id="id13526036">Die definisies word in ‘n sekere orde aangegee, want die latere definisies verwys na vorige definisies om hulle korter en makliker verstaanbaar te maak. Daar bestaan meer as een stel definisies; hier volg een so ‘n stel.</para>
+      <list id="id13711216" list-type="bulleted">
+        <item>‘n <emphasis effect="bold">Vierhoek</emphasis> is ‘n vlak figuur begrens deur vier reguit lyne.</item>
+        <item>‘n <emphasis effect="bold">Vlieër</emphasis> is ’n <emphasis effect="italics">vierhoek</emphasis> met twee paar aanliggende gelyke sye.</item>
+        <item>‘n <emphasis effect="bold">Trapesium</emphasis> is ‘n <emphasis effect="italics">vierhoek</emphasis> met een paar ewewydige teenoorstaande sye.</item>
+        <item>‘n <emphasis effect="bold">Parallelogram</emphasis> is ‘n <emphasis effect="italics">vierhoek</emphasis> met twee paar ewewydige teenoorstaande sye.</item>
+        <item>‘n <emphasis effect="bold">Ruit</emphasis> is ‘n <emphasis effect="italics">parallelogram</emphasis> met gelyke aanliggende sye.</item>
+        <item>‘n <emphasis effect="bold">Vierkant</emphasis> is ‘n <emphasis effect="italics">ruit</emphasis> met vier gelyke binnehoeke.</item>
+        <item>‘n <emphasis effect="bold">Reghoek</emphasis> is ‘n <emphasis effect="italics">parallelogram</emphasis> met vier gelyke binnehoeke.</item>
+      </list>
+      <para id="id13637958">AKTIWITEIT 2</para>
+      <para id="id13637962">Om informeel formules vir die oppervlaktes van vierhoeke te ontwikkel</para>
+      <para id="id13637967">[LU 3.4] </para>
+      <para id="id13770157">Bereken oppervlaktes van plat figure</para>
+      <list id="id13465819" list-type="bulleted">
+        <item>Ons begin by die oppervlaktes van driehoeke: Julle het dalk al die woorde, “half basis maal hoogte” gehoor. Dis die formule vir die oppervlakte van ‘n driehoek. Ons gebruik <emphasis effect="bold">A</emphasis> vir die <emphasis effect="italics">oppervlakte</emphasis>, <emphasis effect="italics">h</emphasis> vir die <emphasis effect="italics">hoogte</emphasis> en <emphasis effect="italics">b</emphasis> vir die <emphasis effect="italics">basis</emphasis>. </item>
+        <item>Oppervlakte = ½ × basis × hoogte;  A = ½ <emphasis effect="italics">bh</emphasis>; A = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>bh</m:mtext></m:mrow></m:mstyle><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "bh"}  over  {2} } } {}</m:annotation></m:semantics></m:math>  is verskeie weergawes van die formule.</item>
+        <item>Wat is nou eintlik die <emphasis effect="italics">basis</emphasis>? En wat is die <emphasis effect="italics">hoogte</emphasis>? Wat belangrik is, is dat die hoogte en die basis saam hoort: die basis is nie net sommer enige sy nie, en die hoogte nie sommer net enige lyn nie.</item>
+      </list>
+      <figure id="id13901268">
+        <media id="id13901268_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-f842.png" id="id13901268__onlineimage" height="132" width="633"/>
+        </media>
+      </figure>
+      <list id="id13733188" list-type="bulleted">
+        <item>Die hoogte is altyd ‘n lyn wat loodreg is op dié sy wat jy die basis noem. Verwys na die sketse hierbo. Die basis en sy ooreenstemmende hoogte is donker lyne. Hieronder is nog drie voorbeelde van basis/hoogte-pare.</item>
+      </list>
+      <figure id="id13522865">
+        <media id="id13522865_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-186c.png" id="id13522865__onlineimage" height="109" width="633"/>
+        </media>
+      </figure>
+      <list id="id13700554" list-type="bulleted">
+        <item>Trek met twee ander kleure die ander twee basis/hoogte-pare in elk van die boonste ses driehoeke, elke paar in sy eie kleur. Doen daarna die volgende oefening:</item>
+      </list>
+      <para id="id13722677">Kies een van die driehoeke en bereken sy oppervlakte drie keer. Meet die lengtes met jou liniaal en gebruik elke slag ‘n ander basis/hoogte-paar vir jou berekening. Stem die antwoorde grootliks ooreen? Indien nie, meet weer versigtig en doen weer die som.</para>
+      <para id="id14109493">Die hoogtelyn lê gewoonlik binne die driehoek. Dit is die geval in vier van die ses driehoeke hierbo, maar in die geval van ‘n reghoekige driehoek is die hoogtelyn een van die sye, soos in die vierde driehoek. In die sesde driehoek is dit nodig om die hoogtelyn <emphasis effect="italics">buite</emphasis> die driehoek te trek.</para>
+      <para id="id13808855">Opsommend: </para>
+      <para id="id13794971">As jy die oppervlakte-formule wil gebruik, moet jy ‘n basis en ‘n hoogte hê wat saam hoort en jy moet hulle lengte ken of kan bereken. In sommige van die probleme wat volg, sal jy dalk die oppervlakte van ‘n driehoek moet bereken as deel van die werk. </para>
+      <para id="id13514786">Kyk weer na die Stelling van Pythagoras; onthou dat dit net op reghoekige driehoeke van toepassing is – maar jy kan van nou af baie van hulle te wagte wees.</para>
+      <para id="id13514789">I</para>
+      <para id="id13566606">In ‘n reghoekige driehoek is die vierkant op die skuinssy gelyk aan die som van die vierkante op die ander twee sye.</para>
+      <para id="id13973820">As jy al vergeet het hoe om die stelling toe te pas, moet jy teruggaan na die oefeninge wat jy alreeds gedoen het om jou geheue te verfris.</para>
+      <list id="id13589824" list-type="bulleted">
+        <item>Bereken die oppervlakte van ΔABC met A = 90°, BC = 10 cm en AC = 8 cm. Dit sal help as jy ‘n redelik akkurate skets maak. Hierdie probleem het twee stappe: Pas eers Pythagoras toe, en gebruik dan die oppervlakte-formule.</item>
+        <item>By die berekening van die oppervlakte van ‘n vierhoek gebruik ons dieselfde beginsel: As ons na ‘n <emphasis effect="italics">hoogte</emphasis> verwys, is daar altyd ‘n spesifieke <emphasis effect="italics">basis</emphasis> ter sprake.</item>
+        <item>Ons kan by die formule vir die oppervlakte van ‘n driehoek begin en daarvandaan formules vir die ses vierhoeke aflei.<figure id="id14133603"><media id="id14133603_media" alt=""><image mime-type="image/png" src="../../media/graphics1-7057.png" id="id14133603__onlineimage" height="118" width="131"/></media></figure></item>
+        <item>‘n Vierkant bestaan uit twee identiese driehoeke, soos in die skets. Die sylengte van die vierkant is <emphasis effect="italics">s</emphasis>. Dan is die oppervlakte (<emphasis effect="bold">A</emphasis>) van die vierkant:</item>
+      </list>
+      <para id="id13588283">A = 2 × oppervlakte van 1 driehoek = 2 (½ × basis × hoogte) = 2 × ½ × <emphasis effect="italics">s</emphasis> × <emphasis effect="italics">s</emphasis> = <emphasis effect="italics">s</emphasis><sup>2</sup> = sy kwadraat.</para>
+      <para id="id14107069">Jy weet dit sekerlik alreeds!</para>
+      <figure id="id13792366">
+        <media id="id13792366_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-9bc4.png" id="id13792366__onlineimage" height="108" width="237"/>
+        </media>
+      </figure>
+      <list id="id13623518" list-type="bulleted">
+        <item/>
+        <item>Dieselfde metode werk vir die reghoek: Die reghoek is <emphasis effect="italics">b</emphasis> breed en <emphasis effect="italics">l</emphasis> lank, en sy oppervlakte (<emphasis effect="bold">A</emphasis>) is:</item>
+      </list>
+      <para id="id13576930">A = eerste driehoek + tweede driehoek </para>
+      <para id="id13711155"> = (½ × basis × hoogte) + (½ × basis × hoogte)</para>
+      <para id="id13612616"> = (½ × <emphasis effect="italics">b</emphasis> × 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>ℓ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ℓ} {}</m:annotation></m:semantics></m:math>) + (½ × 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>ℓ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ℓ} {}</m:annotation></m:semantics></m:math> × <emphasis effect="italics">b</emphasis>) = ½ b
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>ℓ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ℓ} {}</m:annotation></m:semantics></m:math> + ½ b
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>ℓ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ℓ} {}</m:annotation></m:semantics></m:math> = b
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>ℓ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ℓ} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id13927845"> = breedte maal lengte.</para>
+      <para id="id13997558">Dus: nog ‘n bekende formule.</para>
+      <figure id="id13809269">
+        <media id="id13809269_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-66ec.png" id="id13809269__onlineimage" height="72" width="238"/>
+        </media>
+      </figure>
+      <list id="id13877768" list-type="bulleted">
+        <item>Die parallelogram is ‘n bietjie moeiliker, maar die skets sal help om dit duidelik te maak. Verdeel ons dit in twee driehoeke, dan kan ons dié twee dieselfde basis gee (die lang sy van die parallelogram in elke geval). Ons noem ook hierdie lyn die <emphasis effect="italics">basis</emphasis> van die parallelogram, en ons gebruik die letter <emphasis effect="italics">b</emphasis>. Die <emphasis effect="italics">hoogtelyne</emphasis> (<emphasis effect="italics">h</emphasis>) van die twee driehoeke is ewe lank. (Onthou dat ‘n hoogtelyn altyd <emphasis effect="italics">loodreg</emphasis> op ‘n basis moet wees.) </item>
+        <item>Is jy oortuig dat die twee hoogtes dieselfde is? Meet hulle! En wat van die twee basisse? Die oppervlakte is: A = driehoek + driehoek = ½ <emphasis effect="italics">bh</emphasis> + ½ <emphasis effect="italics">bh</emphasis> = <emphasis effect="italics">bh</emphasis> = basis maal hoogte. </item>
+        <item>‘n Uitdaging: Doen dieselfde in die geval van die ruit. (Antwoord: A = <emphasis effect="italics">bh</emphasis>, soos die parallelogram).</item>
+        <item>
+          <figure id="id13605924">
+            <media id="id13605924_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics4-66ec.png" id="id13605924__onlineimage" height="72" width="238"/>
+            </media>
+          </figure>
+        </item>
+        <item>Kom ons pak die trapesium aan. Aangesien die twee ewewydige sye nie ewe lank is nie, verskil dit van ‘n parallelogram. </item>
+        <item>Ons noem hulle <emphasis effect="bold">P</emphasis><emphasis effect="italics">s</emphasis><emphasis effect="bold">1</emphasis> en <emphasis effect="bold">P</emphasis><emphasis effect="italics">s</emphasis><emphasis effect="bold">2</emphasis>. Die twee hoogtelyne, egter, is ewe lank. </item>
+        <item>Die hoeklyn verdeel dit in twee driehoeke, en uit hulle skryf ons nou ‘n formule neer vir die oppervlakte van ‘n trapesium: </item>
+      </list>
+      <para id="id13601591">A = driehoek<sub>1</sub> + driehoek<sub>2</sub> = ½ × P<emphasis effect="italics">s</emphasis><sub>1</sub> × <emphasis effect="italics">h</emphasis> + ½ × P<emphasis effect="italics">s</emphasis><sub>2</sub> × <emphasis effect="italics">h</emphasis></para>
+      <para id="id13638260"> = ½ <emphasis effect="italics">h</emphasis> (P<emphasis effect="italics">s</emphasis><sub>1</sub> + P<emphasis effect="italics">s</emphasis><sub>2</sub>) = half hoogte maal som van ewewydige sye.</para>
+      <para id="id13615589"> (Het jy die faktorisering raakgesien?)</para>
+      <figure id="id13603510">
+        <media id="id13603510_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics5-db63.png" id="id13603510__onlineimage" height="128" width="307"/>
+        </media>
+      </figure>
+      <list id="id13791552" list-type="bulleted">
+        <item>Laastens kom ons by die vlieër uit. Dit het een lang hoeklyn (ook die simmetrie–lyn) en een kort hoeklyn. Ons noem hulle dus <emphasis effect="italics">sl</emphasis> (simmetrie-lyn) en <emphasis effect="italics">kl</emphasis> (kort hoeklyn). </item>
+        <item>Die simmetrie-lyn verdeel dus die vlieër in twee (kongruente) driehoeke. Omdat ‘n vlieër loodregte hoeklyne het, kan ons baie maklik die oppervlakte-formule vir ‘n driehoek toepas op beide driehoeke. </item>
+        <item>Dit beteken dus dat die <emphasis effect="italics">hoogte</emphasis> van beide driehoeke presies die helfte van die kort hoeklyn is: <emphasis effect="italics">h</emphasis> = ½ × <emphasis effect="italics">kl</emphasis>. Jy sal sien dat ons <emphasis effect="italics">h</emphasis> in <emphasis effect="bold">½ </emphasis><emphasis effect="italics">kl</emphasis><emphasis effect="bold"/>verander hieronder! </item>
+        <item><figure id="id13603954"><media id="id13603954_media" alt=""><image mime-type="image/png" src="../../media/graphics6-92b4.png" id="id13603954__onlineimage" height="132" width="314"/></media></figure>As jy na die sketse verwys, sal jy oplet dat beide soorte vlieërs op dieselfde wyse by die formule uitkom.</item>
+      </list>
+      <para id="id13962277"/>
+      <para id="id13962282">Oppervlakte = 2 identiese driehoeke </para>
+      <para id="id13547423"> = 2( ½ × <emphasis effect="italics">sl</emphasis> × <emphasis effect="italics">h</emphasis>) = 2 × ½ × <emphasis effect="italics">kl</emphasis> × ½ × <emphasis effect="italics">kl</emphasis></para>
+      <para id="id13570750"> = <emphasis effect="italics">sl</emphasis> × ½ × <emphasis effect="italics">kl</emphasis> = ½ × <emphasis effect="italics">sl</emphasis> × <emphasis effect="italics">kl</emphasis></para>
+      <para id="id13591025"> = halflang hoeklyn maal kort  hoeklyn.</para>
+      <para id="id13698770">Die vrae in die volgende oefening begin maklik, maar word moeiliker – moenie van die Stelling van Pythagoras vergeet wanneer jy met regte hoeke werk nie.</para>
+      <para id="id13549382">Bereken die oppervlaktes van die volgende vierhoeke:</para>
+      <para id="id13549388">1 Vierkant met sylengte 13 cm</para>
+      <para id="id13549394">2 Vierkant met hoeklyn 13 cm (gebruik eerstens Pythagoras)</para>
+      <para id="id13975422">3 Reghoek met lengte 5 cm en breedte 6,5 cm</para>
+      <para id="id13759309">4 Reghoek met lengte 12 cm en hoeklyn 13 cm (Pythagoras)</para>
+      <para id="id13759316">5 Parallelogram met hoogte 4 cm en basislengte 9 cm</para>
+      <para id="id13570315">6 Parallelogram met hoogte 2,3 cm en basislengte 7,2 cm</para>
+      <para id="id13570322">7 Ruit met sye 5 cm en hoogte 3,5 cm</para>
+      <para id="id13581220">8 Ruit met hoeklyne 11 cm en 12 cm </para>
+      <para id="id13581226"> (Noem ‘n belangrike feit i.v.m. die hoeklyne van ruite.)</para>
+      <para id="id12829318">9 Trapesium met die twee ewewydig sye 18 cm en 23 cm wat 7,5 cm van mekaar is.</para>
+      <para id="id12829326">10 Vlieër met hoeklyne 25 cm en 17 cm</para>
+    </section>
+    <section id="id13436040">
+      <title>Assessering</title>
+      <table id="id13611014" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LU 3 </entry>
+            </row>
+            <row>
+              <entry>Ruimte en Vorm (meetkunde)Die leerder is in staat om eienskappe van en verwantskappe tussen tweedimensionele vorms en driedimensionele voorwerpe in ‘n verskeidenheid oriëntasies en posisies te beskryf en voor te stel.</entry>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry>3.2 die onderlinge verwantskappe van meetkundige figure en driedimensionele voorwerpe se eienskappe beskryf met bewyse in kontekste, insluitend dié wat gebruik kan word om ’n bewustheid van sosiale, kulturele en omgewingsake te bevorder, insluitend:</entry>
+            </row>
+            <row>
+              <entry>3.2.2  transformasies;</entry>
+            </row>
+            <row>
+              <entry>3.3 die meetkunde van reguitlyne en driehoeke gebruik om probleme op te los en verwantskappe in meetkundige figure te bewys;te beskryf, insluitend:</entry>
+            </row>
+            <row>
+              <entry>3.4 meetkundige figure teken en/of konstrueer en modelle van driedimensionele voorwerpe maak om die eienskappe daarvan en van modelsituasies in die omgewing te ondersoek en te vergelyk.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id13547892">
+      <title>Memorandum</title>
+      <para id="id14080047">Oppervlakte–berekenings</para>
+      <para id="id14080052">Daar word eerstens aandag gegee aan driehoek-oppervlaktes omdat dit so ‘n belangrike rol speel in die oppervlaktes van meer komplekse vorms, soos vierhoeke. Dis ook ‘n goeie aansluitingspunt tussen die bekende en die onbekende. Belangrike voorafkennis is weer die Stelling van Pythagoras.</para>
+      <para id="id14107797">‘n Algemene probleem by oppervlakte-berekenings is dat die hoogte en basis nie ooreenstem nie. Aangesien dit later weer probleme kan skep, sal dit die moeite loon om nou seker te maak dat almal dit hier bemeester. Die oefening waar leerders gevra word om basisse en hoogtes te meet en driekeer die oppervlakte uit te werk, sal help om die beginsel vas te lê; veral as hulle sien dat verkeerde groepering verkeerde antwoorde gee.</para>
+      <para id="id13644359">Die memorisering van die formules is minder belangrik as die verstaan van die <emphasis effect="italics">proses</emphasis> wat gevolg word om by die antwoord uit te kom. Hierdie vaardigheid word benodig by die algemene oplossing van meetkunde probleme.</para>
+      <para id="id14092233">Die oefening is eenvoudig en behels hoofsaaklik die substitusie van waardes in formules, en die noukeurige en akkurate bepaling van die antwoord.</para>
+      <para id="id13697707">1. 169 cm<sup>2</sup> (maak altyd seker dat leerders die regte eenhede gebruik)</para>
+      <para id="id14091759">2. 84,5 cm<sup>2</sup> (dis nie nodig om die sylengte te bereken nie)</para>
+      <para id="id13977176">3. 32,4 cm<sup>2</sup>       4 60 cm<sup>2</sup></para>
+      <para id="id14009609">4. 36 cm<sup>2       </sup>6 16,56 cm<sup>2</sup></para>
+      <para id="id13736559">5. 17,5 cm<sup>2</sup></para>
+      <para id="id13757551">6. 66 cm<sup>2</sup> (hoeklyne is loodreg; gebruik Pythagoras)</para>
+      <para id="id13832183">7. 153,75 cm<sup>2 </sup>     10 212,5 cm<sup>2</sup></para>
+    </section>
+  </content>
+</document>

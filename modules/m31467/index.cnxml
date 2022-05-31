@@ -1,0 +1,416 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Vergelykings en grafieke</title>
+  <metadata>
+  <md:content-id>m31467</md:content-id><md:title>Vergelykings en grafieke</md:title>
+  <md:abstract/>
+  <md:uuid>121f42d8-5107-4af6-be72-f8f8652fdd01</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1167574040193">WISKUNDE </para>
+    <para id="id1167573842537">Graad 9</para>
+    <para id="id1167573237815">GETALPATRONE</para>
+    <para id="id1167573839024">GRAFIESE VOORSTELLINGS</para>
+    <para id="id1167574205808">VERGELYKINGS</para>
+    <para id="id1167573530200">STATISTIEK</para>
+    <para id="id1167574055191">WAARSKYNLIKHEIDSLEER</para>
+    <para id="id1167574022933">Module 14</para>
+    <para id="id8380318">VERGELYKINGS EN GRAFIEKE</para>
+    <para id="id1167576043321">AKTIWITEIT 1</para>
+    <para id="id1167574024253">Om te begryp hoe om vergelykings op ’n grafiek voor te stel</para>
+    <para id="id8463451">[LU 2.2, 2.5, 2.6] </para>
+    <para id="id1167573947346">Voorbeeld: Die vergelyking y = 3х + 2 sê hoe die waardes van х en y verwant is – dit wys die verwantskap tussen twee veranderlikes, х en y.</para>
+    <para id="id1167573790736">Byvoorbeeld, as х gelyk is aan 5 , dan kan y se waarde bereken word uit 3 × 5 + 2 = 17. Ons substitueer die waarde 5 vir die х, en voltooi die berekening.</para>
+    <para id="id1167575408138">Langsaan is ’n tabel met sommige berekeninge.</para>
+    <para id="id1167573985935">
+      <table id="id1167573644789" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>x</entry>
+              <entry>–2</entry>
+              <entry>5</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry>y</entry>
+              <entry>–4</entry>
+              <entry>17</entry>
+              <entry>26</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </para>
+    <para id="id1167575190401">Die nut van ’n tabel is dat dit vir ons die koördinate gee wat ons op ’n assestelsel kan stip. Hieruit kan ’n grafieklyn geteken word, wat vir ons die prentjie gee van die verwantskap tussen х en y.</para>
+    <para id="id1167575365150">1 Voltooi die tabelle vanaf die gegewe vergelykings hieronder, in groepe van ongeveer 4 of 5 leerders. Elkeen kan ’n ander tabel maak en dan kan julle die antwoorde bespreek en inskryf op julle eie tabelle. Onder elke tabel is ’n assestelsel waar die grafiek geteken moet word. Al hierdie grafieke is reguit lyne; dus is dit korrek om die punte te verbind.</para>
+    <para id="id1167573870080">
+      <figure id="id1167574077788">
+        <media id="id1167574077788_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 38-bc0f.png" id="id1167574077788__onlineimage" height="543" width="568"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id1167574019172">
+      <figure id="id1167574081213">
+        <media id="id1167574081213_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 39.png" id="id1167574081213__onlineimage" height="382" width="584"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id1167574090492"/>
+    <figure id="id1167575591053">
+      <media id="id1167575591053_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 40.png" id="id1167575591053__onlineimage" height="445" width="573"/>
+      </media>
+    </figure>
+    <para id="id1167575347238"/>
+    <para id="id8768112">2 Bespreek in die groep wat gebeur met die grafieke. Vergelyk elke grafiek met sy vergelyking. Hier is ’n paar voorstelle om te ondersoek:</para>
+    <para id="id1167575914708">2.1 Wat is die effek op die grafiek van die koëffisiënt van х in die vergelyking? Wat gebeur as die koëffisiënt negatief is?</para>
+    <para id="id3981697">2.2 In 1.6 het die tabel slegs twee kolomme. Is meer as twee kolomme nodig as jy weet dit gaan ’n reguitlyngrafiek wees?</para>
+    <para id="id3502646">2.3 Vergelyk 1.1 en 1.5 om uit te vind wat die konstante aan die grafiek doen.</para>
+    <para id="id8796215">Hier is ’n opsomming van die woorde oor vergelykings, tabelle en grafieke. Hierdie inligting moet gememoriseer word – jy kan nie behoorlik met grafieke werk as jy nie die woorde ken nie.</para>
+    <table id="id8452287" summary="">
+      <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry>Vergelyking:</entry>
+            <entry>х</entry>
+            <entry>y</entry>
+          </row>
+          <row>
+            <entry>Vergelyking:</entry>
+            <entry>Onafhanklike veranderlike</entry>
+            <entry>Afhanklike veranderlike</entry>
+          </row>
+          <row>
+            <entry>Vloeidiagram:</entry>
+            <entry>Invoerwaarde</entry>
+            <entry>Uitvoerwaarde</entry>
+          </row>
+          <row>
+            <entry>Tabel:</entry>
+            <entry>Boonste ry</entry>
+            <entry>Tweede ry</entry>
+          </row>
+          <row>
+            <entry>Koördinate:</entry>
+            <entry>Eerste koördinaat</entry>
+            <entry>Tweede koördinaat</entry>
+          </row>
+          <row>
+            <entry>Grafiek:</entry>
+            <entry>х-as</entry>
+            <entry>y-as</entry>
+          </row>
+          <row>
+            <entry>Grafiek:</entry>
+            <entry>Horisontale as</entry>
+            <entry>Vertikale as</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id1167576724706">AKTIWITEIT 2</para>
+    <para id="id7939581">Om al die eienskappe van die reguitlyngrafiek te begryp en toe te pas</para>
+    <para id="id1167576037641">[LU 2.5] </para>
+    <para id="id1167576386893">1 In die vorige aktiwiteit het jy vergelykings gebruik om tabelle te maak waarvandaan die grafieke getrek kon word. Dit is egter ook moontlik om ’n grafiek direk vanaf ’n vergelyking te trek sonder die gebruik van ’n tabel. Dit is duidelik uit grafiek 1.6 hierbo dat ons slegs twee punte benodig om ’n reguit lyn deur die twee punte te trek. Dus, ons het nie ’n tabel nodig om die grafiek van ’n reguit lyn te trek nie. </para>
+    <para id="id1167575511311">In hierdie deel gaan ons herhaaldelik terug verwys na die ses grafieke in die vorige oefening.</para>
+    <para id="id3952713">Kom ons ondersoek eerstens die struktuur van die vergelyking:</para>
+    <para id="id6980596">y = mх + c is die standaardvorm van die vergelyking:</para>
+    <para id="id1167573278520">y is aan die linkerkant van die gelyk–teken, en y het geen koëffisiënt nie (dis dieselfde as om te sê dat die koëffisiënt 1 is, maar ons skryf dit nie neer nie). </para>
+    <para id="id1167575824946">Regs van die gelyk–teken kan daar een óf twee terme wees (sien vergelykings 1.5 en 1.6 hierbo). As daar twee terme is, word die term in х eerste geskryf – die х kan enige getal (positief, negatief of ’n breuk) as koëffisiënt neem. </para>
+    <para id="id8832730">In die standaardvorm skryf ons m om vir die koëffisiënt te staan. As die koëffisiënt 1 is, skryf ons dit weer eens nie. </para>
+    <para id="id5403651">Die c staan vir ’n konstante – enige getal wat nie ’n veranderlike is nie – positief, negatief of ’n breuk. </para>
+    <para id="id1167576035422">Die vergelyking y = mх + c is die algemene vergelyking vir alle reguit lyne. Maar y = –3х + 2 is die bepalende vergelyking vir ‘n spesifieke reguit lyn. </para>
+    <para id="id1167574132491">Hoe om vergelykings in die standaardvorm te skryf: Hier is ’n voorbeeld:</para>
+    <para id="id1167576021669">6х + 2y – 1 = 0 Hou die term in y aan die linkerkant; skuif die ander regs.</para>
+    <para id="id1167573187962">2y = –6х + 1 Maak die koeffisiënt van y = 1: deel al die terme deur 2.</para>
+    <para id="id8338793">y = –3х + ½  Dis die standaardvorm.</para>
+    <para id="id1167575873164"> Hier is m = –3 en c = ½.</para>
+    <para id="id5454814">Oefen ’n paar – skryf ook m en c neer, soos hierbo. </para>
+    <para id="id6601544">1.1 2х + y = 3 </para>
+    <para id="id1167574024622">1.2 3y – 9 = 6х </para>
+    <para id="id1167574443164">1.3 3х = 6y </para>
+    <para id="id3656710">1.4 2y – 8 = 0</para>
+    <para id="id8522280">2 Wat beteken die gradiënt?</para>
+    <para id="id4410882">Ons het alreeds verneem dat die steilte van ’n grafiek bereken kan word – dit is baie maklik as die grafiek ’n reguit lyn is. Die lyn is ewe steil oral – ons sê dat die gradiënt van ’n reguit lyn konstant bly. </para>
+    <para id="id1167576324796">Kyk weer na die waardes van m in die ses vorige grafie­ke. </para>
+    <para id="id1167575570626">As jy reg gewerk het, sal jou grafiek opwaarts na regs loop as m positief is, en afwaarts na regs waar m negatief is. </para>
+    <para id="id7220521">Anders gestel, m gee vir ons die gradiënt. (Wat, meen jy, gaan aan by y = 4?) </para>
+    <para id="id3612201">Met ’n positiewe m kry ons die gradiënt vanuit die aantal eenhede wat die lyn styg vir elke één eenheid wat dit regs loop. As m negatief is, kry ons die gradiënt uit die aantal eenhede wat die lyn val vir elke één eenheid wat dit regs loop. </para>
+    <para id="id4178406">
+      <figure id="id1167574073316">
+        <media id="id1167574073316_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 49.png" id="id1167574073316__onlineimage" height="398" width="310"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id8350683">Twee voorbeelde: Ons voltooi twee reghoekige driehoeke langs die lyne in gerieflike posisies op die grafiek, dan kan ons die gradiënt maklik aflees:</para>
+    <para id="id1167575312899">Vir die boonste lyn: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m= -  {  {2}  over  {5} } } {}</m:annotation></m:semantics></m:math>, negatief omdat die lyn na regs val; 2 is die hoogte van die driehoek en 5 is sy lengte.</para>
+    <para id="id5522401">Vir die onderste lyn: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>m</m:mi><m:mtext>=+</m:mtext><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>9</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m"=+" {  {6}  over  {9} } = {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math>, met 6 die hoogte van die driehoek, en 9 sy lengte. Ons laat die + uit, en ons vereenvoudig die breuk.</para>
+    <para id="id4540493">2.1 Gaan nou weer terug na die vorige ses grafieke en herhaal hierdie proses om te bevestig dat die m in die vergelyking ooreenstem met die gradiënt wat jy uit die grafiek self bereken. Let ook op hoe die grootte van m die steilte van die grafiek aandui.</para>
+    <para id="id1167576074238">3 Om te bepaal waar die lyn die y-as sny (ons noem dit die y-afsnit):</para>
+    <para id="id6926267">Let op dat die konstante term (c) in die vergelyking presies sê waar die lyn die y-as sny. </para>
+    <para id="id6986432">Byvoorbeeld, in y = 3х –4, is die y-afsnit by –4 op die y-as. </para>
+    <para id="id3862029">Bevestig dat dit so is vir al ses grafieke.</para>
+    <para id="id7000113">Ons het nou ’n metode om ’n reguit lyn te skets vanuit ’n gegewe vergelyking in die standaardvorm. Ons het nie ’n tabel nodig nie – ons gebruik eenvoudig die y-afsnit (die c), en die gradiënt (die m).</para>
+    <para id="id1167575314101">Merk die y-afsnit op die grafiekpapier. Gebruik nou die gradiënt in die vorm van ’n breuk – as dit ’n heelgetal is, skryf dit met 1 as noemer. Vanaf die y-afsnit, tel net soveel eenhede na regs as die noemer. Van daaraf, tel soveel eenhede as die teller op as m positief is, of af as m negatief is. Hier is twee voorbeelde:</para>
+    <figure id="id1167576583784">
+      <media id="id1167576583784_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 52.png" id="id1167576583784__onlineimage" height="169" width="181"/>
+      </media>
+    </figure>
+    <para id="id1167576073561">(a) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mstyle fontsize="11pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="11pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mfrac><m:mi/><m:mi>x</m:mi><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 11{y```=``` {  { size 11{2}}  over  { size 11{3}} } `x`` - ``2}} {}</m:annotation></m:semantics></m:math></para>
+    <para id="id1167575911486">Die y-afsnit is –2, by die sirkeltjie op die y-as. Die gradiënt is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math>, dus beweeg ons drie eenhede regs van die sirkeltjie, en dan twee eenhede op (nie af nie – die gradiënt is positief). Nog ’n sirkeltjie wys waar ons nou is. Trek nou die reguit lyn deur hierdie twee punte.</para>
+    <para id="id2323090">(b) y = –х + 3</para>
+    <para id="id5664064">Die y-afsnit is 3, by die sirkeltjie. Die gradiënt is –1; verander dit na 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>1</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ -  {  {1}  over  {1} } } {}</m:annotation></m:semantics></m:math>. Ons beweeg een eenheid (noemer) regs en een eenheid af (nie op nie). Ons eindig by ( 1 ; 2 ), by die tweede sirkeltjie. Trek die lyn deur die twee punte.</para>
+    <figure id="id4773018">
+      <media id="id4773018_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-bbf8.png" id="id4773018__onlineimage" height="175" width="195"/>
+      </media>
+    </figure>
+    <para id="id1167573949379">Teken nou die volgende grafieke d.m.v. die y-afsnit / gradiënt-metode soos hierbo.</para>
+    <para id="id8803567">3.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="13pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mn>3x</m:mn></m:mrow></m:mrow><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 13{y```=`` - 3x``+``1}} {}</m:annotation></m:semantics></m:math></para>
+    <para id="id1167576525477">3.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="13pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mstyle fontsize="13pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="13pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mfrac><m:mi>x</m:mi><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mfrac><m:mstyle fontsize="13pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="13pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 13{y```=``` {  { size 13{1}}  over  { size 13{3}} } x``` - ``` {  { size 13{5}}  over  { size 13{2}} } }} {}</m:annotation></m:semantics></m:math></para>
+    <para id="id8065997">3.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="13pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mstyle fontsize="13pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="13pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:mfrac><m:mi>x</m:mi></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 13{y```=``` {  { size 13{ - 3}}  over  { size 13{4}} } x}} {}</m:annotation></m:semantics></m:math></para>
+    <para id="id7392415">3.4 4х – 3y = 5 </para>
+    <para id="id5479882">4 In probleem 3.4 hierbo moes jy eers die vergelyking in die standaardvorm skryf om m en c te verkry om die y-afsnit/gradiënt metode te gebruik. Dis ’n hele klomp ekstra werk. </para>
+    <para id="id8268029">Maar daar is ’n ander manier om die twee punte te verkry. As ons kan uitvind waar die grafiek die х-as sowel as die y-as sny, dan kan ons die lyn deur die twee afsnitte trek!</para>
+    <para id="id8386659">
+      <table id="id1167575392004" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>
+                <emphasis effect="italics">y</emphasis>
+                <emphasis effect="bold">–afsnit</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="italics">x</emphasis>
+                <emphasis effect="bold">–afsnit</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry><emphasis effect="italics">y</emphasis> = 3<emphasis effect="italics">x</emphasis> – 4</entry>
+              <entry>( 0 ; –4 )</entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfenced open="(" close=")">
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mfrac>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>3</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mfrac>
+                              <m:mi/>
+                              <m:mi>;</m:mi>
+                              <m:mi/>
+                              <m:mn>0</m:mn>
+                            </m:mrow>
+                          </m:mfenced>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ left (1 {  { size 8{1} }  over  { size 8{3} } } `;`0 right )} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+            </row>
+            <row>
+              <entry><emphasis effect="italics">y</emphasis> = –4<emphasis effect="italics">x</emphasis> + 3</entry>
+              <entry>( 0 ; 3 )</entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfenced open="(" close=")">
+                            <m:mrow>
+                              <m:mfrac>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>3</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>4</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mfrac>
+                              <m:mi/>
+                              <m:mi>;</m:mi>
+                              <m:mi/>
+                              <m:mn>0</m:mn>
+                            </m:mrow>
+                          </m:mfenced>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ left ( {  { size 8{3} }  over  { size 8{4} } } `;`0 right )} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+            </row>
+            <row>
+              <entry><emphasis effect="italics">y</emphasis> = ½<emphasis effect="italics">x</emphasis> +1</entry>
+              <entry>( 0 ; 1 )</entry>
+              <entry>( –2 ; 0 )</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </para>
+    <para id="id1167573642139"/>
+    <para id="id1167574019970">Terug by die vorige ses grafieke: hier­die tabel gee die х- en y-afsnitte van drie van hulle as koördinaat-pare.</para>
+    <para id="id8414149">Die belangrike punt om na op te let is dat die y–afsnit altyd ’n nul in die х-koördinaat se plek het, en die х-afsnit altyd ’n nul in die y–koördinaat se plek het.</para>
+    <para id="id7358390">Ons kan nou die vergelyking neem, net soos dit is, en die х gelyk stel aan nul. As ons dan vereenvoudig, kry ons die y-afsnit. Stel ons die y in die vergelyking gelyk aan nul, en vereenvoudig, kry ons die х-afsnit. Kom ons kyk hoe dit werk vir die vergelyking 9 – 6х = 3y (definitief nie in die standaardvorm nie):</para>
+    <figure id="id4095710">
+      <media id="id4095710_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 70.png" id="id4095710__onlineimage" height="184" width="176"/>
+      </media>
+    </figure>
+    <para id="id1167575349209">Bereken die y-afsnit:</para>
+    <para id="id4747120">Substitueer 0 vir х: </para>
+    <para id="id1167576686068">9 – 6(0) = 3y 9 – 0 = 3y 9 = 3y 3y = 9 y = 3</para>
+    <para id="id1167575541580">Die y-afsnit in koördinaatvorm is ( 0 ; 3 )</para>
+    <para id="id1167576379789">Stip hierdie punt op die grafiek.</para>
+    <para id="id4084659">Bereken die х-afsnit:</para>
+    <para id="id8124484">Substitueer 0 vir y:  </para>
+    <para id="id4158801">9 – 6х = 3(0) 9 – 6х = 0 9 = 6х 6х = 9 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>9</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x= {  { size 8{9} }  over  { size 8{6} } } = {  { size 8{3} }  over  { size 8{2} } } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id6492763">Die х-afsnit in koördinaatvorm is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac><m:mi/><m:mi>;</m:mi><m:mi/><m:mn>0</m:mn></m:mrow></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  { size 8{3} }  over  { size 8{2} } } `;``0 right )} {}</m:annotation></m:semantics></m:math></para>
+    <para id="id8619422">Stip hierdie punt op die grafiek. Trek nou die reguit lyn deur die twee afsnitte, soos op die skets.</para>
+    <para id="id1167573714144">Dit is ’n baie maklike en gerieflike metode. As jy konsentreer en versigtig werk, sal dinge nie maklik verkeerd loop nie. Oefen die metode op die volgende vergelykings:</para>
+    <para id="id1167576494623">4.1 4y + 3х = 4 </para>
+    <para id="id6512347">4.2 6y + 15 = 2х </para>
+    <para id="id7496639">4.3 3х + 4y = 0</para>
+    <para id="id5203221">4.4 3y + 5 = 4х </para>
+    <para id="id6388837">4.5 2y + 8 = 6х </para>
+    <para id="id3650699">4.6 4y – 2х – 4 = 0</para>
+    <para id="id5354335">Lyk hierdie vergelykings bekend?</para>
+    <para id="id6034097">5 Daar is nog ’n paar spesiale gevalle om na te kyk. Met die vergelyking in die standaardvorm kan ons heelwat aflei omtrent die grafiek.</para>
+    <para id="id3985235">Ons weet reeds dat die standaardvorm van die reguitlyn-grafiek y = mх + c is. As c nul is, word die vergelyking y = mх; as m nul is, word die vergelyking y = c.</para>
+    <figure id="id1167575578744">
+      <media id="id1167575578744_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-b668.png" id="id1167575578744__onlineimage" height="154" width="153"/>
+      </media>
+    </figure>
+    <para id="id1167575874337">y = mх + c, met nóg m nóg c nul, is die vergelyking van die lyne wat nie deur die oorsprong loop nie, en ook nie horisontaal of vertikaal is nie. Daar is party van hulle in die eerste diagram. Om hierdie grafieke te skets is óf die y-afsnit/gradiënt óf die twee–afsnit metode geskik.</para>
+    <figure id="id6868576">
+      <media id="id6868576_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics3-e9e7.png" id="id6868576__onlineimage" height="152" width="164"/>
+      </media>
+    </figure>
+    <para id="id6447648">y = mх (c is nul) is die vergelyking van lyne wat nóg horisontaal nóg vertikaal is, maar wel deur die oorsprong loop – soos te wagte, aangesien c nul is, d.w.s die y-afsnit is nul. In die tweede diagram is vier van hulle. Die y-afsnit/gradiënt metode is die maklikste om hierdie grafieke mee te teken.</para>
+    <para id="id5370760">y = c is die vergelyking van alle horisontale lyne, soos jy vantevore gesien het. Skets hulle deur ’n horisontale lyn deur die y-afsnit (c) te trek.</para>
+    <figure id="id6366505">
+      <media id="id6366505_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics4-a12e.png" id="id6366505__onlineimage" height="161" width="157"/>
+      </media>
+    </figure>
+    <para id="id3474352"/>
+    <para id="id1167575780817">As die vergelyking х = k is, met k ’n konstante, stel dit ’n vertikale lyn voor wat deur k op die х-as loop. Trek sulke lyne deur k op die х-as te merk en dan ’n vertikale lyn deur die punt te trek.In die derde diagram verskyn party van hierdie grafieke.</para>
+    <para id="id1167575780933">Voorsien van al die goeie raad hierbo, behoort jy maklik die vergelykings van hierdie twaalf grafieke te kan bepaal. Indien nie, sal jy hulp kry in die volgende deel.</para>
+    <para id="id7028801">Assessering</para>
+    <table id="id8296732" summary="">
+      <tgroup cols="1">
+        <colspec colnum="1" colname="c1"/>
+        <tbody>
+          <row>
+            <entry>LU 2 </entry>
+          </row>
+          <row>
+            <entry>Patrone, Funksies en AlgebraDie leerder is in staat om patrone en verwantskappe te herken, te beskryf en voor te stel, en probleme op te los deur algebraïese taal en vaardighede te gebruik.</entry>
+          </row>
+          <row>
+            <entry>Dit is duidelik wanneer die leerder:</entry>
+          </row>
+          <row>
+            <entry>2.1 op verskillende maniere ‘n verskeidenheid numeriese en meetkundige patrone en verwantskappe ondersoek deur dit voor te stel en te veralgemeen, en deur die reëls onderliggend daaraan te verduidelik en te bewys (insluitend patrone in natuurlike en kulturele vorms, en patrone wat die leerder self geskep het);</entry>
+          </row>
+          <row>
+            <entry>2.2 voorstellings maak van verwantskappe tussen veranderlikes en dit gebruik sodat invoer– en/of uitvoerwaardes op ‘n verskeidenheid maniere bepaal kan word deur die gebruik van:</entry>
+          </row>
+          <row>
+            <entry>2.2.1 woordelikse beskrywings;2.2.2 vloeidiagramme;2.2.3 tabelle;2.2.4 formules en vergelykings;</entry>
+          </row>
+          <row>
+            <entry>2.3 wiskundige modelle saamstel wat oplossings vir probleemsituasies voorstel, beskryf en voorsien, en verantwoordelikheid toon teenoor die omgewing en die gesondheid van ander (insluitend probleme binne menseregte-, sosiale, ekonomiese, kulturele en omgewingskontekste);</entry>
+          </row>
+          <row>
+            <entry>2.4 vergelykings oplos deur inspeksie, deur ‘n proses van probeer–en–verbeter of algebraïese prosesse (optellings- en vermenigvuldigngsomgekeerdes, asook faktorisering) en die oplossings kontroleer deur vervanging;</entry>
+          </row>
+          <row>
+            <entry>2.5 grafieke op die Cartesiese vlak teken vir gegewe vergelykings (met twee veranderlikes), of die vergelykings of formules bepaal van gegewe grafieke, deur, waar nodig, van tabelle gebruik te maak;</entry>
+          </row>
+          <row>
+            <entry>2.6 die ekwivalensie van verskillende beskrywings van dieselfde verwantskap of reël bepaal, ontleed en interpreteer, wat soos volg voorgestel word:</entry>
+          </row>
+          <row>
+            <entry>2.6.1 woordeliks;2.6.2 in vloeidiagramme;2.6.3 in tabelle;2.6.4 deur vergelykings of uitdrukkings;deur grafieke in die Cartesiese vlak sodat die nuttigste voorstellingvir ‘n gegewe situasie gekies kan word.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id4011325">Memorandum</para>
+    <para id="id1167578499056">Vergelykings en grafieke </para>
+    <para id="id8134066">Uit die eerste oefening met die ses vergelykings volg hierdie belangrike punte: die skuinste van gradiënte (beide positief en negatief) van die lyne; die y-afsnit en die feit dat hierdie waardes maklik afgelei kan word vanuit die standaardvorm van die vergelyking. Die opvoeder kan die leerders lei om af te lei dat slegs twee punte op die lyn nodig is om die grafiek te kan skets.</para>
+    <para id="id8120736">Aangesien hierdie ses grafieke herhaaldelik gebruik word, is dit ‘n goeie plan om seker te maak dat leerders korrekte weergawes het vir toekomstige gebruik.</para>
+    <para id="id1167573903595">Kies bruikbare punte op die grafiek om die reghoekige driehoek op te konstrueer. Ook, hoe groter die driehoek, hoe meer akkuraat die lesing.</para>
+    <para id="id3948429">Grafieke vanuit vergelykings </para>
+    <para id="id1167575820831">1.1 y = –2x + 3; m = –2 en c = 3</para>
+    <para id="id6502615">1.2 y = 2x + 3; m = 2 en c = 3</para>
+    <para id="id5120672">1.3 y = ½x;  m = ½ en c = 0</para>
+    <para id="id4843462">1.4 y = 4;  m = 0 en c = 4</para>
+    <para id="id8491051">In hierdie deel word gradiente van die grafiek afgelees. Dis goed as die leerders intuïtief kan begin verstaan hoe die gradiënt werk. Later bepaal ons dit uit twee punte se koördinate.</para>
+    <para id="id1167574485037">3.1 tot 3.4 Die memorandum word aan opvoeder oorgelaat.</para>
+    <para id="id5731473"/>
+    <para id="id1167573948074">4.1 (0 ; 1) ( 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {3} } } {}</m:annotation></m:semantics></m:math> ; 0) </para>
+    <para id="id2802082">4.2 (0 ; –2½) (7½ ; 0)  </para>
+    <para id="id4041499">4.3 (0 ; 0) (0 ; 0)</para>
+    <para id="id1167576723952">4.4 (0 ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ -  {  {5}  over  {3} } } {}</m:annotation></m:semantics></m:math>) (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {4} } } {}</m:annotation></m:semantics></m:math> ; 0) </para>
+    <para id="id1167574007571">4.5 (0 ; –4) (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {3} } } {}</m:annotation></m:semantics></m:math> ; 0)  </para>
+    <para id="id1167575560025">4.6 (0 ; ½) (–½ ; 0)</para>
+  </content>
+</document>

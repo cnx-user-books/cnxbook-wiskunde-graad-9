@@ -1,0 +1,496 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om betekenisvolle inligting uit data te verkry</title>
+  <metadata>
+  <md:content-id>m31506</md:content-id><md:title>Om betekenisvolle inligting uit data te verkry</md:title>
+  <md:abstract/>
+  <md:uuid>4f94c623-271c-472e-a918-08f6a4f0f26c</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1170968764611">
+      <title>WISKUNDE </title>
+      <para id="para-id1170968764611">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170968299537">
+      <title>Graad 9</title>
+      <para id="para-id1170968299537">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170968299544">
+      <title>GETALPATRONE</title>
+      <para id="para-id1170968299544">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170968757203">
+      <title>GRAFIESE VOORSTELLINGS</title>
+      <para id="para-id1170968757203">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170968905734">
+      <title>VERGELYKINGS</title>
+      <para id="para-id1170968905734">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170968905741">
+      <title>STATISTIEK</title>
+      <para id="para-id1170968905741">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170969691063">
+      <title>WAARSKYNLIKHEIDSLEER</title>
+      <para id="para-id1170969691063">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170969691071">
+      <title>Module 19</title>
+      <para id="para-id1170969691071">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170968689467">
+      <title>OM BETEKENISVOLLE INLIGTING UIT DATA TE KRY</title>
+      <para id="id1170968689473">AKTIWITEIT 1</para>
+      <para id="id1170968851272">Om betenisvolle inligting uit data te verkry</para>
+      <para id="id1170968851276">[LU 5.5]</para>
+      <para id="id1170968851280">Soos jy weet, sien ons grafieke oral: in advertensies, handboeke, tydskrifartikels en in wiskundeklaskamers. Nou bekyk ons verdere grafieke om te sien wat ons kan sê van die statistieke wat hulle verteenwoordig. </para>
+      <para id="id1170968674123">As ons ’n enkele stel waardes het, soos die eetgewoontes van sommige leerders, gebruik ons ’n eenvoudige grafiek soos ’n sektordiagram.</para>
+      <list id="id1170968059134" list-type="bulleted">
+        <item>Daar is egter dikwels ’n <emphasis effect="italics">verband</emphasis> tussen twee stelle waardes. Dit word ’n <emphasis effect="italics">relasie</emphasis> genoem.</item>
+        <item>Hier is ’n paar voorbeelde uit vorige afdelings: aantal gevangenes in sekere jare; hoogte bo seespieël van plekke naby ’n sekere punt; bedrag wat ’n tuinier vra vir ’n sekere tyd gewerk; <emphasis effect="italics">y</emphasis>-waardes verkry van <emphasis effect="italics">х</emphasis><emphasis effect="italics">-</emphasis>waardes volgens ’n gegewe formule; ensovoorts.</item>
+      </list>
+      <para id="id1170968634300">In hierdie gevalle is daar gewoonlik ’n horisontale as en ’n vertikale as. Ons kyk net weer na die belangrike woorde:</para>
+      <table id="id1170968634308" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Vergelyking:</entry>
+              <entry>х</entry>
+              <entry>y</entry>
+            </row>
+            <row>
+              <entry>Vergelyking:</entry>
+              <entry>Onafhanklike veranderlike</entry>
+              <entry>Afhanklike veranderlike</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">Vloei</emphasis>
+                <emphasis effect="italics">diagram:</emphasis>
+              </entry>
+              <entry>Invoerwaarde</entry>
+              <entry>Uitvoerwaarde</entry>
+            </row>
+            <row>
+              <entry>Tabel:</entry>
+              <entry>Boonste ry</entry>
+              <entry>Tweede ry</entry>
+            </row>
+            <row>
+              <entry>Koördinate:</entry>
+              <entry>Eerste koördinaat</entry>
+              <entry>Tweede koördinaat</entry>
+            </row>
+            <row>
+              <entry>Grafiek:</entry>
+              <entry><emphasis effect="italics">х</emphasis>-as</entry>
+              <entry><emphasis effect="italics">y</emphasis>-as</entry>
+            </row>
+            <row>
+              <entry>Grafiek:</entry>
+              <entry>Horisontale as</entry>
+              <entry>Vertikale as</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170969691593">1 James en Gabriel is ewe oud – hulle is vriende wat vir die eerste keer saam begin werk in Januarie 2000. Albei kan maklik per bus werk toe ry. Albei het ook genoeg geld, wat hulle met vakansiewerk verdien het, om die deposito op ’n nuwe motor te dek.</para>
+      <list id="id1170968068898" list-type="bulleted">
+        <item>James wil ’n nuwe motor hê en nou dat hy ’n inkomste het, reël hy huurkoop­finan­siering daarvoor. Hy het genoeg geld vir die deposito en kan net-net die maande­likse paaiemente bekostig. Ná vier jaar vervang hy die motor met ’n nuwe een – ’n nuwer model. Hy koop dit weer op huurkoop en betaal die deposito uit die verkoop van die ou motor en betaal die paaiemente gereeld. Begin 2008 doen hy dit weer; elke vier jaar vervang hy sy motor met ’n nuwe.</item>
+        <item>Gabriel doen dit anders. In plaas daarvan om onmiddellik ’n nuwe motor te koop, sit hy die geld wat hy vir die deposito sou gebruik het in ’n spaarrekening en spaar genoeg ekstra per maand sodat hy kontant kan betaal vir ’n nuwe motor na vier jaar. In 2004 koop hy net so ’n motor soos sy vriend James. Onmiddellik begin hy weer spaar met maandelikse bedrae net groot genoeg vir dieselfde motor wat James in 2008 wil koop. In 2008 verkoop hy sy ou motor toe hy die nuwe een kry en hy belê die geld weer om te begin spaar vir die volgende motor. Hy vervang dus ook elke vier jaar sy motor met ’n nuwe.</item>
+      </list>
+      <list id="id1170968809787" list-type="bulleted">
+        <item>Die twee bestuur dus vanaf 2004 presies dieselfde motors!</item>
+      </list>
+      <para id="id1170968791021">Die grafiek en tabel gee die besonderhede van hul uitgawes.</para>
+      <para id="id1170968791025">
+        <figure id="id1170968791030">
+          <media id="id1170968791030_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 19.png" id="id1170968791030__onlineimage" height="313" width="641"/>
+          </media>
+        </figure>
+      </para>
+      <table id="id1170968384214" summary="">
+        <tgroup cols="15">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <tbody>
+            <row>
+              <entry>Jaar</entry>
+              <entry>2000</entry>
+              <entry>2001</entry>
+              <entry>2002</entry>
+              <entry>2003</entry>
+              <entry>2004</entry>
+              <entry>2005</entry>
+              <entry>2006</entry>
+              <entry>2007</entry>
+              <entry>2008</entry>
+              <entry>2009</entry>
+              <entry>2010</entry>
+              <entry>2011</entry>
+              <entry>2012</entry>
+              <entry>2013</entry>
+            </row>
+            <row>
+              <entry>James</entry>
+              <entry>28 304</entry>
+              <entry>21 228</entry>
+              <entry>21 228</entry>
+              <entry>21 228</entry>
+              <entry>33 965</entry>
+              <entry>25 474</entry>
+              <entry>25 474</entry>
+              <entry>25 474</entry>
+              <entry>40 758</entry>
+              <entry>30 568</entry>
+              <entry>30 568</entry>
+              <entry>30 568</entry>
+              <entry>48 909</entry>
+              <entry>36 682</entry>
+            </row>
+            <row>
+              <entry>Gabriel</entry>
+              <entry>22 436</entry>
+              <entry>15 360</entry>
+              <entry>15 360</entry>
+              <entry>15 360</entry>
+              <entry>21 000</entry>
+              <entry>21 000</entry>
+              <entry>21 000</entry>
+              <entry>21 000</entry>
+              <entry>32 317</entry>
+              <entry>22 128</entry>
+              <entry>22 128</entry>
+              <entry>22 128</entry>
+              <entry>38 807</entry>
+              <entry>26 580</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170968076969">1.1 Die horisontale as van die grafiek gee die jare aan. Die stawe toon die geld wat James elke jaar aan paaiemente bestee en wat Gabriel elke jaar spaar. Die ligte staaf is telkens hoër as die donker staaf in dieselfde jaar. Is die ligte staaf vir James of Gabriel?</para>
+      <para id="id1170968083205">1.2 Hoe sou jy sê: Is Gabriel of James die slimste?</para>
+      <para id="id1170968083212">1.3 As die vriende beide dieselfde salaris verdien en dieselfde verhogings kry, wie het die meeste geld elke maand oor om op ander noodsaaklikhede of plesiertjies uit te gee?</para>
+      <para id="id1170968408331">1.4 Gebruik die waardes in die tabel en bereken hoeveel elke jong man in totaal uitgegee het aan die aankoop van motors gedurende die hele tydperk van 2000 tot 2013.</para>
+      <para id="id1170969690386">1.5 As jy begin werk en jou pa bied jou sy ou motor (wat nog steeds lekker loop) aan as ’n geskenk, sou jy dit aanvaar en begin spaar vir ’n nuwe motor soos Gabriel, of sou jy dit bedank en dadelik ’n nuwe motor op huurkoop koop soos James? Verduidelik jou antwoord.</para>
+      <para id="id1170968590832">1.6 Gaan gesels met ’n verkoopsman wat nuwe motors verkoop en vra hom om presies te verduidelik waaraan jy moet voldoen voordat jy ’n huurkoopooreenkoms kan aangaan. Vra ook oor versekering, wie die motor besit, en wat gebeur as jy nie kan voortgaan met die paaiemente nie. </para>
+      <para id="id1170968215622">2 Reguitlyngrafieke met positiewe gradiënte toon ’n <emphasis effect="italics">direkte</emphasis> verband tussen twee veranderlikes. Sommige grafieke toon ’n <emphasis effect="italics">omgekeerde</emphasis> verband tussen twee veranderlikes. Ons bekyk twee situasies waar hierdie soort verband voorkom.</para>
+      <para id="id1170968891370">2.1 Eerstens ’n geval wat ons weer sal teëkom in die deel oor waarskynlikheidsleer:</para>
+      <list id="id1170968891378" list-type="bulleted">
+        <item>Iemand gooi <emphasis effect="bold">een</emphasis> gewone dobbelsteentjie en jy raai <emphasis effect="bold">een</emphasis> getal tussen 1 en 6. Jy het 1 kans uit 6 dat jy reg sal wees.</item>
+        <item>As <emphasis effect="bold">twee</emphasis> steentjies gegooi word en jy raai <emphasis effect="bold">een</emphasis> getal, dan het jy 6 kanse uit 21 dat jy reg sal wees. As jy <emphasis effect="bold">twee</emphasis> getalle raai, is jou kanse 1 uit 21 om beide getalle reg te raai.</item>
+        <item>Met drie steentjies: Raai jy <emphasis effect="bold">een</emphasis> getal, is jou kanse 21 uit 56; <emphasis effect="bold">twee</emphasis> getalle gee ’n kans van 6 uit 56, en <emphasis effect="bold">drie</emphasis> getalle gee 1 kans uit 56.</item>
+      </list>
+      <para id="id1170968733989">Hier is die puntediagram vir die drie-steentjie spel, en een vir vier steentjies.</para>
+      <list id="id1170968218576" list-type="bulleted">
+        <item>Stel nou voor daar loop ’n kromme deur die punte in elke grafiek (ons kan nie werklik die punte verbind nie – hoekom nie?), dan het daardie lyn ongeveer dieselfde vorm in beide. ’n Kromme met hierdie vorm illustreer ’n omgekeerde verband tussen die twee veranderlikes. <figure id="id1170969691447"><media id="id1170969691447_media" alt=""><image mime-type="image/png" src="../../media/Picture 20-2ee5.png" id="id1170969691447__onlineimage" height="296" width="634"/></media></figure></item>
+      </list>
+      <para id="id1170968312408">2.2 Nog ’n praktiese voorbeeld van hierdie verband:</para>
+      <list id="id1170968681970" list-type="bulleted">
+        <item>Sindiswa en Alan wil ’n sokkie reël om fondse in te samel vir ’n VIGS-liefdadig­heidsorganisasie in hul omgewing. Hulle hoef nie vir die musiek te be­taal nie, maar hulle moet ’n saal huur. Daar is vier sale beskikbaar: Saal <emphasis effect="bold">A</emphasis> kos R1 000 vir 200 mense; <emphasis effect="bold">B</emphasis> kos R1 400 vir 350 mense; <emphasis effect="bold">C</emphasis> kos R1  800 vir 600 en <emphasis effect="bold">D</emphasis> kos R2 100 vir 500. <figure id="id1170968075027"><media id="id1170968075027_media" alt=""><image mime-type="image/png" src="../../media/Picture 21-ad68.png" id="id1170968075027__onlineimage" height="282" width="425"/></media></figure></item>
+      </list>
+      <para id="id1170968633402">Hier is ’n grafiek wat die kostes van die verskillende sale vergelyk. Afhangende daarvan hoeveel mense die sokkie bywoon (op die horisontale as), toon die vertikale as die koste per persoon. Hulle wil ten minste R4 000 vir die liefdadigheid insamel, maar sou verkies dat dit R5 000 moet wees.</para>
+      <para id="id1170968303329">a) Kan jy uitwerk watter lyn na watter saal verwys? As jy die aantal mense wat in die saal kan pas in ag neem, is dit maklik!</para>
+      <para id="id1170968628827">b) Gebruik nou al hierdie inligting en die grafieke en besluit watter saal die beste keuse sou wees. Almal hoef nie noodwendig dieselfde antwoord te kry nie, maar jy moet jou antwoord met goeie argumente staaf.</para>
+      <para id="id1170968848428">3 Hier is die tabel met toetspunte weer:</para>
+      <para id="id1170968848435"/>
+      <table id="id1170968848439" summary="">
+        <tgroup cols="21">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <colspec colnum="17" colname="c17"/>
+          <colspec colnum="18" colname="c18"/>
+          <colspec colnum="19" colname="c19"/>
+          <colspec colnum="20" colname="c20"/>
+          <colspec colnum="21" colname="c21"/>
+          <tbody>
+            <row>
+              <entry>Groep <emphasis effect="bold">A</emphasis></entry>
+              <entry>82</entry>
+              <entry>78</entry>
+              <entry>57</entry>
+              <entry>91</entry>
+              <entry>29</entry>
+              <entry>80</entry>
+              <entry>85</entry>
+              <entry>49</entry>
+              <entry>82</entry>
+              <entry>67</entry>
+              <entry>99</entry>
+              <entry>68</entry>
+              <entry>83</entry>
+              <entry>12</entry>
+              <entry>87</entry>
+              <entry>86</entry>
+              <entry>38</entry>
+              <entry>81</entry>
+              <entry>58</entry>
+              <entry>79</entry>
+            </row>
+            <row>
+              <entry>Groep <emphasis effect="bold">B</emphasis></entry>
+              <entry>72</entry>
+              <entry>82</entry>
+              <entry>74</entry>
+              <entry>84</entry>
+              <entry>81</entry>
+              <entry>84</entry>
+              <entry>76</entry>
+              <entry>12</entry>
+              <entry>2</entry>
+              <entry>71</entry>
+              <entry>70</entry>
+              <entry>93</entry>
+              <entry>13</entry>
+              <entry>90</entry>
+              <entry>80</entry>
+              <entry>73</entry>
+              <entry>91</entry>
+              <entry>70</entry>
+              <entry>99</entry>
+              <entry>88</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <figure id="id1170968109015">
+        <media id="id1170968109015_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 22-5ba7.png" id="id1170968109015__onlineimage" height="264" width="323"/>
+        </media>
+      </figure>
+      <para id="id1170969686137">Hieruit maak ons ’n tak-en-blaar grafiek met Groep A links en Groep B regs. In elke waarde word die tiene van die ene geskei. Die tak word deur die tiene gevorm, in die middel af. Elkeen van die ene kom nou langs die gepaste tiensyfer (links of regs volgens die groep). </para>
+      <para id="id1170968715229">Bestudeer die grafiek saam met die tabel tot jy presies sien waar elke waarde uit die tabel lê.</para>
+      <list id="id1170968715235" list-type="bulleted">
+        <item>Hierdie waardes het jy in ’n vorige oefening gebruik om te probeer om die verskille tussen die groepe uit te wys. Hierdie tak-en-blaar diagram wys ons verskille wat nóg uit die tabel, nóg uit die berekeninge duidelik was. Byvoorbeeld, Groep A bevat leerders in elke simboolklas, maar groep B bevat drie leerders met baie swak punte terwyl die res baie goeie punte het.</item>
+      </list>
+      <para id="id1170968337918">
+        <figure id="id1170968754720">
+          <media id="id1170968754720_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 23-a2b2.png" id="id1170968754720__onlineimage" height="270" width="306"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1170968893921">Regs is dieselfde gegewens in twee hori­sontale staafdiagramme; een links en die ander regs.</para>
+      <para id="id1170968337024">Dis ’n baie algemene en handige manier om data oor twee groepe wat jy wil verge­lyk, te vertoon. Vind uit oor demografiese grafieke van jou aardrykskunde-opvoeder. Hierdie soort grafiek word gebruik vir demografiese piramides. Hulle toon dikwels die ouderdomme van die bevolking van ’n land, met vrouens aan die een kant en mans aan die ander. Kyk of jy so ’n grafiek kan opspoor.</para>
+      <para id="id1170968561951">AKTIWITEIT 2</para>
+      <para id="id1170968561954">Om nie om die bos gelei te word deur swak ingesamelde gegewens of slegte grafieke nie.</para>
+      <para id="id1170968708069">[LU 5.5]</para>
+      <para id="id1170968708073">Statistiese gegewens kan ons soveel vertel, en grafieke maak statistieke so eenvoudig om te begryp, dat dit maklik is om verkeerde afleidings uit statistieke te maak, of te dink dat iets waar is bloot omdat die grafiek dit so laat voorkom.</para>
+      <para id="id1170968708079">Statistici doen waardevolle werk – ons benodig inligting, en ons benodig betroubare inligting.</para>
+      <para id="id1170968755431">1 Eerstens kan sake verkeerd loop as ons inligting verkeerd insamel. Dink weer aan die oefening oor die TV-nuus. As jy jou vrae by vulstasies vra, dan kry jy net mense wat ’n motor besit (of ten minste een bestuur). Dit beteken dat mense wat nie bestuur nie, deur jou opname geïgnoreer word. Dalk sou hulle antwoorde jou gevolgtrekking verander het. Ons kan nie sê nie – ons kan dit slegs uitvind deur ’n eksperiment te ontwerp wat niemand per abuis uitsluit nie. </para>
+      <para id="id1170968589135">2. Die belangrike punt is dat die steekproef (die mense wat jy vra) die algemene bevolking waaroor jy iets wil weet, moet <emphasis effect="italics">verteenwoordig</emphasis>. Daar is vele maniere om te verseker dat die steekproef verteenwoordigend is. Byvoorbeeld, as daar 1 200 leerders in julle skool is en jy wil weet hoeveel van hulle na kwaito luister, sou jy 30 kon vra en die antwoord met 40 vermenigvuldig om ’n idee te vorm. Maar dit sou nie veel help as al 30 dieselfde ouderdom is nie, of dieselfde rassegroep nie, of dieselfde geslag nie. Vra liewer die skoolsekretaris om jou ’n alfabetiese lys van die leerders te wys. Jy kan elke veertigste naam kies en neerskryf. Nou het jy 30 name – vra <emphasis effect="italics">hulle</emphasis> en vermenigvuldig met 40.</para>
+      <para id="id1170968053115">3 Wat is die vraag? As jy by elke huis aanklop en mense vra of hulle hul tande in die oggend geborsel het, sou jy ongetwyfeld vind dat die meeste mense ja sê! Die meeste mense weet dat dit nie sosiaal aanvaarbaar is om nie tande te borsel nie. Hulle wil nie hê dat jy moet dink dat hulle nie van beter weet nie – en dus sê hulle ja. </para>
+      <list id="id1170968893128" list-type="bulleted">
+        <item>Dus is die tweede probleem dat mense leuens vertel. Maar hulle hoef nie bewus­telik leuens te vertel om die gegewens onbruikbaar te maak nie. Sê nou jy stuur ’n brief aan elkeen wat 10 jaar gelede by jou skool gematrikuleer het. Jy vra hulle om jou te laat weet wat hulle huidige salaris is. Jy sal dalk ’n antwoord van slegs ’n kwart van hulle kry. Maar, as jy die rekenkundige gemiddelde van hierdie kwart uitwerk, is dit goed genoeg? Dink weer. Eerstens het die skool nie almal se adres gehad nie – jy moes party uitlaat. Sou die skool meer waarskynlik die adresse gehad het van die bekende ouens met stabiele werk en ’n vaste adres, of diegene wat rondval en klein werkies doen? En wat van die driekwart wat jou brief weggegooi het – dalk het hulle niks om oor te spog nie. Die mense wat geantwoord het, is waarskynlik heeltemal tevrede om jou te sê wat hulle verdien. Dalk het party selfs iets aangelas. Dis duidelik dat die gemiddelde wat jy hieruit bereken besonder onbetroubaar sou wees.</item>
+      </list>
+      <para id="id1170968808860">4 Middelwaarde-probleme</para>
+      <list id="id1170968699057" list-type="bulleted">
+        <item>Jy weet reeds dat die drie middelwaardes die mediaan, die modus en die rekenkun­dige gemiddelde is. Veronderstel jy soek werk en jy ondersoek die salarisse wat twee werkgewers betaal. Hier volg ’n tabel van die salarisse van werknemers van twee ondernemings. Hulle sê die gemiddelde salaris is R14 000. Beteken dit dat dit nie saak maak watter een jy kies nie? Nee. Wat beteken “gemiddelde” – rekenkundige gemiddelde, modus of mediaan? Werk dit uit en jy kom agter R14 000 is die rekenkundige gemiddelde, maar die mediane is R14 000 en R5 500 onderskeidelik. Watter een kies jy nou? Onthou die mediaan sê dat die helfte van die mense ónder, en die ander helfte van die mense bó daardie waarde val. </item>
+      </list>
+      <table id="id1170968439344" summary="">
+        <tgroup cols="11">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <tbody>
+            <row>
+              <entry>A</entry>
+              <entry>10 000</entry>
+              <entry>10 000</entry>
+              <entry>12 000</entry>
+              <entry>12 000</entry>
+              <entry>14 000</entry>
+              <entry>14 000</entry>
+              <entry>16 000</entry>
+              <entry>16 000</entry>
+              <entry>18 000</entry>
+              <entry>18 000</entry>
+            </row>
+            <row>
+              <entry>B</entry>
+              <entry>1 000</entry>
+              <entry>2 000</entry>
+              <entry>3 000</entry>
+              <entry>4 000</entry>
+              <entry>5 000</entry>
+              <entry>6 000</entry>
+              <entry>7 000</entry>
+              <entry>8 000</entry>
+              <entry>9 000</entry>
+              <entry>95 000</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1170968077834" list-type="bulleted">
+        <item>Hieruit leer ons dat ons eers moet uitvind watter middelwaarde bedoel word voordat ons kan besluit.<figure id="id1170968293469"><media id="id1170968293469_media" alt=""><image mime-type="image/png" src="../../media/graphics1-1f8e.png" id="id1170968293469__onlineimage" height="272" width="316"/></media></figure></item>
+      </list>
+      <para id="id1170968846122">5 Mislei deur grafieke.</para>
+      <para id="id1170969688541">Hier’s drie grafieke – bekyk die eerste.</para>
+      <para id="id1170969688546">Die grafiek wys hoe ’n sekere maat­skappy se uitvoere binne ’n jaar ge­styg het van ongeveer R16 miljoen na ongeveer R19 miljoen – die maande is op die х-as en die bedrag in miljoene op die y-as.</para>
+      <para id="id1170968715141">Daar is nie leuens in die grafiek nie – die y–as begin by nul, en die lyn wys ’n matige opwaartse neiging in uitvoerbedrae.</para>
+      <para id="id1170968715148">Dis maklik om te lees en te verstaan.</para>
+      <figure id="id1170968567346">
+        <media id="id1170968567346_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-65c0.png" id="id1170968567346__onlineimage" height="97" width="300"/>
+        </media>
+      </figure>
+      <para id="id1170968759945"><figure id="id1170968759948"><media id="id1170968759948_media" alt=""><image mime-type="image/wmf" src="graphics3.wmf" id="id1170968759948__onlineimage" height="16" width="6"/></media></figure>Die direkteure van die maatskappy is egter nie tevrede nie. Hulle wil hê meer mense moet in die maatskappy belê. Om dit aan te moedig, besluit hulle om al daardie wit papier bo en onder die grafiek te verwyder deur die y-as waardes te verander. </para>
+      <para id="id1170968209585">Hierdie grafiek is steeds eerlik, maar dit mislei ons op die y-as. Dit lyk na ’n dramatiese toename in uitvoere – beginnende by amper niks.</para>
+      <para id="id1170968823108">Ons kan heelwat meer doen deur die gra­fiek ’n bietjie te rek – dalk sal moontlike beleggers hierdeur beïndruk word.</para>
+      <figure id="id1170968633850">
+        <media id="id1170968633850_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-3a34.png" id="id1170968633850__onlineimage" height="253" width="284"/>
+        </media>
+      </figure>
+      <para id="id1170968865580"/>
+      <para id="id1170968865584">Hier het ons nou uiteindelik ’n heelwat meer indrukwekkende grafiek.</para>
+      <para id="id1170968865589">Kyk hoe steil is die grafiek – hierdie maatskappy groei darem lekker!</para>
+      <para id="id1170968692575">Dit is belangrik om te bevestig dat al die waardes wat ’n grafiek verstaanbaar maak, gegee word. Partykeer is daar nie waardes langs die asse nie – nutteloos as ’n mens inligting soek. Moenie veel waar­de heg aan ’n grafiek wat nie die hele ver­haal vertel nie – iemand probeer jou dalk ’n rat voor die oë draai.</para>
+      <para id="id1170968416752">Oefening.</para>
+      <para id="id1170968416756">6 Bestudeer soveel moontlik grafieke en kyk of almal waar en betroubare inligting weergee. As jy grafieke kry wat jou laat twyfel, bring hulle skool toe om met ander leerders te bespreek. ’n Versameling swak grafieke op die wiskunde-kennisgewing­bord sal ons almal waarsku om nie liggelowig te wees nie.</para>
+      <para id="id1170968347136">7 Beoordeel die volgende bewerings om te sien of die spreker jou dalk probeer om die bos lei. Neem aan dat die syfers wat genoem word, aanvaarbaar is. Skryf neer as jy dink jy benodig meer inligting voordat jy kan oordeel. Kyk ook of daar foute in die logika van die bewerings voorkom.</para>
+      <para id="id1170968067432">7.1 Nuwe Spoedskoon vernietig 85% bakterieë.</para>
+      <para id="id1170968101348">7.2 Omdat amper die helfte van alle motorongelukke oor naweke plaasvind, beteken dit dat mense wat oor die naweek bestuur, swakker bestuurders is as die res.</para>
+      <para id="id1170968656876">7.3 Verlede jaar het meer mense in vliegtuigongelukke gesterf as tien jaar gelede. Dus word lugvervoer gevaarliker.</para>
+      <para id="id1170968656884">7.4 In ’n reisbrosjure staan daar dat ’n sekere plek geskik is vir mense wat nie van warm weer hou nie omdat “die gemiddelde temperatuur 22 °C is”.</para>
+      <para id="id1170968700266">8 Hier volg ’n pragtige, beroemde grafiek. Dit lyk nie veel soos ons grafieke nie – dit is inderwaarheid meer ’n kaart as ’n grafiek. Dit stel egter inligting grafies voor, en dis wat van belang is. </para>
+      <figure id="id1170968433173">
+        <media id="id1170968433173_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics5-36a1.png" id="id1170968433173__onlineimage" height="432" width="455"/>
+        </media>
+      </figure>
+      <para id="id1170968676916"/>
+      <list id="id1170968676920" list-type="bulleted">
+        <item>John Snow was ’n mediese praktisyn in die sentrale deel van Londen in Engeland in die 1850’s. Daar breek toe ’n cholera-epidemie uit. (Cholera is ’n baie ernstige siekte wat dikwels deur besmette water oorgedra word.) Op ’n kaart van die omgewing het Snow die openbare waterkrane (waar die meeste mense hulle water gekry het) met kruisies gemerk. Die huise met cholera-gevalle het hy met kolletjies gemerk. Hy sien toe dat die cholera-gevalle naaste aan die Broadstraat waterkraan voorkom. Hy het die kraan se handvatsel laat verwyder, en sodoende die epidemie, waarin meer as 500 mense dood is, beëindig. Langs die woord <emphasis effect="italics">Broad</emphasis> sien jy die kruisie vir die waterkraan. As jou oë oopgegaan het vir die waarde van grafieke, sal jy ’n mooi boek van Edward R. Tufte, <emphasis effect="italics">The Visual</emphasis><emphasis effect="italics">Display of Quantitative Information</emphasis> sekerlik waardeer. Jy sal waarskynlik ’n simpatieke bibliotekaris of ’n universiteitsbiblioteek moet vra.</item>
+      </list>
+      <para id="id1170968886176">Bronne: </para>
+      <para id="id1170968886180"><emphasis effect="italics">Mathematics Teacher</emphasis>, Desember 1987</para>
+      <para id="id1170968683772"><emphasis effect="italics">How to Lie with Statistics</emphasis>, Darrell Huff, Penguin Books, 1976</para>
+      <para id="id1170968701010"><emphasis effect="italics">Getal en Ruimte, 5/6 V–A1</emphasis>, J H Dijkhuis et al. Educaboek (Nederland), 1985</para>
+    </section>
+    <section id="id1170968701019">
+      <title>Assessering</title>
+      <table id="id1170968233113" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LU 5 </entry>
+            </row>
+            <row>
+              <entry>DatahanteringDie leerder is in staat om data te versamel, op te som, voor te stel en krities te ontleed om gevolgtrekkings en voorspellings te maak en om toevallige variasie te interpreteer en te bepaal.</entry>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry>5.1 vrae stel oor menseregte-, sosiale, politieke, omgewings– en ekonomiese sake in Suid–Afrika;</entry>
+            </row>
+            <row>
+              <entry>5.2 geskikte metodes kies, staaf en gebruik vir die versameling van data(alleen en/of as lid van ‘n groep of span), insluitend vraelyste, onderhoude, eksperimente en bronne soos boeke, tydskrifte en die Internet, om vrae te beantwoord en gevolgtrekkings en voorspellings oor die omgewing te maak;</entry>
+            </row>
+            <row>
+              <entry>5.3 numeriese data op verskillende maniere organiseer ten einde ‘n opsomming te maak deur die volgende vas te stel:</entry>
+            </row>
+            <row>
+              <entry>5.3.1 bepalers van sentrale neiging;</entry>
+            </row>
+            <row>
+              <entry>5.3.2 bepalers van verspreiding;</entry>
+            </row>
+            <row>
+              <entry>5.4 ‘n verskeidenheid grafieke met die hand of met behulp van tegnologie teken om data voor te stel en te interpreteer, insluitend:</entry>
+            </row>
+            <row>
+              <entry>5.4.1 staafgrafieke en dubbele staafgrafieke;</entry>
+            </row>
+            <row>
+              <entry>5.4.2 histogramme met gegewe en eie intervalle;</entry>
+            </row>
+            <row>
+              <entry>5.4.3 sirkeldiagramme;</entry>
+            </row>
+            <row>
+              <entry>5.4.4 lyn– en gebroke lyngrafieke;</entry>
+            </row>
+            <row>
+              <entry>5.4.5 verspreidingsgrafieke;</entry>
+            </row>
+            <row>
+              <entry>5.5 data krities lees en interpreteer, met ‘n bewustheid dat fout- en manipulasiebronne kan bestaan, om gevolgtrekkings en voorspellings oor die volgende te maak:</entry>
+            </row>
+            <row>
+              <entry>5.5.1 sosiale, omgewing– en politieke sake (bv. misdaad, staatsbesteding, bewaring, MIV/VIGS); </entry>
+            </row>
+            <row>
+              <entry>5.5.2 eienskappe van teikengroepe (bv. ouderdom, geslag, ras, sosio–ekonomiese groep);</entry>
+            </row>
+            <row>
+              <entry>5.5.3 houdings of menings van mense t.o.v. sekere sake (bv. rook, toerisme, sport); </entry>
+            </row>
+            <row>
+              <entry>5.5.4 enige ander menseregte– en inklusiwiteitsake.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </content>
+</document>

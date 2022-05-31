@@ -1,0 +1,261 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Gelykvormigheid</title>
+  <metadata>
+  <md:content-id>m31394</md:content-id><md:title>Gelykvormigheid</md:title>
+  <md:abstract/>
+  <md:uuid>ba2a7222-0bc9-413b-967e-72be37fa06a6</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1165632654218">
+      <title>WISKUNDE</title>
+      <para id="para-id1165632654218">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165624050949">
+      <title>Graad 9</title>
+      <para id="para-id1165624050949">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165623971578">
+      <title>ALGEBRA EN MEETKUNDE</title>
+      <para id="para-id1165623971578">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165626901638">
+      <title>Module 10</title>
+      <para id="para-id1165626901638">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165622167956">
+      <title>GELYKVORMIGHEID</title>
+      <para id="id6935779">AKTIWITEIT 1: </para>
+      <para id="id1649971">Om prakties die voorwaardes van gelykvormigheid te ondersoek</para>
+      <para id="id4156327">1. Die vyfhoeke ABDEF en LCMRK word gegee (A-6). LCMRK is ‘n vergroting van ABDEF. Wat is die skaalfaktor waarmee ABDEF vergroot is om LCMRK te gee?</para>
+      <para id="id1165623453851">2. Skryf die verhoudings tussen die ooreenstemmende pare sye van ABDEF en LCMRK neer.</para>
+      <para id="id1165621800038">3.  Skryf die verwantskap tussen die ooreenstemmende pare hoeke van die twee figure neer.</para>
+      <para id="id1658137">4. Hierdie twee figure is nie kongruent nie. Wat noem ons hulle?</para>
+      <para id="id1165622985058">5. Noem soveel moontlik voorbeelde in die alledaagse lewe van hierdie verskynsel.</para>
+      <para id="id8658833">Gelykvormige figure.</para>
+      <para id="id1165626572177">Die vyfhoeke in die aktiwiteit hierbo is gelykvormig. Hulle het dieselfde vorm, maar is nie ewe groot nie. </para>
+      <para id="id1165620627123">Hulle ooreenstemmende hoeke het dieselfde grootte. </para>
+      <para id="id1165623957285">Hulle ooreenstemmende sye is in dieselfde verhouding.</para>
+      <para id="id1165622152846">Dus is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>LK</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>AF</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>KR</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>FE</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>MR</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>DE</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CM</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>BD</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CL</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>BA</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>1</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "LK"}  over  { ital "AF"} } = {  { ital "KR"}  over  { ital "FE"} } = {  { ital "MR"}  over  { ital "DE"} } = {  { ital "CM"}  over  { ital "BD"} } = {  { ital "CL"}  over  { ital "BA"} } = {  {3}  over  {1} } } {}</m:annotation></m:semantics></m:math> Hierdie konstante verhouding is ook die skaalfaktor van die vergroting.</para>
+      <para id="id6990713">Ons sê dat ABDEF  LCMRK. Let daarop dat die volgorde van die letters in dieselfde volgorde van die hoeke wat gelyk is en die sye wat in verhouding is, geskryf word. (Die simbool vir gelykvormigheid is ).</para>
+      <para id="id1165622097013">Huiswerkopdrag</para>
+      <para id="id1165622090275">1. Meet die lengtes van die sye en die groottes van die hoeke in die volgende figure (A-7) en besluit of hulle gelykvormig is of nie. As die twee figure nie gelykvormig is nie, gee die rede hoekom hulle nie gelykvormig is nie.</para>
+      <para id="id1979296">2. As twee vierhoeke se <emphasis effect="bold">ooreenstemmende hoeke gelyk</emphasis> is, is hulle <emphasis effect="bold">noodwendig</emphasis> ook <emphasis effect="bold">gelykvormig</emphasis>?</para>
+      <para id="id1165629604293">3. As twee vierhoeke se <emphasis effect="bold">sye in dieselfde verhouding</emphasis> is, is hulle <emphasis effect="bold">noodwendig</emphasis> ook <emphasis effect="bold">gelykvormig</emphasis>?</para>
+      <para id="id1165623436449">In bostaande huiswerkopdrag het jy gesien dat, vir vierhoeke om gelykvormig te wees, aan albei voorwaardes van gelykvormigheid voldoen moet word, met ander woorde, die ooreenstemmende hoeke moet gelyk wees en die ooreenstemmende sye moet in dieselfde verhouding wees. Geld dieselfde ook vir driehoeke?</para>
+      <para id="id3987836">AKTIWITEIT 2:</para>
+      <para id="id1165632565888">Om prakties die voorwaardes van gelykvormigheid by driehoeke te ondersoek</para>
+      <para id="id1165623394534">[LU 3.5]</para>
+      <para id="id1165625786560">1.1 </para>
+      <figure id="id1631629">
+        <media id="id1631629_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 9-22a5.png" id="id1631629__onlineimage" height="222" width="513"/>
+        </media>
+      </figure>
+      <para id="id1165629311598">Konstrueer ΔABC en ΔDEF. Bereken die grootte van A en E.</para>
+      <para id="id1165625966017">1.2 Is die ooreenstemmende hoeke van die twee driehoeke gelyk?</para>
+      <para id="id2675966">1.3 Voltooi die volgende:</para>
+      <para id="id1165623110660"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>AB</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ED</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "AB"}  over  { ital "ED"} } ={}} {}</m:annotation></m:semantics></m:math>....................</para>
+      <para id="id1165621800139"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>BC</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>DF</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "BC"}  over  { ital "DF"} } ={}} {}</m:annotation></m:semantics></m:math>....................</para>
+      <para id="id8433635"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>AC</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>EF</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "AC"}  over  { ital "EF"} } ={}} {}</m:annotation></m:semantics></m:math>....................</para>
+      <para id="id1165622126743">1.4 Is die ooreenstemmende sye van die twee driehoeke in dieselfde verhouding?</para>
+      <para id="id1165629209615">1.5 Is die twee driehoeke gelykvormig?</para>
+      <para id="id1165623992732">1.6 Voltooi die volgende: As twee driehoeke se ooreenstemmende hoeke gelyk is, is hulle ooreenstemmende sye noodwendig altyd ......................... Dit beteken dus dat, as driehoeke se ooreenstemmende hoeke gelyk is, is die driehoeke ......................... </para>
+      <para id="id1165620917392">2.1 Konstrueer die volgende twee driehoeke:</para>
+      <figure id="id1165625311446">
+        <media id="id1165625311446_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 12-2aec.png" id="id1165625311446__onlineimage" height="176" width="513"/>
+        </media>
+      </figure>
+      <para id="id1165623337468">2.2 Is die sye van die twee driehoeke in dieselfde verhouding? </para>
+      <para id="id1165623977331">2.3 Meet al die hoeke van ΔABC en ΔMOR. Wat vind jy?</para>
+      <para id="id1165623448277">2.4 Is die ΔABC  ΔMOR?</para>
+      <para id="id1165621791370">2.5 Voltooi die volgende: As twee driehoeke se ooreenstemmende sye in dieselfde verhouding is, is hulle ooreenstemmende ..................................... gelyk. Dit beteken dus dat, as driehoeke se ooreenstemmende sye in dieselfde verhouding is, is die driehoeke .....................................</para>
+      <para id="id1165630555795">Ons sien dus dat by driehoeke net een van die voorwaardes vir gelykvormigheid teenwoordig hoef te wees. </para>
+      <para id="id1165621791880">Dit beteken as <emphasis effect="bold">drie hoeke</emphasis> van die <emphasis effect="bold">een driehoek gelyk is</emphasis> aan <emphasis effect="bold">drie hoeke</emphasis> van die ander driehoek, dan is die sye in dieselfde verhouding en dus is die twee driehoeke gelykvormig.</para>
+      <para id="id1165625067169">Dit beteken ook dat, as die <emphasis effect="bold">ooreenkomstige sye</emphasis> van die twee driehoeke in <emphasis effect="bold">dieselfde verhouding</emphasis> is, dan is die ooreenkomstige hoeke van die twee driehoeke gelyk en dus is die twee driehoeke gelykvormig.</para>
+      <para id="id1165623859330">Huiswerkopdrag</para>
+      <para id="id6564832">1. Die volgende pare driehoeke word gegee. Sê of hulle gelykvormig is of nie en gee redes vir jou antwoord. As die paar driehoeke gelykvormig is, bereken die groottes van die sye en die hoeke wat nie in die figure gegee is nie.</para>
+      <para id="id1165623386566">Voorbeeld:</para>
+      <figure id="id1165622060565">
+        <media id="id1165622060565_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 15-aa20.png" id="id1165622060565__onlineimage" height="160" width="466"/>
+        </media>
+      </figure>
+      <para id="id7261018">C = F = 60°Δ ABC  ΔEDF ()</para>
+      <para id="id1165630204298">AB = 4 cmAC = 5 cm (pyth)EF = 10 cm</para>
+      <para id="id1165623421120">1.1. </para>
+      <para id="id4805714">1.2<figure id="id1165623998736"><media id="id1165623998736_media" alt=""><image mime-type="image/png" src="../../media/Picture 18-f59e.png" id="id1165623998736__onlineimage" height="177" width="488"/></media></figure></para>
+      <para id="id1165630228060">
+        <figure id="id1165620678525">
+          <media id="id1165620678525_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 21-a658.png" id="id1165620678525__onlineimage" height="192" width="453"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1165632716454">1.3</para>
+      <figure id="id7709581">
+        <media id="id7709581_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 24-17a5.png" id="id7709581__onlineimage" height="196" width="499"/>
+        </media>
+      </figure>
+      <para id="id1165623340505">1.4</para>
+      <figure id="id1165629839895">
+        <media id="id1165629839895_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 27.png" id="id1165629839895__onlineimage" height="192" width="453"/>
+        </media>
+      </figure>
+      <para id="id7250967">2.</para>
+      <figure id="id1165623442238">
+        <media id="id1165623442238_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 30.png" id="id1165623442238__onlineimage" height="232" width="297"/>
+        </media>
+      </figure>
+      <para id="id6963088"/>
+      <para id="id1165629981354">2.1 Voltooi die volgende:</para>
+      <para id="id1165625773845">In ΔAOB en ΔDOE:</para>
+      <para id="id1165623895935"> Rede</para>
+      <para id="id1165631605004">.......... = .......... (...........................................................................)</para>
+      <para id="id1165630114588">.......... = .......... (...........................................................................)</para>
+      <para id="id1165623432197">Δ.............. .............. ( )</para>
+      <para id="id1165622506265">2.2 Bereken nou die lengtes van die ontbrekende sye.</para>
+      <para id="id1165620282460"/>
+      <para id="id1165625419065"/>
+      <para id="id1165630046295"/>
+      <para id="id1165623935439">3. In die figuur is FH = 12 cm.</para>
+      <figure id="id1165623871788">
+        <media id="id1165623871788_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 33.png" id="id1165623871788__onlineimage" height="253" width="422"/>
+        </media>
+      </figure>
+      <para id="id1165622994670">3.1 Voltooi die volgende:</para>
+      <para id="id1165622060835">In Δ.......... en Δ.......... </para>
+      <para id="id1165620904699">.......... = .......... (...........................................................................)</para>
+      <para id="id1165623437521">.......... = .......... (...........................................................................)</para>
+      <para id="id1165631652725">Δ.............. .............. ( )</para>
+      <para id="id1165621791792"/>
+      <para id="id1165629967768">3.2 Bereken nou die lengtes van die volgende:</para>
+      <para id="id1650174">3.2.1 HE</para>
+      <para id="id1165623408143">3.2.2 EG</para>
+      <para id="id1165631575836">3.2.3 FJ</para>
+      <para id="id1165622609123">4. Die hoogte van ‘n hoë, vertikale voorwerp word bepaal deurdat die skaduwee van ‘n stok van bekende lengte gemeet word en die skaduwee van die voorwerp gemeet word. Die volgende figure gee die metings wat gemaak is.</para>
+      <figure id="id1165620376175">
+        <media id="id1165620376175_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 34.png" id="id1165620376175__onlineimage" height="191" width="542"/>
+        </media>
+      </figure>
+      <para id="id1165623194990">Bepaal die lengte van die vlagpaal</para>
+      <para id="id1165623851471">ASSESSERINGSTAAK: </para>
+      <para id="id1165628256086">Om van gelykvormigheid gebruik te maak om die hoogte van ‘n hoë voorwerp te meet:</para>
+      <para id="id1165622851408">Werk in pare saam.</para>
+      <para id="id2584306">1. Die volgende word benodig:</para>
+      <para id="id1165623158251">‘n Maatband van tenminste 5 m lank</para>
+      <para id="id1165629919141">‘n Spieël</para>
+      <para id="id1165623181626">‘n Liniaal</para>
+      <para id="id1165625467218">‘n Veltpen</para>
+      <para id="id1165620529140">2. Gaan soos volg te werk: </para>
+      <para id="id1165624052042">Soek twee hoë, vertikale voorwerpe op die skoolgrond soos byvoorbeeld ‘n netbalpaal, ‘n lamppaal, rugbypale of ‘n vlagpaal. Soek veral voorwerpe waarvan die hoogte normaalweg moeilik fisies gemeet kan word.</para>
+      <para id="id1165623077725">Trek twee dun lyne met die veltpen op die spieël sodat die lyne mekaar loodreg kruis.</para>
+      <para id="id1165623904256">Plaas nou die spieël op gelyk grond ‘n ent vanaf die hoë voorwerp. </para>
+      <para id="id1165623197599">Een persoon staan nou terug en kyk in die spieël en verskuif sy / haar posisie totdat die top van die voorwerp presies op die snypunt van die twee lyne op die spieël val.</para>
+      <para id="id1165626758004">3. Meet die volgende:</para>
+      <para id="id1165621790915">die hoogte van die persoon wat in die spieël gekyk het tot by sy/ haar oë</para>
+      <para id="id1165622721979">die afstand tussen die persoon wat in die spieël gekyk het en die snypunt van die lyne in die spieël</para>
+      <para id="id1165623344936">die afstand tussen die voorwerp en die snypunt van die lyne in die spieël.</para>
+      <para id="id1165622981454">Resultate:</para>
+      <para id="id1083128">1. Teken die tabel oor op ‘n foliobladsy en voltooi dit: </para>
+      <table id="id7568909" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Die voorwerp waarvan die hoogte gemeet word</entry>
+              <entry>Ooghoogte van die persoon</entry>
+              <entry>Afstand tussen die persoon en die snypunt van die lyne op die spieël</entry>
+              <entry>Afstand vanaf die spieël tot by die voorwerp</entry>
+              <entry>Berekende hoogte van die voorwerp korrek tot die naaste cm</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165623946601">2. </para>
+      <figure id="id1165621800000">
+        <media id="id1165621800000_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 35-c699.png" id="id1165621800000__onlineimage" height="286" width="582"/>
+        </media>
+      </figure>
+      <para id="id1165631307892">In die skets is PK die ooghoogte van die persoon, S is die posisie van die spieël en VL is die voorwerp waarvan die hoogte gemeet word. Verduidelik hoekom ΔPKS  ΔVLS is.</para>
+      <para id="id1165623944913">3. In hierdie taak kan die afmetings onakkuraat wees. Verduidelik watter foute gemaak kan word wat die akkuraatheid van die bepaling van die hoogte van die voorwerp kan beïnvloed.</para>
+    </section>
+    <section id="id1165623388423">
+      <title>Assessering</title>
+      <table id="id1165623884620" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LU 3</entry>
+            </row>
+            <row>
+              <entry>Ruimte en Vorm (Meetkunde)Die leerder is in staat om eienskappe van en verwantskappe tussen tweedimensionele vorms en driedimensionele voorwerpe in ‘n verskeidenheid oriëntasies en posisies te beskryf en voor te stel.</entry>
+            </row>
+            <row>
+              <entry>Ons weet dit as die leerder:</entry>
+            </row>
+            <row>
+              <entry>3.1 meetkundige figure en driedimensionele voorwerpe in natuurlike en kulturele vorms en meetkundige agtergrond herken, visualiseer en benoem, insluitend:</entry>
+            </row>
+            <row>
+              <entry>3.1.1 reëlmatige en onreëlmatige veelhoeke en veelvlakke;</entry>
+            </row>
+            <row>
+              <entry>3.1.2 sfere;</entry>
+            </row>
+            <row>
+              <entry>3.1.3 silinders;</entry>
+            </row>
+            <row>
+              <entry>3.2 die onderlinge verwantskappe van meetkundige figure en driedimensionele voorwerpe se eienskappe met bewyse in kontekste, insluitend dié wat gebruik kan word om ‘n bewustheid van sosiale, kulturele en omgewingsake te bevorder beskryf, insluitend:3.2.1 kongruensie en reguitlynmeetkunde;</entry>
+            </row>
+            <row>
+              <entry>3.3 die meetkunde van reguitlyne en driehoeke gebruik om probleme op te los en verwantskappe in meetkundige figure te bewys;</entry>
+            </row>
+            <row>
+              <entry>3.4 meetkundige figure teken en/of konstrueer en modelle maak van driedimensionele voorwerpe om die eienskappe daarvan en van modelsituasies in die omgewing te ondersoek en vergelyk;</entry>
+            </row>
+            <row>
+              <entry>3.5 transformasies, kongruensie en gelykvormigheid gebruik om die eienskappe van meetkundige figure en driedimensionele voorwerpe te ondersoek (alleen en/of as ‘n lid van ‘n span of groep), insluitend toetse vir die gelykvormigheid en kongruensie van driehoeke.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,279 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Vergelyking van 'n reguitlyn-grafiek vanuit 'n diagram</title>
+  <metadata>
+  <md:content-id>m31469</md:content-id><md:title>Vergelyking van 'n reguitlyn-grafiek vanuit 'n diagram</md:title>
+  <md:abstract/>
+  <md:uuid>3d78dee9-ac04-471f-a636-70149f9ea54e</md:uuid>
+</metadata>
+
+<content>
+    <section id="id8857488">
+      <title>WISKUNDE </title>
+      <para id="para-id8857488">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8857496">
+      <title>Graad 9</title>
+      <para id="para-id8857496">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8857504">
+      <title>GETALPATRONE</title>
+      <para id="para-id8857504">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8857511">
+      <title>GRAFIESE VOORSTELLINGS</title>
+      <para id="para-id8857511">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8857519">
+      <title>VERGELYKINGS</title>
+      <para id="para-id8857519">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8857527">
+      <title>STATISTIEK</title>
+      <para id="para-id8857527">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8857535">
+      <title>WAARSKYNLIKHEIDSLEER</title>
+      <para id="para-id8857535">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8857543">
+      <title>Module 15</title>
+      <para id="para-id8857543">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8857551">
+      <title>VERGELYKING VAN ‘N REGUITLYN-GRAFIEK VANUIT ‘N DIAGRAM</title>
+      <para id="id8857561">AKTIWITEIT 1</para>
+      <para id="id8857565">Om die vergelyking van ’n reguitlyn-grafiek vanuit ’n diagram te bepaal</para>
+      <para id="id8857571">[LU 2.5]</para>
+      <list id="id8857576" list-type="enumerated" number-style="arabic">
+        <item>As ons die waardes van <emphasis effect="italics">m</emphasis> en <emphasis effect="italics">c</emphasis><emphasis effect="bold"/>kan uitwerk, kan ons hierdie waardes direk in die algemene vergelyking <emphasis effect="italics">y</emphasis> = <emphasis effect="italics">mc</emphasis> + <emphasis effect="italics">c</emphasis> instel om sodoende die bepalende vergelyking van die lyn te verkry. Hier is ’n voorbeeld uit die diagram.</item>
+      </list>
+      <para id="id8857618">
+        <figure id="id8857622">
+          <media id="id8857622_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 37.png" id="id8857622__onlineimage" height="199" width="191"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id8857645">Dis maklik om c te bepaal, aangesien dit dié waarde (positief of negatief) is waar die lyn die y-as sny. Substitueer hierdie waarde (dis –1) vir c.</para>
+      <para id="id8857654">Nou is die vergelyking y = mх – 1. Om die gradiënt (die waarde van m) te bepaal, konstrueer ons die reghoekige driehoek tussen twee geskikte punte op die lyn, waar die grafiek presies deur twee hoekpunte van die grafiekpapier gaan.</para>
+      <table id="id8857664" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>
+                <list id="id8857686" list-type="bulleted">
+                  <item>Ons weet m is ’n breuk, t.w.. </item>
+                </list>
+              </entry>
+              <entrytbl cols="1">
+                <colspec colnum="1" colname="c1"/>
+                <tbody>
+                  <row>
+                    <entry>verandering in vertikale afstand</entry>
+                  </row>
+                  <row>
+                    <entry>verandering in horisontale afstand</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id8857728" list-type="bulleted">
+        <item>Ons lees die aantal eenhede van die hoogte en van die basis van die driehoek om die teller en die noemer onderskeidelik te kry. </item>
+        <item>Ons bepaal ook die teken van m deur te kyk of die lyn opwaarts of afwaarts na regs loop. </item>
+        <item>Nou het ons: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mi>m</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 11{m```=``` -  {  { size 8{4} }  over  { size 8{6} } } ```=``` -  {  { size 8{2} }  over  { size 8{3} } } }} {}</m:annotation></m:semantics></m:math> (onthou om die breuk te vereenvoudig). </item>
+        <item>Hierdie waarde vervang nou vir m in die vergelyking: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow></m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mfrac><m:mi>x</m:mi><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 11{y```=``` - ``` {  { size 8{2} }  over  { size 8{3} } } x``` - ```1}} {}</m:annotation></m:semantics></m:math>. Dit is die bepalende vergelyking van die lyn.</item>
+      </list>
+      <list id="id8857961" list-type="bulleted">
+        <item>Gebruik nou hierdie metode om die bepalende vergelykings van die agt grafieke in die eerste twee diagramme van die vorige deel uit te werk.</item>
+      </list>
+      <para id="id8857971">2 Wat van horisontale en vertikale lyne? Hulle is die maklikste!</para>
+      <list id="id8857980" list-type="bulleted">
+        <item>’n Horisontale lyn het die algemene vergelyking <emphasis effect="italics">y</emphasis> = <emphasis effect="italics">c</emphasis>. Ons moet ’n waarde vind om <emphasis effect="italics">c</emphasis> mee te vervang. Hierdie waarde word van die grafiek afgelees – die <emphasis effect="italics">y</emphasis>-afsnit! Substitueer vir <emphasis effect="italics">х</emphasis></item>
+        <item>en daar het jy die bepalende vergelyking.</item>
+        <item>Die algemene vergelyking van ’n vertikale lyn is <emphasis effect="italics">х</emphasis> = <emphasis effect="italics">k</emphasis>. Bepaal <emphasis effect="italics">k</emphasis> deur van die grafiek te lees waar die lyn die <emphasis effect="italics">х</emphasis>–as sny, en substitueer hierdie waarde vir <emphasis effect="italics">k</emphasis>. Dit gee ons die bepalende vergelyking.</item>
+      </list>
+      <list id="id8858066" list-type="bulleted">
+        <item>Bepaal nou die vergelykings van die vier lyne in die laaste diagram van die vorige deel. </item>
+      </list>
+      <para id="id8858076">Die antwoorde is:<emphasis effect="italics">y</emphasis> = 1 en <emphasis effect="italics">y</emphasis> = –1,5 is die horisontale lyne, en <emphasis effect="italics">х</emphasis> = –1 en <emphasis effect="italics">х</emphasis> = –2,5 is die twee vertikale lyne.</para>
+      <list id="id8841060" list-type="enumerated" number-style="arabic">
+        <item>Hier is nou ’n mengsel lyne om jou vaardighede mee te toets!</item>
+      </list>
+      <para id="id8841072"/>
+      <figure id="id8841079">
+        <media id="id8841079_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 38-bb59.png" id="id8841079__onlineimage" height="198" width="633"/>
+        </media>
+      </figure>
+      <para id="id8841102">4 Het jy opgelet dat die gradiënte (<emphasis effect="italics">m</emphasis>) van lyne G en H dieselfde is? Waarom?</para>
+      <para id="id8841116">AKTIWITEIT 2</para>
+      <para id="id8841120">Om die gradiënt van ’n reguit lyn vanuit twee gegewe punte te bereken</para>
+      <para id="id8841126">[LU 2.5]</para>
+      <list id="id8841131" list-type="bulleted">
+        <item>As die koördinate van twee punte op ’n sekere reguit lyn bekend is, is dit maklik om die lyn te trek, soos jy weet. Ons kan ook die gradiënt aflei uit ’n skets. Maar dit is nie nodig om ’n skets te hê om die gradiënt te bepaal nie. </item>
+      </list>
+      <list id="id8841149" list-type="bulleted">
+        <item>Hier is ’n voorbeeld: Die punte (3 ; –1) en (4 ; 2) lê op ’n sekere reguit lyn. </item>
+      </list>
+      <list id="id8841163" list-type="bulleted">
+        <item>Eers bepaal ons die vertikale afstand tussen die punte deur die tweede punt se <emphasis effect="italics">y</emphasis>-koördinaat van die eerste punt se <emphasis effect="italics">y</emphasis>-koördinaat af te trek. Dit gee die teller van die gradiënt. </item>
+        <item>Dan bereken ons die horisontale afstand tussen die twee punte deur die tweede punt se <emphasis effect="italics">х</emphasis>-koördinaat van die eerste punt se <emphasis effect="italics">х</emphasis>-koördinaat af te trek. Nou het ons die noemer van die gradiënt. </item>
+        <item>Dus is die gradiënt: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mi>m</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mtext>vertikale</m:mtext><m:mi/><m:mtext>afstand</m:mtext></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mtext>horisontale</m:mtext><m:mi/><m:mtext>afstand</m:mtext></m:mrow></m:mrow></m:mstyle></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="13pt"><m:mrow><m:mi/></m:mrow></m:mstyle><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 11{m``=`` {  { size 11{"vertikale"``"afstand"}}  over  { size 11{"horisontale"```"afstand"}} } ``=`` {  { size 11{ - 1` - `2}}  over  { size 11{3 - 4}} } ``=`` {  { size 11{ - 3}}  over  { size 11{ - 1}} } ``=`} size 13{`}3} {}</m:annotation></m:semantics></m:math></item>
+      </list>
+      <list id="id8841400" list-type="bulleted">
+        <item>As jy andersom aftrek, moet jy dit vir beide koördinate doen, soos volg:</item>
+      </list>
+      <para id="id8841410"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mi>m</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mtext>vertikale</m:mtext><m:mi/><m:mtext>afs</m:mtext><m:mtext>tan</m:mtext><m:mi>d</m:mi></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mtext>horisontale</m:mtext><m:mi/><m:mtext>afst</m:mtext><m:mtext>and</m:mtext></m:mrow></m:mrow></m:mstyle></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mfenced open="(" close=")"><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 11{m``=`` {  { size 11{"vertikale"```"afs""tan"d}}  over  { size 11{"horisontale"```"afst""and"}} } ``=`` {  { size 11{2` - ` left ( size 11{ - 1} right )}}  over  { size 11{4 - 3}} } ``=`` {  { size 11{+3}}  over  { size 11{+1}} } ``=``3}} {}</m:annotation></m:semantics></m:math>, dieselfde antwoord!</para>
+      <para id="id8841604">1 Op blokkiespapier, stip die twee punte (3 ; –1) en (4 ; 2), en trek die lyn. Gebruik nou die grafiese metode om die gradiënt te bereken, en bevestig dat jy dieselfde antwoord kry as met die algebraïese metode.</para>
+      <para id="id8841617">2 Hier is vyf paar koördinate. Bereken die vyf gradiënte tussen elke paar punte.</para>
+      <para id="id8841627">2.1 (2 ; 6) en (4 ; 4) </para>
+      <para id="id8841636">2.2 (1 ; 2) en (–2 ; –1) </para>
+      <para id="id8841644">2.3 (0 ; 0) en (1 ; 5)</para>
+      <para id="id8841651">2.4 (–1 ; 4) en (5 ; 4) </para>
+      <para id="id8841660">2.5 (7 ; 0) en (7 ; –3)</para>
+      <para id="id8841667">AKTIWITEIT 3</para>
+      <para id="id8841671">Om twee gelyktydige vergelykings grafies op te los</para>
+      <para id="id8841676">[LU 2.5]</para>
+      <para id="id8841680">1 Los die volgende stelsels vergelykings gelyktydig op (verwys gerus terug na die hoofstuk waar jy geleer het om dit te doen).</para>
+      <para id="id8841688">1.1 <emphasis effect="italics">y</emphasis> = ½<emphasis effect="italics">х</emphasis> + 2 en <emphasis effect="bold">y</emphasis> = 3 </para>
+      <para id="id8841711">1.2 <emphasis effect="italics">y</emphasis><emphasis effect="italics"/>= <emphasis effect="italics">х</emphasis> en <emphasis effect="italics">y</emphasis> = –3</para>
+      <para id="id8841738">1.3 <emphasis effect="italics">y</emphasis> = <emphasis effect="italics">х</emphasis> – 2 en <emphasis effect="italics">y</emphasis> = –3 </para>
+      <para id="id8841761">1.4 <emphasis effect="italics">y</emphasis> = –<emphasis effect="italics">х</emphasis> + 4 en <emphasis effect="italics">y</emphasis> = 0</para>
+      <para id="id8841783">1.5 <emphasis effect="italics">y</emphasis><emphasis effect="bold"/>= ½<emphasis effect="italics">х</emphasis> – 2 en <emphasis effect="italics">y</emphasis><emphasis effect="italics"/>= 0 </para>
+      <para id="id8841814">2 Verwys na die diagramme in die vorige oefening en skryf die koördinate neer van die punte waar die volgende pare lyne mekaar sny:</para>
+      <para id="id8841823">2.1 A en C 2.2 E en G 2.3 E en H 2.4 J en L 2.5 K en J</para>
+      <para id="id8841848">3 Bekyk hierdie antwoorde tesame met die vergelykings van die lyne A tot L wat jy reeds in probleem 3 bepaal het .</para>
+      <list id="id8841855" list-type="bulleted">
+        <item>Voorbeeld: </item>
+      </list>
+      <list id="id8841865" list-type="bulleted">
+        <item>Lyn <emphasis effect="bold">J</emphasis> se vergelyking is <emphasis effect="italics">y</emphasis> = 0, en vir lyn <emphasis effect="bold">I</emphasis> behoort jy die vergelyking 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= -  {  { size 8{1} }  over  { size 8{8} } } x+ {  { size 8{1} }  over  { size 8{2} } } } {}</m:annotation></m:semantics></m:math> te bepaal het. (Hierdie vergelyking kan ook as <emphasis effect="italics">х</emphasis> + 8<emphasis effect="italics">y</emphasis> = 4 geskryf word. Bevestig deur hierdie een in die standaardvorm te skryf.)</item>
+        <item>As ons die twee vergelykings gelyktydig oplos, substitueer ons vanuit <emphasis effect="italics">y</emphasis> = 0 in <emphasis effect="italics">х</emphasis> + 8<emphasis effect="italics">y</emphasis> = 4.</item>
+      </list>
+      <para id="id8842019">Dus, <emphasis effect="italics">х</emphasis> + 8(0) = 4 <emphasis effect="italics">х</emphasis> + 0 = 4 <emphasis effect="italics">х</emphasis> = 4 </para>
+      <para id="id8842052">Die oplossing is (4 ; 0). As dit met die grafiek vergelyk word, sien ons dat die twee lyne I en J mekaar in die punt ( 4 ; 0 ) sny.</para>
+      <list id="id8842060" list-type="bulleted">
+        <item>Bevestig dat jou antwoorde korrek is deur die koördinate bepaal deur die <emphasis effect="italics">algebraïese</emphasis> metode te vergelyk met die koördinate bepaal deur die <emphasis effect="italics">grafiese</emphasis> metode.</item>
+      </list>
+      <para id="id8842084">Bron:</para>
+      <para id="id8842088"><emphasis effect="italics">New Scientist</emphasis>, 27 April 2002 vir Grafieke A en B.</para>
+    </section>
+    <section id="id8842098">
+      <title>Assessering</title>
+      <table id="id8842105" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LU 2 </entry>
+            </row>
+            <row>
+              <entry>Patrone, Funksies en AlgebraDie leerder is in staat om patrone en verwantskappe te herken, te beskryf en voor te stel, en probleme op te los deur algebraïese taal en vaardighede te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry>2.1 op verskillende maniere ‘n verskeidenheid numeriese en meetkundige patrone en verwantskappe ondersoek deur dit voor te stel en te veralgemeen, en deur die reëls onderliggend daaraan te verduidelik en te bewys (insluitend patrone in natuurlike en kulturele vorms, en patrone wat die leerder self geskep het);</entry>
+            </row>
+            <row>
+              <entry>2.2 voorstellings maak van verwantskappe tussen veranderlikes en dit gebruik sodat invoer– en/of uitvoerwaardes op ‘n verskeidenheid maniere bepaal kan word deur die gebruik van:</entry>
+            </row>
+            <row>
+              <entry>2.2.1 woordelikse beskrywings;2.2.2 vloeidiagramme;2.2.3 tabelle;2.2.4 formules en vergelykings;</entry>
+            </row>
+            <row>
+              <entry>2.3 wiskundige modelle saamstel wat oplossings vir probleemsituasies voorstel, beskryf en voorsien, en verantwoordelikheid toon teenoor die omgewing en die gesondheid van ander (insluitend probleme binne menseregte-, sosiale, ekonomiese, kulturele en omgewingskontekste);</entry>
+            </row>
+            <row>
+              <entry>2.4 vergelykings oplos deur inspeksie, deur ‘n proses van probeer–en–verbeter of algebraïese prosesse (optellings- en vermenigvuldigngsomgekeerdes, asook faktorisering) en die oplossings kontroleer deur vervanging;</entry>
+            </row>
+            <row>
+              <entry>2.5 grafieke op die Cartesiese vlak teken vir gegewe vergelykings (met twee veranderlikes), of die vergelykings of formules bepaal van gegewe grafieke, deur, waar nodig, van tabelle gebruik te maak;</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id8842305">
+      <title/>
+      <para id="para-id8842305">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8842312">
+      <title>Memorandum</title>
+      <para id="para-id8842312">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8842320">
+      <title>Vergelykings vanuit grafieke </title>
+      <para id="id8842327">2.1 <emphasis effect="italics">m</emphasis> = –1; <emphasis effect="italics">c</emphasis> = 1  <emphasis effect="italics">y</emphasis> = –<emphasis effect="italics">x</emphasis> + 1  2.2 <emphasis effect="italics">m</emphasis> = –1,5; <emphasis effect="italics">c</emphasis> = –1,5 <emphasis effect="italics">y</emphasis> = –1½<emphasis effect="italics">x</emphasis> – 1½ </para>
+      <para id="id8842411">2.3 <emphasis effect="italics">m</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {6} } } {}</m:annotation></m:semantics></m:math>; <emphasis effect="italics">c</emphasis> = –0,4 <emphasis effect="italics">y</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {6} } } {}</m:annotation></m:semantics></m:math><emphasis effect="italics">x</emphasis> – 0,4  2.4 <emphasis effect="italics">m</emphasis> = 2; <emphasis effect="italics">c</emphasis> = –1  <emphasis effect="italics">y</emphasis> = 2<emphasis effect="italics">x</emphasis> – 1</para>
+      <para id="id8842593">2.5 <emphasis effect="italics">m</emphasis> = –1; <emphasis effect="italics">c</emphasis> = 0  <emphasis effect="italics">y</emphasis> = –<emphasis effect="italics">x</emphasis>   2.6 <emphasis effect="italics">m</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ -  {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math>; <emphasis effect="italics">c</emphasis> = 0  <emphasis effect="italics">y</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ -  {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math><emphasis effect="italics">x</emphasis></para>
+      <para id="id8842783">2.7 <emphasis effect="italics">m</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math>;  <emphasis effect="italics">c</emphasis> = 0  <emphasis effect="italics">y</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math><emphasis effect="italics">x</emphasis>   2.8 <emphasis effect="italics">m</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math>; <emphasis effect="italics">c</emphasis> = 0   <emphasis effect="italics">y</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math><emphasis effect="italics">x</emphasis></para>
+      <para id="id8843062">3. A: <emphasis effect="italics">y</emphasis> = 3  B: <emphasis effect="italics">y</emphasis> = –½ <emphasis effect="italics">x</emphasis>  C: <emphasis effect="italics">y</emphasis> = ½<emphasis effect="italics">x</emphasis> + 2  D: <emphasis effect="italics">x</emphasis> = –1</para>
+      <para id="id8843136"> E: <emphasis effect="italics">y</emphasis> = –3  F: <emphasis effect="italics">x</emphasis> = 2  G: <emphasis effect="italics">y</emphasis> = <emphasis effect="italics">x</emphasis>  H: <emphasis effect="italics">y</emphasis> = <emphasis effect="italics">x</emphasis> – 2</para>
+      <para id="id8843207"> I: <emphasis effect="italics">y</emphasis> = –¼ <emphasis effect="italics">x</emphasis> + ½  J: <emphasis effect="italics">y</emphasis> = 0  K: <emphasis effect="italics">y</emphasis> = ½ <emphasis effect="italics">x</emphasis> – 2  L: <emphasis effect="italics">y</emphasis> = –½ <emphasis effect="italics">x</emphasis> + 4 </para>
+      <para id="id8843288">4. Die lyne is parallel. Op hierdie stadium, afhanklik van die klas, sou die opvoeder kon praat oor <emphasis effect="italics">m</emphasis><sub>1</sub> = <emphasis effect="italics">m</emphasis><sub>2</sub> (parallel), en <emphasis effect="italics">m</emphasis><sub>1</sub> × <emphasis effect="italics">m</emphasis><sub>2</sub> = –1 (loodreg).</para>
+      <para id="id8843359">Gradiënte bereken uit twee punte</para>
+      <para id="id8843364">2.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>6</m:mn><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>2</m:mn><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m= {  {6 - 4}  over  {2 - 4} } = {  {2}  over  { - 2} } = - 1} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id8843477">2.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m= {  {2 -  left ( - 1 right )}  over  {1 -  left ( - 2 right )} } = {  {2+1}  over  {1+2} } = {  {3}  over  {3} } =1} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id8843631">2.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">−</m:mo><m:mn>0</m:mn></m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:mn>0</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>1</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m= {  {5 - 0}  over  {1 - 0} } = {  {5}  over  {1} } =5} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id8843732">2.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>0</m:mn><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m= {  {4 - 4}  over  { - 1 - 5} } = {  {0}  over  { - 6} } =0} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id8843846">2.5 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced></m:mrow><m:mrow><m:mn>7</m:mn><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>0</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m= {  {0 -  left ( - 3 right )}  over  {7 - 7} } = {  {3}  over  {0} } } {}</m:annotation></m:semantics></m:math> ongedefinieer.</para>
+      <para id="id8843954">Leerders verwar dikwels die betekenis van die nul in die teller en die nul in die noemer. Beklemtoon gerus dat ons eerste die nul in die noemer moet soek. Dit beteken dat 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>0</m:mn><m:mn>0</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {0} } } {}</m:annotation></m:semantics></m:math> outomaties ongedefinieerd is (instede van nul).</para>
+      <para id="id8844019">As daar tyd is, laat leerders die lyne hierbo skets en sodoende bevestig dat hul antwoorde redelik is.</para>
+      <para id="id8844024">1.1 (2 ; 3) </para>
+      <para id="id8844032">1.2 (–3 ; –3) </para>
+      <para id="id8844040">1.3 (–1 ; –3) </para>
+      <para id="id8844048">1.4 (4 ; 0) </para>
+      <para id="id8844056">1.5 (4 ; 0)</para>
+      <para id="id8844063">2.1 (2 ; 3) </para>
+      <para id="id8844071">2.2 (–3 ; –3) </para>
+      <para id="id8844079">2.3 (–1 ; –3) </para>
+      <para id="id8844087">2.4 (4 ; 0) </para>
+      <para id="id8844095">2.5 (4 ; 0)</para>
+    </section>
+  </content>
+</document>

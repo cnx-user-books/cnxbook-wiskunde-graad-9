@@ -1,0 +1,1110 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Algebra van die vier basiese operasies</title>
+  <metadata>
+  <md:content-id>m31388</md:content-id><md:title>Algebra van die vier basiese operasies</md:title>
+  <md:abstract/>
+  <md:uuid>b0f51283-c3c8-4132-b0da-0c76d4d09158</md:uuid>
+</metadata>
+
+<content>
+    <section id="id7696915">
+      <title>WISKUNDE</title>
+      <para id="para-id7696915">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166673739910">
+      <title>Graad 9</title>
+      <para id="para-id1166673739910">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166684942434">
+      <title>ALGEBRA EN MEETKUNDE</title>
+      <para id="para-id1166684942434">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166673582230">
+      <title>Module 6</title>
+      <para id="para-id1166673582230">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4795579">
+      <title>ALGEBRA VAN DIE VIER BASIESE OPERASIES</title>
+      <section id="id8172553">
+        <title>Aktiwiteit 1</title>
+        <para id="para-id8172553">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id4824884">
+        <title>Om die optelling– en aftrekkingsreëls van algebra te hersien</title>
+        <para id="para-id4824884">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id7668440">
+        <title>[LU 1.2, 1.6]</title>
+        <para id="id7597033">A Onthou jy nog wat <emphasis effect="bold">terme</emphasis> is? </para>
+        <list id="id2530217" list-type="bulleted">
+          <item>Terme word deur + of – geskei. Sê in elk van die volgende hoeveel terme daar is:</item>
+        </list>
+        <para id="id7720658">1. a + 5 </para>
+        <para id="id7642587">2. 2a<sup>2</sup></para>
+        <para id="id7464898">3. 5a(a+1) </para>
+        <para id="id7327101">4. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>3a</m:mn><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac><m:mo stretchy="false">+</m:mo><m:mn>5a</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3a - 1}  over  {a rSup { size 8{2} } } } +5a} {}</m:annotation></m:semantics></m:math></para>
+        <list id="id7694328" list-type="bulleted">
+          <item>Versamel die <emphasis effect="italics">gelyksoortige</emphasis> terme om elk van die volgende uitdrukkings te vereenvoudig:</item>
+        </list>
+        <para id="id7631563">1. 5a + 2a </para>
+        <para id="id7650818">2. 2a<sup>2</sup> + 3a – a<sup>2 </sup></para>
+        <para id="id7619720">3. 3x – 6 + x + 11 </para>
+        <para id="id7738648">4. 2a(a–1) – 2a<sup>2</sup></para>
+        <para id="id7568315">B <emphasis effect="bold">Optel van uitdrukkings</emphasis></para>
+        <list id="id7623998" list-type="bulleted">
+          <item>Voorbeeld:</item>
+        </list>
+        <para id="id7587557">Tel 3x + 4 by x + 5. (x + 5) <emphasis effect="bold">+</emphasis> (3x + 4) Skryf as som, met hakies.</para>
+        <para id="id7606447"> x + 5 + 3x + 4 Verwyder hakies versigtig.</para>
+        <para id="id7586691"> 4x + 9 Versamel gelyksoortige terme.</para>
+        <para id="id7634450">Tel die twee gegewe uitdrukkings bymekaar:</para>
+        <para id="id7588275">1. 7a + 3 en a + 2</para>
+        <para id="id7597603">2. 5x – 2 en 6 – 3x </para>
+        <para id="id6692406">3. x + ½ en 4x – 3½ </para>
+        <para id="id7639741">4. a<sup>2</sup> + 2a + 6 en a – 3 + a<sup>2</sup></para>
+        <para id="id7342440">5. 4a<sup>2</sup> – a – 3 en 1 + 3a – 5a<sup>2</sup></para>
+        <para id="id7361213">C <emphasis effect="bold">Aftrek van uitdrukkings</emphasis></para>
+        <list id="id1166674163157" list-type="bulleted">
+          <item>Bestudeer die volgende voorbeelde sorgvuldig:</item>
+        </list>
+        <para id="id3731727"> Trek 3x – 5 van 7x + 2 af.  </para>
+        <para id="id7653497"> (7x + 2) – (3x – 5) Let op: 3x – 5 is in tweede posisie, na die minus.</para>
+        <para id="id7218630"> 7x + 2 – 3x <emphasis effect="bold">+</emphasis> 5 Die minus voor die hakie maak ‘n verskil!</para>
+        <para id="id7324733"> 4x + 7 Versamel gelyksoortige terme.</para>
+        <para id="id7320164"> Bereken 5a – 1 minus 7a + 12: (5a – 1) – (7a + 12)</para>
+        <para id="id7624062"> 5a – 1 – 7a – 12</para>
+        <para id="id7227159"> –2a – 13</para>
+        <para id="id7543940">D <emphasis effect="bold">Gemengde probleme</emphasis></para>
+        <list id="id7501237" list-type="bulleted">
+          <item>Onthou om jou antwoorde volledig te vereenvoudig in die volgende oefening:</item>
+        </list>
+        <para id="id7311299">1. Tel 2a – 1 by 5a + 2. </para>
+        <para id="id7736913">2. Vind die som van 6x + 5 en 2 – 3x.</para>
+        <para id="id7235716">3. Wat is 3a – 2a<sup>2</sup> plus a<sup>2</sup> – 6a? </para>
+        <para id="id7366831">4. (x<sup>2</sup> + x) + (x + x<sup>2</sup>) = . . . </para>
+        <para id="id7456073">5. Bereken (3a – 5) – (a – 2). </para>
+        <para id="id7218781">6. Trek 12a + 2 van 1 + 7a af.</para>
+        <para id="id7729706">7. Hoeveel is 4x<sup>2</sup> + 4x <emphasis effect="underline">minder</emphasis> as 6x<sup>2</sup> – 13x?</para>
+        <para id="id7453122">8. Hoeveel is 4x<sup>2</sup> + 4x <emphasis effect="underline">meer</emphasis> as 6x<sup>2</sup> – 13x?</para>
+        <para id="id7719462">9. Wat is die verskil tussen 8x + 3 en 2x +1?</para>
+        <list id="id7542186" list-type="bulleted">
+          <title/>
+          <item>Gebruik geskikte tegnieke om die volgende uitdrukkings te vereenvoudig:</item>
+        </list>
+        <para id="id7543854">1. x<sup>2</sup> + 5x<sup>2</sup> – 3x + 7x – 2 + 8  </para>
+        <para id="id7513558">2. 7a<sup>2</sup> – 12a + 2a<sup>2</sup> – 5 + a – 3</para>
+        <para id="id8974164">3. (a<sup>2</sup> – 4) + (5a + 3) + (7a<sup>2</sup> + 4a) </para>
+        <para id="id7471980">4. (2x – x<sup>2</sup>) – (4x<sup>2</sup> – 12) – (3x – 5)</para>
+        <para id="id7520080">5. (x<sup>2</sup> + 5x<sup>2</sup> – 3x) + (7x – 2 + 8) </para>
+        <para id="id7349442">6. 7a<sup>2</sup> – (12a + 2a<sup>2</sup> – 5) + a – 3</para>
+        <para id="id7536652">7. (a<sup>2</sup> – 4) + 5a + 3 + (7a<sup>2</sup> + 4a) </para>
+        <para id="id7679102">8. (2x – x<sup>2</sup>) – 4x<sup>2</sup> – 12 – (3x – 5)</para>
+        <para id="id3254448">9. x<sup>2</sup> + 5x<sup>2</sup> – 3x + (7x – 2 + 8) </para>
+        <para id="id7228778">10. 7a<sup>2</sup> – 12a + 2a<sup>2</sup> – (5 + a – 3)</para>
+        <para id="id3233599">11. a<sup>2</sup> – 4 + 5a + 3 + 7a<sup>2</sup> + 4a </para>
+        <para id="id1166673504946">12. (2x – x<sup>2</sup>) – [(4x<sup>2</sup> – 12) – (3x – 5)]</para>
+        <list id="id1166673889730" list-type="bulleted">
+          <item>Hier is die antwoorde op die vorige 12 probleme:</item>
+        </list>
+        <para id="id1166673338303">1. 6x<sup>2</sup> + 4x + 6 </para>
+        <para id="id1166679630306">2. 9a<sup>2</sup> – 11a – 8 </para>
+        <para id="id1166685930039">3. 8a<sup>2</sup> + 9a – 1   </para>
+        <para id="id4907285">4. – 5x<sup>2</sup> – x + 17 </para>
+        <para id="id7647268">5. 6x<sup>2</sup> + 4x + 6 </para>
+        <para id="id7236314">6. 5a<sup>2</sup> – 11a + 2</para>
+        <para id="id7318736">7. 8a<sup>2</sup> + 9a – 1 </para>
+        <para id="id8142435">8. – 5x<sup>2</sup> – x – 7 </para>
+        <para id="id4333573">9. 6x<sup>2</sup> + 4x + 6  </para>
+        <para id="id7667643">10. 9a<sup>2</sup> – 13a – 2 </para>
+        <para id="id7640162">11. 8a<sup>2</sup> + 9a – 1 </para>
+        <para id="id8060689">12. – 5x<sup>2</sup> + 5x + 7</para>
+        <para id="id7630299"/>
+      </section>
+      <section id="id4225557">
+        <title>Aktiwiteit 2</title>
+        <para id="para-id4225557">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id7471656">
+        <title>Om sekere polinome (veelterme) te vermenigvuldig deur hakies en die distributiewe wet te gebruik</title>
+        <para id="para-id7471656">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1359716">
+        <title>[LU 1.2, 1.6, 2.7]</title>
+        <para id="id4844797">‘n <emphasis effect="italics">Mono</emphasis><emphasis effect="underline">miaal</emphasis> het <emphasis effect="italics">een</emphasis> term; ‘n <emphasis effect="italics">bi</emphasis><emphasis effect="underline">nomiaal</emphasis> het <emphasis effect="italics">twee</emphasis> terme; ‘n <emphasis effect="italics">tri</emphasis><emphasis effect="underline">nomiaal</emphasis> het <emphasis effect="italics">drie</emphasis> terme. Ons noem hulle dikwels eenterme, tweeterme en drieterme.</para>
+        <para id="id7535873">A <emphasis effect="bold">Vermenigvuldiging van eenterme</emphasis>.</para>
+        <para id="id7738409">Ons gebruik dikwels hakies.</para>
+        <list id="id8118947" list-type="bulleted">
+          <item>Voorbeelde:</item>
+        </list>
+        <para id="id7703090">2a × 5a = 10a<sup>2</sup></para>
+        <para id="id7256980">3a<sup>3</sup> × 2a × 4a<sup>2</sup> = 24 a<sup>6</sup></para>
+        <para id="id4920150">4ab × 9a<sup>2</sup> × (–2a) × b = –36a<sup>4</sup>b<sup>2</sup></para>
+        <para id="id8475681">a × 2a × 4 × (3a<sup>2</sup>)<sup>3</sup> = a × 2a × 4 × 3a<sup>2</sup> × 3a<sup>2</sup> × 3a<sup>2</sup> = 126a<sup>8</sup></para>
+        <para id="id7565024">(2ab<sup>2</sup>)<sup>3</sup> × (a<sup>2</sup>bc)<sup>2</sup> × (2bc)<sup>2</sup> = (2ab<sup>2</sup>) (2ab<sup>2</sup>) (2ab<sup>2</sup>) × (a<sup>2</sup>bc) (a<sup>2</sup>bc) × (2bc) (2bc) = 32a<sup>7</sup>b<sup>10</sup>c<sup>4</sup></para>
+        <para id="id7685275">Maak altyd seker dat jou antwoord in die eenvoudigste vorm is.</para>
+        <para id="id7584584">Oefening:</para>
+        <para id="id8117744">1. (3x) (5x<sup>2</sup>)</para>
+        <list id="id7721746" list-type="enumerated" number-style="arabic">
+          <item>(x<sup>3</sup>) (–2x)</item>
+          <item>(2x)<sup>2</sup> (4) </item>
+          <item>(ax)<sup>2</sup> (bx<sup>2</sup>) (cx<sup>2</sup>)<sup>2</sup></item>
+        </list>
+        <para id="id4641074">B <emphasis effect="bold">Eenterm </emphasis><emphasis effect="bold">×</emphasis><emphasis effect="bold"> tweeterm</emphasis></para>
+        <para id="id8319945">Hakies is noodsaaklik.</para>
+        <list id="id3778070" list-type="bulleted">
+          <item>Voorbeelde:</item>
+        </list>
+        <para id="id4025666">5(2a + 1) beteken: vermenigvuldig 5 met 2a en ook met 1. 5 (2a + 1) = 10a + 5 </para>
+        <para id="id5055663">Wees baie versigtig om nie tekenfoute te maak nie.</para>
+        <para id="id8475092">4a(2a + 1) = 8a + 4a </para>
+        <para id="id7447458">–5a(2a + 1) = –10a<sup>2</sup> – 5a </para>
+        <para id="id7742681">a<sup>2</sup>(–3a<sup>2</sup> – 2a) = –3a<sup>4</sup> – 2a<sup>3</sup></para>
+        <para id="id4199157">–7a(2a – 3) = –14a<sup>2</sup> + 21a</para>
+        <para id="id7702601"><emphasis effect="bold">Let op</emphasis>: Ons het ‘n uitdrukking met <emphasis effect="italics">faktore</emphasis> verander na ‘n uitdrukking met <emphasis effect="italics">terme</emphasis>. Ons kan ook sê: ‘n P<emphasis effect="italics">rodukuitdrukking</emphasis> is nou ‘n <emphasis effect="italics">somuitdrukking</emphasis>.</para>
+        <para id="id7614241">Oefening:</para>
+        <para id="id7432566">1. 3x (2x + 4)</para>
+        <list id="id4346451" list-type="enumerated" number-style="arabic">
+          <item>x<sup>2 </sup>(5x – 2)</item>
+          <item>–4x (x<sup>2</sup> – 3x) </item>
+          <item>(3a + 3a<sup>2</sup>) (3a)</item>
+        </list>
+        <para id="id4942192">C <emphasis effect="bold">Eenterm </emphasis><emphasis effect="bold">×</emphasis><emphasis effect="bold"> drieterm</emphasis></para>
+        <list id="id7738107" list-type="bulleted">
+          <item>Voorbeelde:</item>
+        </list>
+        <para id="id7374376">5a(5 + 2a – a<sup>2</sup>) = 25a + 10a<sup>2</sup> – 5a<sup>3</sup></para>
+        <para id="id7682580">– ½ (10x<sup>5</sup> + 2a<sup>4</sup> – 8a<sup>3</sup>) = – 5x<sup>5</sup> – a<sup>4</sup> +4a<sup>3</sup></para>
+        <para id="id6074153">Oefening:</para>
+        <list id="id3738042" list-type="enumerated" number-style="arabic">
+          <item>3x (2x<sup>2</sup> – x + 2)</item>
+          <item>–ab<sup>2</sup> (–bc + 3abc – a<sup>2</sup>c)</item>
+          <item>12a ( ¼ + 2a + ½ a<sup>2</sup>) </item>
+        </list>
+        <para id="id4792965">Probeer: 4. 4x (5 – 2x + 4x<sup>2</sup> – 3x<sup>3</sup> + x<sup>4</sup>)</para>
+        <para id="id7755329">D <emphasis effect="bold">Tweeterm </emphasis><emphasis effect="bold">×</emphasis><emphasis effect="bold"> tweeterm</emphasis></para>
+        <para id="id7623474"><emphasis effect="italics">Elke term</emphasis> van die eerste tweeterm word vermenigvuldig met <emphasis effect="italics">elke term</emphasis> van die tweede tweeterm.</para>
+        <para id="id4245047">(3x + 2) (5x + 4) = (3x)(5x) + (3x)(4) + (2)(5x) + (2)(4) = 15x<sup>2</sup> + 12x + 10x + 8</para>
+        <para id="id8473178"> = 15x<sup>2</sup> + 22x + 8 Maak altyd seker dat jou antwoord vereenvoudig is.</para>
+        <list id="id7645015" list-type="bulleted">
+          <item>Hierdie katgesiggie sal jou help onthou hoe om twee tweeterme te vermenigvuldig:</item>
+        </list>
+        <para id="id4926942">
+          <figure id="id8120921">
+            <media id="id8120921_media" alt="">
+              <image mime-type="image/png" src="../../media/Picture 5-c3a8.png" id="id8120921__onlineimage" height="157" width="205"/>
+            </media>
+          </figure>
+        </para>
+        <list id="id8974975" list-type="bulleted">
+          <item>Die <emphasis effect="underline">linkeroor</emphasis> sê: Vermenigvuldig die <emphasis effect="italics">eerste</emphasis> term van die eerste tweeterm met die <emphasis effect="italics">eerste</emphasis> term van die tweede tweeterm.</item>
+          <item>Die <emphasis effect="underline">ken</emphasis> sê: Vermenigvuldig die <emphasis effect="italics">eerste</emphasis> term van die eerste tweeterm met die <emphasis effect="italics">tweede</emphasis> term van die tweede tweeterm.</item>
+          <item>Die <emphasis effect="underline">bekkie</emphasis> sê: Vermenigvuldig die <emphasis effect="italics">tweede</emphasis> term van die eerste tweeterm met die <emphasis effect="italics">eerste</emphasis> term van die tweede tweeterm.</item>
+          <item>Die <emphasis effect="underline">regteroor</emphasis> sê: Vermenigvuldig die <emphasis effect="italics">tweede</emphasis> term van die eerste tweeterm met die <emphasis effect="italics">tweede</emphasis> term van die tweede tweeterm.</item>
+        </list>
+        <para id="id4970695">Daar is belangrike patrone in die volgende vermenigvuldigingsoefening – let baie mooi op na hulle.</para>
+        <para id="id4624884">Oefening:</para>
+        <list id="id4904461" list-type="enumerated" number-style="arabic">
+          <item>(a + b) (c + d)</item>
+          <item>(2a – 3b) (–c + 2d)</item>
+          <item>(a<sup>2</sup> + 2a) (b<sup>2</sup> –3b)</item>
+          <item>(a + b) (a + b)</item>
+          <item>(x<sup>2</sup> + 2x) (x<sup>2</sup> + 2x)</item>
+          <item>(3x – 1) (3x – 1)</item>
+          <item>(a + b) (a – b)</item>
+          <item>(2y + 3) (2y – 3)</item>
+          <item>(2a<sup>2</sup> + 3b) (2a<sup>2</sup> – 3b)</item>
+          <item>(a + 2) (a + 3)</item>
+          <item>(5x<sup>2</sup> + 2x) (x<sup>2</sup> – x)</item>
+        </list>
+        <para id="id4568756">E <emphasis effect="bold">Tweeterm </emphasis><emphasis effect="bold">×</emphasis><emphasis effect="bold"> veelterm</emphasis></para>
+        <list id="id3302127" list-type="bulleted">
+          <item>Voorbeeld:</item>
+        </list>
+        <para id="id7007589">(2a + 3) (a<sup>3</sup> – 3a<sup>2</sup> + 2a – 3) = 2a<sup>4</sup> – 6a<sup>3</sup> + 4a<sup>2</sup> – 6a + 3a<sup>3</sup> – 9a<sup>2</sup> + 6a – 9</para>
+        <para id="id7729868"> = 2a<sup>4</sup> – 3a<sup>3</sup> – 5a<sup>2</sup> – 9 (vereenvoudigde vorm)</para>
+        <para id="id4561696">Oefening:</para>
+        <list id="id4309323" list-type="enumerated" number-style="arabic">
+          <item>(x<sup>2</sup> – 3x) (x<sup>2</sup> + 5x – 3) </item>
+          <item>(b + 1) (3b<sup>2</sup> – b + 11)</item>
+          <item>(a – 4) (5 + 2a – b + 2c)</item>
+          <item>(–a + 2) (a + b + c – 3d)</item>
+        </list>
+        <list id="id7718845" list-type="bulleted">
+          <item>Hoe goed het jy in hierdie aktiwiteit gevaar?</item>
+        </list>
+      </section>
+      <section id="id4898447">
+        <title>Aktiwiteit 3</title>
+        <para id="para-id4898447">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id4879618">
+        <title>Om faktore van sekere algebraïese uitdrukkings te vind</title>
+        <para id="para-id4879618">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id8102130">
+        <title>[LU 1.6, 2.1, 2.7] </title>
+        <para id="id3737972">A <emphasis effect="bold">Faktore</emphasis></para>
+        <para id="id7399442">Hierdie tabel toon die faktore van sekere eenterme.</para>
+        <table id="id2398640" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Uitdrukking</entry>
+                <entry>Kleinste faktore</entry>
+              </row>
+              <row>
+                <entry>42</entry>
+                <entry>2 × 3 × 7</entry>
+              </row>
+              <row>
+                <entry>6ab</entry>
+                <entry>2 × 3 × a × b</entry>
+              </row>
+              <row>
+                <entry>21a<sup>2</sup>b</entry>
+                <entry>3 × 7 × a × a × b</entry>
+              </row>
+              <row>
+                <entry>(5abc<sup>2</sup>)<sup>2</sup></entry>
+                <entry>5 × a × b × c × c × 5 × a × b × c × c</entry>
+              </row>
+              <row>
+                <entry>–8y<sup>4</sup></entry>
+                <entry>–2 × 2 × 2 × y × y × y × y</entry>
+              </row>
+              <row>
+                <entry>(–8y<sup>4</sup>)<sup>2</sup></entry>
+                <entry>–2 × 2 × 2 × y × y × y × y × –2 × 2 × 2 × y × y × y × y</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id7436858">Die faktore kan in enige orde geskryf word, maar as jy by die gebruiklike orde hou, sal jou werk vergemaklik word Twee van die lyste faktore in die tabel is nie in die gebruiklike orde nie – herskryf hulle in orde.</para>
+        <para id="id8125688">B <emphasis effect="bold">Gemene faktore van tweeterme</emphasis></para>
+        <list id="id5048313" list-type="bulleted">
+          <item>Beskou die tweeterm 6ab + 3ac.</item>
+          <item>Die faktore van 6ab is 2 × 3 × a × b en die faktore van 3ac is 3 × a × c.</item>
+          <item>Die faktore wat in beide 6ab en 3ac voorkom, is 3 en a – hulle is <emphasis effect="italics">gemene faktore</emphasis>.</item>
+          <item>Ons gebruik nou hakies om die gemene faktore en die res te groepeer:</item>
+        </list>
+        <para id="id4273728">6ab = <emphasis effect="bold">3a</emphasis> × 2b en 3ac = <emphasis effect="bold">3a</emphasis> × c</para>
+        <list id="id1166679231833" list-type="bulleted">
+          <item>Ons <emphasis effect="italics">faktoriseer</emphasis> nou 6ab + 3ac. Dit word so uiteengesit:</item>
+        </list>
+        <para id="id7702855">6ab + 3ac = <emphasis effect="bold">3a</emphasis> (2b + c). </para>
+        <list id="id5996442" list-type="bulleted">
+          <item>‘n Uitdrukking met <emphasis effect="italics">terme</emphasis> word verander na ‘n uitdrukking met <emphasis effect="italics">faktore</emphasis>. </item>
+          <item>Ons kan ook sê: ‘n <emphasis effect="italics">Somuitdrukking</emphasis> is nou ‘n <emphasis effect="italics">produkuitdrukking</emphasis>. </item>
+          <item>Nog voorbeelde:</item>
+        </list>
+        <list id="id7625778" list-type="enumerated" number-style="arabic">
+          <item>6x<sup>2</sup> + 12x = <emphasis effect="bold">3x</emphasis> (2x + 4)</item>
+          <item>5x<sup>3</sup> – 2x<sup>2</sup> = <emphasis effect="bold">x</emphasis><emphasis effect="bold">2 </emphasis>(5x – 2)</item>
+          <item>–4x<sup>3</sup> + 12x<sup>2</sup> = <emphasis effect="bold">–4x</emphasis> (x<sup>2</sup> – 3x)</item>
+          <item>9a<sup>2</sup> + 9a<sup>3</sup> = (3a + 3a<sup>2</sup>) (<emphasis effect="bold">3a</emphasis>)</item>
+        </list>
+        <para id="id8158327">Kyk weer na die oefening in deel B van die vorige aktiwiteit – het jy die probleme herken?</para>
+        <para id="id1166678377840">C <emphasis effect="bold">Gemene faktore van veelterme</emphasis></para>
+        <para id="id7695937">Presies dieselfde metode word gebruik as ons die gemene faktore van meer as twee terme moet vind. </para>
+        <list id="id2398662" list-type="bulleted">
+          <item>Voorbeelde:</item>
+        </list>
+        <para id="id7515733">6x<sup>3</sup> – 3x<sup>2</sup> + 6x = <emphasis effect="bold">3x</emphasis> (2x<sup>2</sup> – x + 2)  </para>
+        <para id="id7706370">ab<sup>3</sup>c – 3a<sup>2</sup>b<sup>3</sup>c + a<sup>3</sup>b<sup>2</sup>c = <emphasis effect="bold">ab</emphasis><emphasis effect="bold">2</emphasis><emphasis effect="bold">c</emphasis> (b – 3ab + a<sup>2</sup>)  </para>
+        <para id="id7698416">3a + 24a<sup>2</sup> + 6a<sup>3</sup> = <emphasis effect="bold">3a</emphasis> ( 1 + 8a + 2a<sup>2</sup>)</para>
+        <para id="id7689143">20x – 8x<sup>2</sup> + 16x<sup>3</sup> – 12x<sup>4</sup> +4x<sup>5</sup> = <emphasis effect="bold">4x</emphasis> (5 – 2x + 4x<sup>2</sup> – 3x<sup>3</sup> + x<sup>4</sup>)</para>
+        <para id="id7697217">As jy mooi kyk, sal jy oplet dat die terme wat in die hakies oorbly, nie meer enige gemene faktore het nie. Dis wat gebeur as die uitdrukking <emphasis effect="underline">ten volle</emphasis> gefaktoriseer is. Jy moet altyd die <emphasis effect="underline">grootste</emphasis> moontlike gemene faktor van al die terme uithaal.</para>
+        <para id="id1166674159476">Oefening:</para>
+        <para id="id5000660">Faktoriseer die volgende uitdrukkings volledig deur die grootste gemene faktor uit te haal:</para>
+        <list id="id3930574" list-type="enumerated" number-style="arabic">
+          <item>12abc + 24ac</item>
+          <item>15xy – 21y</item>
+          <item>3abc + 18ab<sup>2</sup>c<sup>3</sup></item>
+          <item>8x<sup>2</sup>y<sup>2</sup> – 2x</item>
+          <item>2a<sup>2</sup>bc<sup>2</sup> + 4ab<sup>2</sup>c – 7abc</item>
+          <item>12a(bc)<sup>2</sup> – 8(abc)<sup>3</sup> + 4(ab)<sup>2</sup>c<sup>3</sup> – 20bc + 4a</item>
+        </list>
+        <para id="id4094619">Paaraktiwiteit:</para>
+        <para id="id7362656">Het jy opgelet dat in elke geval die aantal terme in die hakies na faktorisering presies dieselfde is as die aantal terme in die oorspronklike uitdrukking? </para>
+        <para id="id4227749">Verduidelik vir jou maat hoekom jy dink dat dit altyd so sal gebeur.</para>
+        <para id="id7613821">D <emphasis effect="bold">Faktore van die verskil van kwadrate</emphasis></para>
+        <para id="id7221311">In deel D van die vorige aktiwiteit moes jy hierdie drie pare tweeterme vermenigvuldig:</para>
+        <para id="id4169367">(a + b) (a – b) , </para>
+        <para id="id5148976">(2y + 3) (2y – 3) en  </para>
+        <para id="id7623625">(2a<sup>2</sup> + 3b) (2a<sup>2</sup> – 3b)</para>
+        <list id="id8037170" list-type="bulleted">
+          <item>Hier is die oplossing:</item>
+        </list>
+        <para id="id7743891">(a + b) (a – b) = <emphasis effect="bold">a</emphasis><emphasis effect="bold">2</emphasis><emphasis effect="bold"> – b</emphasis><emphasis effect="bold">2</emphasis></para>
+        <para id="id8114158">(2y + 3) (2y – 3) = <emphasis effect="bold">4y</emphasis><emphasis effect="bold">2</emphasis><emphasis effect="bold"> – 9</emphasis></para>
+        <para id="id3811040">(2a<sup>2</sup> + 3b) (2a<sup>2</sup> – 3b) = <emphasis effect="bold">4a</emphasis><emphasis effect="bold">4</emphasis><emphasis effect="bold"> – 9b</emphasis><emphasis effect="bold">2</emphasis></para>
+        <para id="id7611958">Let op dat die antwoorde ‘n baie spesifieke patroon aanneem: <emphasis effect="bold">vierkant </emphasis><emphasis effect="italics">minus</emphasis><emphasis effect="bold"> vierkant</emphasis>. </para>
+        <para id="id7231053">Ons noem dit die verskil van kwadrate of <emphasis effect="italics">verskil van vierkante</emphasis>, en dit word so gefaktoriseer:</para>
+        <para id="id4927399">
+          <emphasis effect="bold">Eerste–vierkant</emphasis>
+          <emphasis effect="italics">minus</emphasis>
+          <emphasis effect="bold">tweede–vierkant</emphasis>
+        </para>
+        <para id="id7596030">= (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>eerste</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>vierkant</m:mtext></m:mrow></m:mstyle></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { ital "eerste" -  ital "vierkant"} } {}</m:annotation></m:semantics></m:math><emphasis effect="italics">plus</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tweede</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>vierkant</m:mtext></m:mrow></m:mstyle></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { ital "tweede" -  ital "vierkant"} } {}</m:annotation></m:semantics></m:math>) (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>eerste</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>vierkant</m:mtext></m:mrow></m:mstyle></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { ital "eerste" -  ital "vierkant"} } {}</m:annotation></m:semantics></m:math><emphasis effect="italics">minus</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tweede</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>vierkant</m:mtext></m:mrow></m:mstyle></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { ital "tweede" -  ital "vierkant"} } {}</m:annotation></m:semantics></m:math>)</para>
+        <list id="id7259501" list-type="bulleted">
+          <item>Voorbeelde:</item>
+        </list>
+        <para id="id4754399">x<sup>2</sup> – 25 = (x + 5) (x – 5)</para>
+        <para id="id7216975">4 – b<sup>2</sup> = (2 + b) (2 – b)</para>
+        <para id="id4580009">9a<sup>2</sup> – 1 = (3a + 1) (3a – 1)</para>
+        <para id="id4289048">DIT WORD VAN JOU VERWAG OM GOED VERTROUD TE WEES MET DIE ALGEMEENSTE VIERKANTE EN HUL VIERKANTSWORTELS.</para>
+        <para id="id8140721">Hier is ‘n klompie belangrikes – voeg self ander by die lys.</para>
+        <para id="id8108453">2<sup>2</sup> = 4 3<sup>2</sup> = 9 (a<sup>2</sup>)<sup>2</sup> = a4 </para>
+        <para id="id3755749">(a<sup>3</sup>)<sup>2</sup> = a<sup>6</sup></para>
+        <para id="id8322405">(½)<sup>2</sup> = ¼  1<sup>2</sup> = 1</para>
+        <para id="id7623725">Oefening:</para>
+        <para id="id7736418">Faktoriseer volledig:</para>
+        <para id="id7353168">1. a<sup>2</sup> – b<sup>2</sup></para>
+        <list id="id8129895" list-type="enumerated" number-style="arabic">
+          <item>4y<sup>2</sup> – 9</item>
+          <item>4a<sup>4</sup> – 9b<sup>2</sup></item>
+          <item>1 – x<sup>2</sup></item>
+          <item>25 – a<sup>6</sup></item>
+          <item>a<sup>8</sup> – ¼ </item>
+          <item>4a<sup>2</sup>b<sup>2</sup> – 81  </item>
+          <item>0,25 – x<sup>2</sup>y<sup>6</sup></item>
+        </list>
+        <para id="id7472073">9. 2a<sup>2</sup> – 2b<sup>2</sup> (versigtig!)</para>
+        <para id="id7744151">E <emphasis effect="bold">Gekombineerde gemene faktore en verskille van vierkante</emphasis></para>
+        <para id="id4136277">Soos in die laaste probleem (9), is dit noodsaaklik om eers gemene faktore uit te haal, en om daarna die uitdrukking in die hakies te faktoriseer, indien moontlik. </para>
+        <list id="id7640041" list-type="bulleted">
+          <item>Nog ‘n voorbeeld:</item>
+        </list>
+        <para id="id3734516">Faktoriseer 12ax<sup>2</sup> – 3ay<sup>2</sup></para>
+        <para id="id4579922">Herken eers die gemene faktor 3a, voor jy sê dat dit nie ‘n verskil van vierkante kan wees nie.</para>
+        <para id="id5014005">12ax<sup>2</sup> – 3ay<sup>2</sup> = 3a (4x<sup>2</sup> – y<sup>2</sup>) Nou herken ons 4x<sup>2</sup> – y<sup>2</sup> as verskil van twee vierkante.</para>
+        <para id="id7614556">12ax<sup>2</sup> – 3ay<sup>2</sup> = 3a (4x<sup>2</sup> – y<sup>2</sup>) = 3a(2x + y)(2x – y).</para>
+        <para id="id4596631">Oefening:</para>
+        <para id="id7745614">Faktoriseer <emphasis effect="italics">volledig</emphasis>: </para>
+        <para id="id7252075">1. ax<sup>2</sup> – ay<sup>4</sup></para>
+        <para id="id1499763">2. a<sup>3</sup> – ab<sup>2</sup></para>
+        <para id="id4630100">3. 0,5a<sup>2</sup>x – 4,5b<sup>2</sup>x </para>
+        <para id="id4787325">4. a<sup>5</sup>b<sup>3</sup>c – abc</para>
+        <para id="id8156516">F <emphasis effect="bold">Opeenvolgende verskille van vierkante</emphasis></para>
+        <para id="id7237165">Hou jou oë oop en probeer hierdie tweeterm volledig faktoriseer: a<sup>4</sup> – b<sup>4</sup></para>
+        <para id="id6054904">Nou hierdie oefening – soos gewoonlik, faktoriseer volledig.</para>
+        <para id="id2762600">1. x<sup>6</sup> – 64 </para>
+        <para id="id3881291">2. 1 – m<sup>8 </sup></para>
+        <para id="id1166686147846">3. 3a<sup>4</sup> – 24b<sup>8</sup></para>
+        <para id="id6703101">4. x – x<sup>9</sup></para>
+        <para id="id7626269">G <emphasis effect="bold">Faktore van drieterme</emphasis></para>
+        <para id="id7722905">Bestudeer die antwoorde op hierdie vier probleme (uit ‘n vorige aktiwiteit). Die vereenvoudigde antwoorde het partykeer twee terme, partykeer drie terme en partykeer vier. Bespreek met ‘n maat wat hier aan die gang is en besluit wat die verskille veroorsaak.</para>
+        <para id="id4893860">1. (a + b) (a – b)  = a<sup>2</sup> – ab + ab – b<sup>2</sup> = a<sup>2</sup> – b<sup>2</sup> (vereenvoudig)</para>
+        <para id="id4863753">2. (a + 2) (a + 3) = a<sup>2</sup> + 3a + 2a + 6 = a<sup>2</sup> + 5a + 6 </para>
+        <para id="id8166125">3. (a + b) (a + b) = a×a +ab + ba + b×b = a<sup>2</sup> + ab + ab + b<sup>2</sup> = a<sup>2</sup> + 2ab + b<sup>2</sup>  (vereenvoudig)</para>
+        <para id="id4926196">4. (a + b) (c + d)  = ac + ad + bc + bd (hierdie antwoord kan nie vereenvoudig word nie)</para>
+        <list id="id1166678386993" list-type="bulleted">
+          <item>Die antwoord op die soort probleem in vraag 1 hierbo het die vorm van ‘n verskil van vierkante.</item>
+          <item>Die antwoorde op 2 en 3 is drieterme. Ons gaan nou probeer om drieterme te faktoriseer.</item>
+          <item>Die eerste feit om te onthou is dat <emphasis effect="italics">nie alle drieterme gefaktoriseer kan word nie</emphasis>.</item>
+        </list>
+        <para id="id6725468">Werk agteruit deur probleem 2:</para>
+        <para id="id7729036">a<sup>2</sup> + 5a + 6 = a<sup>2</sup> + 3a + 2a + 6 = (a + 2) (a + 3). </para>
+        <list id="id6745299" list-type="bulleted">
+          <item>So is dit duidelik waar die a<sup>2</sup> vandaan kom, en die 5a en die 6. </item>
+        </list>
+        <para id="id1166678437328">Faktoriseer nou a<sup>2</sup> + 7a + 12 = ( ) ( ) deur twee geskikte tweeterme in die twee paar hakies te skryf.</para>
+        <list id="id4229522" list-type="bulleted">
+          <item>As jy die tweeterme in die hakies uitvermenigvuldig soos jy in aktiwiteit 2.2 geleer is, kan jy jou antwoord toets. Hou aan en toets telkens jou antwoorde tot jy seker is hoe om dit te doen. Doen dieselfde in die volgende oefeninge:</item>
+        </list>
+        <list id="id4262747" list-type="bulleted">
+          <item>Elke drieterm het ‘n maat in die tweede kolom; soek hulle uit:</item>
+        </list>
+        <para id="id7650566"> A. a<sup>2</sup> – 5a – 6   1. (x + 2)(x + 3)  </para>
+        <para id="id4194662"> B. a<sup>2</sup> – a – 6   2. (x – 2)(x + 3)  </para>
+        <para id="id8951344"> C. a<sup>2</sup> – 5a + 6   3. (x + 1)(x – 6)  </para>
+        <para id="id7590976"> D. a<sup>2</sup> + 7a + 6   4. (x – 2)(x – 3)  </para>
+        <para id="id7638077"> E. a<sup>2</sup> + 5a + 6   5. (x + 1)(x + 6)  </para>
+        <para id="id7745556"> F. a<sup>2</sup> + 5a – 6   6. (x – 1)(x + 6)  </para>
+        <para id="id5150448"> G. a<sup>2</sup> + a – 6   7. (x + 2)(x – 3)  </para>
+        <para id="id2574210"> H. a<sup>2</sup> – 7a + 6   8. (x – 1)(x – 6)  </para>
+        <list id="id7678147" list-type="bulleted">
+          <item>Faktoriseer nou die volgende drieterme op dieselfde manier. Die laaste twee is moeiliker as die eerste vier!</item>
+        </list>
+        <list id="id8152941" list-type="enumerated" number-style="arabic">
+          <item>a<sup>2</sup> + 3a + 2</item>
+          <item>a<sup>2</sup> + a – 12</item>
+          <item>a<sup>2</sup> – 4a + 3</item>
+          <item>a<sup>2</sup> – 9a + 20</item>
+          <item>a<sup>2</sup> + ab – 12b<sup>2</sup></item>
+          <item>2a<sup>2</sup> – 18a + 40</item>
+        </list>
+      </section>
+      <section id="id8158513">
+        <title>Aktiwiteit 4</title>
+        <para id="para-id8158513">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id4216328">
+        <title>Om faktorisering te gebruik in die vereenvoudiging van breuke, en in die optelling, vermenigvuldiging en deling van breuke</title>
+        <para id="para-id4216328">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1166674160618">
+        <title>[LU 1.2, 1.6, 2.9] </title>
+        <para id="id8655920">A. <emphasis effect="bold">Vereenvoudiging van algebraïese breuke</emphasis></para>
+        <para id="id4555263">Twee van die volgende vier breuke kan vereenvoudig word, en twee nie. Watter twee kan?</para>
+        <para id="id7719649">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mi>a</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mi>a</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {2+a}  over  {2 - a} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id1166679750925">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>3</m:mn>
+                        <m:mfenced open="(" close=")">
+                          <m:mrow>
+                            <m:mi>a</m:mi>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mi>b</m:mi>
+                          </m:mrow>
+                        </m:mfenced>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>a</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mi>b</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {3 left (a+b right )}  over  {a+b} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id7156752">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>4</m:mn>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mi>x</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>x</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>4</m:mn>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {4+x}  over  {x+4} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <equation id="id2541793">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>a</m:mi>
+                        <m:mfenced open="(" close=")">
+                          <m:mrow>
+                            <m:mi>b</m:mi>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mi>c</m:mi>
+                          </m:mrow>
+                        </m:mfenced>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                        <m:mfenced open="(" close=")">
+                          <m:mrow>
+                            <m:mi>b</m:mi>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mi>c</m:mi>
+                          </m:mrow>
+                        </m:mfenced>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {a left (b - c right )}  over  {2 left (b+c right )} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id7620208">Jy het seker nou al agtergekom dat dit baie moeite is om te faktoriseer. Hoekom doen ons dit? </para>
+        <list id="id7620861" list-type="bulleted">
+          <item>Hierdie breuk kan nie vereenvoudig word soos dit staan nie: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>6a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">−</m:mo><m:mn>6b</m:mn></m:mrow></m:mrow><m:mrow><m:mn>2a</m:mn><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6a rSup { size 8{2} } b - 6b}  over  {2a - 2} } } {}</m:annotation></m:semantics></m:math>. Dis omdat ons nie <emphasis effect="underline">terme</emphasis> mag kanselleer nie. As ons die <emphasis effect="italics">som</emphasis>uitdrukkings na <emphasis effect="italics">produk</emphasis>uitdrukkings kan verander (deur faktorisering) sal ons die <emphasis effect="underline">faktore</emphasis> kan kanselleer, en sodoende klaar kan vereenvoudig.</item>
+        </list>
+        <para id="id6987727">6a<sup>2</sup>b – 6b = 6b(a<sup>2</sup> – 1) = 6b (a + 1) (a – 1)  en  2a – 2 = 2(a – 1)</para>
+        <list id="id7405633" list-type="bulleted">
+          <item>Dus is die motivering vir faktorisering die behoefte aan vereenvoudiging.</item>
+        </list>
+        <para id="id7395359">Dus: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>6a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">−</m:mo><m:mn>6b</m:mn></m:mrow></m:mrow><m:mrow><m:mn>2a</m:mn><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6a rSup { size 8{2} } b - 6b}  over  {2a - 2} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>6b</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow><m:mrow><m:mn>2</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6b left (a+1 right ) left (a - 1 right )}  over  {2 left (a - 1 right )} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>3b</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow><m:mn>1</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3b left (a+1 right )}  over  {1} } } {}</m:annotation></m:semantics></m:math> = 3b(a + 1) . </para>
+        <para id="id3814850">Dit is baie belangrik om <emphasis effect="underline">volledig</emphasis> te faktoriseer.</para>
+        <para id="id7506367">Oefening:</para>
+        <para id="id3689183">Faktoriseer beide teller en noemer, en vereenvoudig:</para>
+        <para id="id4329540">1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>12</m:mtext><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>6b</m:mn></m:mrow></m:mrow><m:mrow><m:mn>2a</m:mn><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"12"a+6b}  over  {2a+b} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id7313863">2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>9</m:mn></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x rSup { size 8{2} }  - 9}  over  {x+3} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id4282158">3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow><m:mrow><m:mn>6</m:mn><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2 left (a+1 right ) left (a - 1 right )}  over  {6 left (a+1 right ) rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id2588971">4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>5a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:mn>5a</m:mn><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5a rSup { size 8{2} }  - 5}  over  {5a+5} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id7235041">B. <emphasis effect="bold">Vermenigvuldiging en deling van breuke</emphasis></para>
+        <list id="id3142551" list-type="bulleted">
+          <item>Die gewone reëls om breuke te vermenigvuldig en te deel bly steeds van toepassing. Bestudeer die volgende voorbeelde – let veral op na die faktorisering en kansellering.</item>
+        </list>
+        <para id="id8608529"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>4x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mi>y</m:mi></m:mrow><m:msup><m:mn>6y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac><m:mo stretchy="false">÷</m:mo><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>xy</m:mtext></m:mrow></m:mstyle><m:msup><m:mn>3x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow><m:mo stretchy="false">×</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>xy</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow><m:mn>3x</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4x rSup { size 8{3} } y}  over  {6y rSup { size 8{2} } } }  div  {  { ital "xy"}  over  {3x rSup { size 8{2} } } }  times  {  {2 ital "xy" rSup { size 8{2} } }  over  {3x} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>4x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mi>y</m:mi></m:mrow><m:msup><m:mn>6y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:msup><m:mn>3x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mstyle fontstyle="italic"><m:mrow><m:mtext>xy</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow><m:mo stretchy="false">×</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>xy</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow><m:mn>3x</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4x rSup { size 8{3} } y}  over  {6y rSup { size 8{2} } } }  times  {  {3x rSup { size 8{2} } }  over  { ital "xy"} }  times  {  {2 ital "xy" rSup { size 8{2} } }  over  {3x} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mn>4x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4x rSup { size 8{4} } }  over  {3} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id4987071"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>9</m:mn></m:mrow><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mrow><m:msup><m:mn>4a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mtext>12</m:mtext></m:mrow><m:mi>a</m:mi></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a rSup { size 8{2} }  - 9}  over  {2} }  times  {  {1}  over  {4a rSup { size 8{2} }  - "12"a} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced></m:mrow><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>4a</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { left (a+3 right ) left (a - 3 right )}  over  {2} }  times  {  {1}  over  {4a left (a - 3 right )} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced><m:mn>8a</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { left (a+3 right )}  over  {8a} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id7614900"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>3a</m:mn><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow><m:mn>5</m:mn></m:mfrac><m:mo stretchy="false">÷</m:mo><m:mfrac><m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3a+6}  over  {5} }  div  {  {a rSup { size 8{2} }  - 4}  over  {"10"} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>3a</m:mn><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow><m:mn>5</m:mn></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mtext>10</m:mtext><m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3a+6}  over  {5} }  times  {  {"10"}  over  {a rSup { size 8{2} }  - 4} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced></m:mrow><m:mn>5</m:mn></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mtext>10</m:mtext><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3 left (a+2 right )}  over  {5} }  times  {  {"10"}  over  { left (a+2 right ) left (a - 2 right )} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>6</m:mn><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {a - 2} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id2623849">Oefening:</para>
+        <para id="id7454283">Vereenvoudig:</para>
+        <para id="id7454288">1. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>ab</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mi>c</m:mi></m:mrow></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mrow><m:mn>9</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>ac</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow><m:mn>4b</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">÷</m:mo><m:mfrac><m:mrow><m:mn>3</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ac</m:mtext></m:mrow></m:mstyle></m:mrow><m:msup><m:mn>2b</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2 ital "ab" rSup { size 8{2} } }  over  {b rSup { size 8{3} } c} }  times  {  {9 ital "ac" rSup { size 8{2} } }  over  {4b} }  div  {  {3 ital "ac"}  over  {2b rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id7564746">2. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced></m:mrow></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mrow><m:mn>9</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mn>4</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">÷</m:mo><m:mfrac><m:mrow><m:mn>3</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced></m:mrow><m:mrow><m:mn>2</m:mn><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2 left (a+1 right ) left (a - 2 right ) rSup { size 8{2} } }  over  { left (a - 2 right ) rSup { size 8{3} }  left (a+3 right )} }  times  {  {9 left (a+1 right ) left (a+3 right ) rSup { size 8{2} } }  over  {4 left (a - 2 right )} }  div  {  {3 left (a+1 right ) left (a+3 right )}  over  {2 left (a - 2 right ) rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1166673999715">3. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>4a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mn>8a</m:mn></m:mrow><m:mrow><m:mn>2b</m:mn><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mrow><m:mn>3</m:mn><m:mfenced open="(" close=")"><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced></m:mrow><m:mrow><m:msup><m:mn>3a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mn>6a</m:mn></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4a rSup { size 8{2} } +8a}  over  {2b+4} }  times  {  {3 left (b rSup { size 8{2} } +2 right )}  over  {3a rSup { size 8{2} } +6a} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1166673516239">4. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mrow><m:mn>5x</m:mn><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mfrac><m:mo stretchy="false">÷</m:mo><m:mfrac><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mtext>15</m:mtext><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>15</m:mtext></m:mrow></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x rSup { size 8{2} }  - 1}  over  {5x - 5} }  div  {  { left (x+1 right ) rSup { size 8{2} } }  over  {"15"x+"15"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1166679237248">5. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>7x</m:mn><m:mrow><m:mn>3</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>xy</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac><m:mo stretchy="false">÷</m:mo><m:mfrac><m:mrow><m:mn>3x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow><m:mrow><m:msup><m:mn>5x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mi>y</m:mi></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">÷</m:mo><m:mfrac><m:mrow><m:mn>5x</m:mn><m:mo stretchy="false">−</m:mo><m:mtext>10</m:mtext></m:mrow><m:mrow><m:msup><m:mn>3x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mtext>12</m:mtext></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7x}  over  {3 ital "xy"} }  div  {  {3x+6}  over  {5x rSup { size 8{2} } y} }  div  {  {5x - "10"}  over  {3x rSup { size 8{2} }  - "12"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id4751285">6. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mfrac><m:mrow><m:msup><m:mn>5x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mn>5x</m:mn></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mi>x</m:mi></m:mrow></m:mfrac><m:mfrac><m:mrow><m:mn>5x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { {  {5x rSup { size 8{2} } +5x}  over  {x rSup { size 8{2} }  - x} } }  over  { {  {5x+5}  over  {x rSup { size 8{2} }  - 1} } } } } {}</m:annotation></m:semantics></m:math> (Hier is ‘n breuk gedeel deur ‘n breuk – herskryf dit eers soos in 4)</para>
+        <para id="id7261520">C. <emphasis effect="bold">Optelling van breuke</emphasis></para>
+        <list id="id1166678402575" list-type="bulleted">
+          <item>Jy weet alreeds dat die optelling en aftrekking van breuke heelwat moeiliker is as vermenigvuldiging en deling. Dit is omdat ons slegs gelyksoortige breuke (met eenderse noemers) kan optel en aftrek. As die noemers verskil, moet jy die kleinste gemene veelvoud (KGV) van die noemers soek en dan elke breuk oor hierdie noemer skryf. Vereenvoudig dan die breuk. Vereenvoudig weer die antwoord so ver moontlik. Hier volg voorbeelde – al die stappe word getoon:</item>
+        </list>
+        <para id="id7324821">Vereenvoudig: </para>
+        <para id="id7736573">1. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>5</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>abx</m:mtext></m:mrow></m:mstyle></m:mrow><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cx</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:mn>4</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ac</m:mtext></m:mrow></m:mstyle></m:mrow><m:mn>3x</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cx</m:mtext></m:mrow></m:mstyle><m:mn>2a</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5 ital "abx"}  over  {2 ital "cx"} } + {  {4 ital "ac"}  over  {3x} } + {  { ital "cx"}  over  {2a} } } {}</m:annotation></m:semantics></m:math> (KGV = 6acx) </para>
+        <para id="id1166673753548"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mfrac><m:mrow><m:mn>5</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>abx</m:mtext></m:mrow></m:mstyle></m:mrow><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cx</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mn>3a</m:mn><m:mn>3a</m:mn></m:mfrac></m:mrow></m:mfenced><m:mo stretchy="false">+</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mfrac><m:mrow><m:mn>4</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ac</m:mtext></m:mrow></m:mstyle></m:mrow><m:mn>3x</m:mn></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ac</m:mtext></m:mrow></m:mstyle></m:mrow><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ac</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow></m:mfenced></m:mrow><m:mo stretchy="false">+</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cx</m:mtext></m:mrow></m:mstyle><m:mn>2a</m:mn></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mrow><m:mn>3</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cx</m:mtext></m:mrow></m:mstyle></m:mrow><m:mrow><m:mn>3</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cx</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {5 ital "abx"}  over  {2 ital "cx"} }  times  {  {3a}  over  {3a} }  right )+ left ( {  {4 ital "ac"}  over  {3x} }  times  {  {2 ital "ac"}  over  {2 ital "ac"} }  right )+ left ( {  { ital "cx"}  over  {2a} }  times  {  {3 ital "cx"}  over  {3 ital "cx"} }  right )} {}</m:annotation></m:semantics></m:math>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mtext>15</m:mtext><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mstyle fontstyle="italic"><m:mrow><m:mtext>bx</m:mtext></m:mrow></m:mstyle></m:mrow><m:mrow><m:mn>6</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>acx</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:msup><m:mn>8a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mn>6</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>acx</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:msup><m:mn>3c</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mn>6</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>acx</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"15"a rSup { size 8{2} }  ital "bx"}  over  {6 ital "acx"} } + {  {8a rSup { size 8{2} } c rSup { size 8{2} } }  over  {6 ital "acx"} } + {  {3c rSup { size 8{2} } x rSup { size 8{2} } }  over  {6 ital "acx"} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>15</m:mtext><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>bx</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:msup><m:mn>8a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>3c</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mn>6</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>acx</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"15"a rSup { size 8{2} }  ital "bx"+8a rSup { size 8{2} } c rSup { size 8{2} } +3c rSup { size 8{2} } x rSup { size 8{2} } }  over  {6 ital "acx"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id7586050">2. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">+</m:mo><m:mi>c</m:mi></m:mrow><m:mn>3</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mi>c</m:mi></m:mrow><m:mn>6</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a+b}  over  {2} } + {  {b+c}  over  {3} }  -  {  {a+c}  over  {6} } } {}</m:annotation></m:semantics></m:math> (LCD = 6) Let baie fyn op hoe die tekens hieronder hanteer word!</para>
+        <para id="id2841851"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow></m:mfenced></m:mrow><m:mn>6</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">+</m:mo><m:mi>c</m:mi></m:mrow></m:mfenced></m:mrow><m:mn>6</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mi>c</m:mi></m:mrow><m:mn>6</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3 left (a+b right )}  over  {6} } + {  {2 left (b+c right )}  over  {6} }  -  {  {a+c}  over  {6} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow></m:mfenced><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">+</m:mo><m:mi>c</m:mi></m:mrow></m:mfenced><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mi>c</m:mi></m:mrow></m:mfenced></m:mrow></m:mrow><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3 left (a+b right )+2 left (b+c right ) -  left (a+c right )}  over  {6} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>3a</m:mn><m:mo stretchy="false">+</m:mo><m:mn>3b</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>2b</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>2c</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mi>c</m:mi></m:mrow><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3a+3b+2b+2c - a - c}  over  {6} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mrow><m:mn>2a</m:mn><m:mo stretchy="false">+</m:mo><m:mn>5b</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mi>c</m:mi></m:mrow><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2a+5b+c}  over  {6} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1166678506801">3. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>3a</m:mn><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>2</m:mn><m:mrow><m:mn>5a</m:mn><m:mo stretchy="false">−</m:mo><m:mtext>10</m:mtext></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a+3}  over  {a rSup { size 8{2} }  - 4} } + {  {1}  over  {3a+6} } + {  {2}  over  {5a - "10"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id5944706">Om die <emphasis effect="underline">Kleinste</emphasis> Gemene Noemer te vind, faktoriseer eers die noemers!</para>
+        <para id="id1166673703146">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mi>a</m:mi>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:mfenced open="(" close=")">
+                              <m:mrow>
+                                <m:mi>a</m:mi>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mfenced>
+                            <m:mfenced open="(" close=")">
+                              <m:mrow>
+                                <m:mi>a</m:mi>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mfenced>
+                          </m:mrow>
+                        </m:mfrac>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mrow>
+                            <m:mn>3</m:mn>
+                            <m:mfenced open="(" close=")">
+                              <m:mrow>
+                                <m:mi>a</m:mi>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mfenced>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mfrac>
+                        <m:mn>2</m:mn>
+                        <m:mrow>
+                          <m:mn>5</m:mn>
+                          <m:mfenced open="(" close=")">
+                            <m:mrow>
+                              <m:mi>a</m:mi>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mfenced>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {a+3}  over  { left (a+2 right ) left (a - 2 right )} } + {  {1}  over  {3 left (a+2 right )} } + {  {2}  over  {5 left (a - 2 right )} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id3045883"> Kan jy sien die KGV is 3×5×(a+2)(a–2)?</para>
+        <para id="id8079850">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mfenced open="(" close=")">
+                          <m:mrow>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mi>a</m:mi>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mn>3</m:mn>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mfenced open="(" close=")">
+                                  <m:mrow>
+                                    <m:mi>a</m:mi>
+                                    <m:mo stretchy="false">+</m:mo>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mfenced>
+                                <m:mfenced open="(" close=")">
+                                  <m:mrow>
+                                    <m:mi>a</m:mi>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mfenced>
+                              </m:mrow>
+                            </m:mfrac>
+                            <m:mo stretchy="false">×</m:mo>
+                            <m:mfrac>
+                              <m:mtext>15</m:mtext>
+                              <m:mtext>15</m:mtext>
+                            </m:mfrac>
+                          </m:mrow>
+                        </m:mfenced>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mfenced open="(" close=")">
+                          <m:mrow>
+                            <m:mfrac>
+                              <m:mn>1</m:mn>
+                              <m:mrow>
+                                <m:mn>3</m:mn>
+                                <m:mfenced open="(" close=")">
+                                  <m:mrow>
+                                    <m:mi>a</m:mi>
+                                    <m:mo stretchy="false">+</m:mo>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mfenced>
+                              </m:mrow>
+                            </m:mfrac>
+                            <m:mo stretchy="false">×</m:mo>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mn>5</m:mn>
+                                <m:mfenced open="(" close=")">
+                                  <m:mrow>
+                                    <m:mi>a</m:mi>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mfenced>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mn>5</m:mn>
+                                <m:mfenced open="(" close=")">
+                                  <m:mrow>
+                                    <m:mi>a</m:mi>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mfenced>
+                              </m:mrow>
+                            </m:mfrac>
+                          </m:mrow>
+                        </m:mfenced>
+                      </m:mrow>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mfenced open="(" close=")">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>2</m:mn>
+                            <m:mrow>
+                              <m:mn>5</m:mn>
+                              <m:mfenced open="(" close=")">
+                                <m:mrow>
+                                  <m:mi>a</m:mi>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mfenced>
+                            </m:mrow>
+                          </m:mfrac>
+                          <m:mo stretchy="false">×</m:mo>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mn>3</m:mn>
+                              <m:mfenced open="(" close=")">
+                                <m:mrow>
+                                  <m:mi>a</m:mi>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mfenced>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mn>3</m:mn>
+                              <m:mfenced open="(" close=")">
+                                <m:mrow>
+                                  <m:mi>a</m:mi>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mfenced>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {a+3}  over  { left (a+2 right ) left (a - 2 right )} }  times  {  {"15"}  over  {"15"} }  right )+ left ( {  {1}  over  {3 left (a+2 right )} }  times  {  {5 left (a - 2 right )}  over  {5 left (a - 2 right )} }  right )+ left ( {  {2}  over  {5 left (a - 2 right )} }  times  {  {3 left (a+2 right )}  over  {3 left (a+2 right )} }  right )} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id4159781"> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>15</m:mtext><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced></m:mrow><m:mrow><m:mtext>15</m:mtext><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"15" left (a+3 right )+5 left (a - 2 right )+6 left (a+2 right )}  over  {"15" left (a+2 right ) left (a - 2 right )} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>15</m:mtext><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>45</m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>5a</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>10</m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>6a</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow><m:mrow><m:mtext>15</m:mtext><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"15"a+"45"+5a - "10"+6a+"12"}  over  {"15" left (a+2 right ) left (a - 2 right )} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>26</m:mtext><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>47</m:mtext></m:mrow></m:mrow><m:mrow><m:mtext>15</m:mtext><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"26"a+"47"}  over  {"15" left (a+2 right ) left (a - 2 right )} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id4890566">Oefening:</para>
+        <para id="id4199633">Vereenvoudig die volgende uitdrukkings deur van faktorisering gebruik te maak:</para>
+        <para id="id4199637"> 1. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mi>a</m:mi><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mi>a</m:mi><m:mi>x</m:mi></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>5a</m:mn><m:mn>2x</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {x rSup { size 8{2} } } }  -  {  {a}  over  {x} } + {  {5a}  over  {2x} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id4350308">2. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:mn>2x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow><m:mn>2x</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mn>3x</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } + {  {2x+1}  over  {2x} }  -  {  {x - 1}  over  {3x} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id2857721">3. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>4a</m:mn><m:mo stretchy="false">−</m:mo><m:mn>4b</m:mn></m:mrow><m:mrow><m:msup><m:mn>2a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:msup><m:mn>2b</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>3</m:mn><m:mrow><m:mn>2a</m:mn><m:mo stretchy="false">−</m:mo><m:mn>2b</m:mn></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4a - 4b}  over  {2a rSup { size 8{2} }  - 2b rSup { size 8{2} } } }  -  {  {3}  over  {2a - 2b} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id7721555">4. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} }  left (a - 2 right )+ {  {2}  over  {3} }  left (a+1 right ) -  {  {3}  over  {4} }  left (a - 3 right )} {}</m:annotation></m:semantics></m:math></para>
+        <list id="id4616896" list-type="bulleted">
+          <item>‘n Laaste wenk. Ons sou 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow><m:mrow><m:mn>3</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced></m:mrow></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mrow><m:mn>9</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced></m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:mi>x</m:mi></m:mrow></m:mfenced></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2 left (x - 1 right )}  over  {3 left (x+3 right )} }  times  {  {9 left (x+3 right )}  over  { left (1 - x right )} } } {}</m:annotation></m:semantics></m:math> beter kon vereenvoudig as (1–x) so gelyk het: (x–1).</item>
+          <item>Ons kan hierdie verandering maak as ons die teken van die hele tweeterm ook verander: (1–x) = –(x–1) omdat –(x–1) = –x + 1, en dit is 1–x. Voltooi self die probleem.</item>
+        </list>
+      </section>
+    </section>
+    <section id="id4769392">
+      <title>Assessering</title>
+      <table id="id1166684967939" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1</entry>
+            </row>
+            <row>
+              <entry>Getalle, Bewerkings en VerwantskappeDie leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Ons weet dit as die leerder:</entry>
+            </row>
+            <row>
+              <entry>1.1 die historiese ontwikkeling van getallestelsels in ’n verskeidenheid historiese en kulturele kontekste (insluitend plaaslik) beskryf en illustreer;</entry>
+            </row>
+            <row>
+              <entry>1.2 rasionale getalle (insluitend baie klein getalle in wetenskaplike notasie) herken, gebruik en voorstel, en sonder huiwering tussen ekwivalente vorms in gepaste kontekste beweeg;</entry>
+            </row>
+            <row>
+              <entry>1.3 probleme in konteks oplos, insluitend kontekste wat gebruik word om ‘n bewustheid van ander leerareas, asook van menseregte-, sosiale, ekonomiese en omgewingsake, te bevorder, soos:</entry>
+            </row>
+            <row>
+              <entry>1.3.1 finansiële kontekste (insluitend wins en verlies, begrotings, rekeninge, lenings, enkelvoudige en saamgestelde rente, huurkoop, wisselkoerse, kommissie, huur en die bankwese);</entry>
+            </row>
+            <row>
+              <entry>1.3.2 metings in die Natuurwetenskappe en Tegnologie;</entry>
+            </row>
+            <row>
+              <entry>1.4 probleme oplos wat verhouding, koers en proporsie (direkte en omgekeerde) behels;</entry>
+            </row>
+            <row>
+              <entry>1.5 skat en bereken deur geskikte bewerkings vir probleme te kies en te gebruik en die redelikheid van resultate te beoordeel (insluitend meetprobleme wat rasionale benaderings van irrasionale getalle behels);</entry>
+            </row>
+            <row>
+              <entry>1.6 ’n verskeidenheid van tegnieke en instrumente (insluitend tegnologie) gebruik om berekeninge doeltreffend en met die nodige mate van akkuraatheid te doen, insluitend die volgende reëls en betekenisse van eksponente (leerders behoort in staat te wees om hierdie reëls en betekenisse slegs in berekeninge te gebruik):</entry>
+            </row>
+            <row>
+              <entry>1.6.1 x <sup>n</sup> × x <sup>m</sup> = x<sup>n + m</sup></entry>
+            </row>
+            <row>
+              <entry>1.6.2 x <sup>n</sup>  x <sup>m</sup> = x<sup>n – m</sup></entry>
+            </row>
+            <row>
+              <entry>1.6.3 x <sup>0</sup> = 1</entry>
+            </row>
+            <row>
+              <entry>1.6.4 x <sup>–n</sup> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {x rSup { size 8{n} } } } } {}</m:annotation></m:semantics></m:math></entry>
+            </row>
+            <row>
+              <entry>1.7 die eienskappe van rasionale getalle herken, beskryf en gebruik.</entry>
+            </row>
+            <row>
+              <entry>LU 2</entry>
+            </row>
+            <row>
+              <entry>Patrone, Funksies en AlgebraDie leerder is in staat om patrone en verwantskappe te herken, te beskryf en voor te stel, en probleme op te los deur algebraïese taal en vaardighede te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Ons weet dit as die leerder:</entry>
+            </row>
+            <row>
+              <entry>2.1 op verskillende maniere ‘n verskeidenheid numeriese en meetkundige patrone en verwantskappe ondersoek deur dit voor te stel en te veralgemeen, en deur die reëls onderliggend daaraan te verduidelik en te bewys (insluitend patrone in natuurlike en kulturele vorms en patrone wat die leerders self geskep het);</entry>
+            </row>
+            <row>
+              <entry>2.7 die distributiewe wet en manipuleringsvaardighede wat in graad 8 ontwikkel is gebruik om die volgende te doen:</entry>
+            </row>
+            <row>
+              <entry>
+                <list id="id1166673678594" list-type="bulleted">
+                  <item>bepaal die produk van tweeterme;</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <list id="id3014674" list-type="bulleted">
+                  <item>faktoriseer algebraïse uitdrukkings (beperk tot gemene faktore en die verskil van vierkante);</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry>2.8 die eksponentwette gebruik om uitdrukkings te vereenvoudig en vergelykings op te los;</entry>
+            </row>
+            <row>
+              <entry>2.9 faktorisering om algebraïese uitdrukkings te vereenvoudig en vergelykings op te los gebruik.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id4365181">
+      <title>Memorandum</title>
+      <para id="id4124313">Bespreking</para>
+      <para id="id4124318">Terminologie</para>
+      <list id="id7724576" list-type="bulleted">
+        <item>Leerders gebruik dikwels metodes vir gebruik met <emphasis effect="italics">uitdrukkings</emphasis> wanneer hulle met <emphasis effect="italics">vergelykings</emphasis> werk (byvoorbeeld, hulle kan noemers in uitdrukkings weglaat), en andersom. Hou ‘n ogie hierop en leer hulle om die konteks te ondersoek voor hulle blindelings voortgaan.</item>
+        <item>Vermenigvuldiging en faktorisering werk omgekeerd – die leerders moet hiervan bewus word. Dit maak in elk geval die werk makliker om te bemeester. </item>
+        <item>As leerders nie terme en faktore kan onderskei nie, sal hulle nie uitdrukkings behoorlik kan manipuleer nie. As dit nodig blyk, kan hulle meer oefeninge gegee word.</item>
+        <item>In die algemeen vind leerders breuke moeilik. Dit is dalk goed om in sulke gevalle met nie–algebraïse breuke te begin om die basis te vestig.</item>
+      </list>
+      <para id="id7531403">TOETS </para>
+      <para id="id7531407">1. Vereenvoudig die volgende uitdrukkings deur gelyksoortige terme bymekaar te maak.</para>
+      <para id="id1166673520341">1.1 3<emphasis effect="italics">a</emphasis><sup>2</sup> + 3<emphasis effect="italics">a</emphasis><sup>2</sup> – 6<emphasis effect="italics">a</emphasis> + 3<emphasis effect="italics">a</emphasis> – 4 + 1</para>
+      <para id="id1166684862132">1.2 2<emphasis effect="italics">y</emphasis><sup>2</sup> – 1<emphasis effect="italics">y</emphasis> + 2<emphasis effect="italics">y</emphasis><sup>2</sup> – 6 + 2<emphasis effect="italics">y</emphasis> – 9</para>
+      <para id="id7653212">1.3 8<emphasis effect="italics">x</emphasis><sup>2</sup> – (5<emphasis effect="italics">x</emphasis> + 12<emphasis effect="italics">x</emphasis><sup>2</sup> – 1) + <emphasis effect="italics">x</emphasis> – 4</para>
+      <para id="id7385924">1.4 (3<emphasis effect="italics">a</emphasis> – <emphasis effect="italics">a</emphasis><sup>2</sup>) – [(2<emphasis effect="italics">a</emphasis><sup>2</sup> – 11) – (5<emphasis effect="italics">a</emphasis> – 3)]</para>
+      <para id="id7538013">2. Gee die antwoorde tot die volgende probleme in die eenvoudigste vorm:</para>
+      <para id="id7587960">2.1 Tel 3<emphasis effect="italics">x</emphasis><sup>2</sup> + 5<emphasis effect="italics">x</emphasis> – 1 by <emphasis effect="italics">x</emphasis><sup>2</sup> – 3<emphasis effect="italics">x</emphasis></para>
+      <para id="id7673000">2.2 Bereken die som van 2<emphasis effect="italics">a</emphasis> + 3<emphasis effect="italics">b</emphasis> – 5 en 3 + 2<emphasis effect="italics">b</emphasis> – 7<emphasis effect="italics">a</emphasis></para>
+      <para id="id7611739">2.3 Trek 6<emphasis effect="italics">a</emphasis> + 7 af van 5<emphasis effect="italics">a</emphasis><sup>2</sup> + 2<emphasis effect="italics">a</emphasis> + 2</para>
+      <para id="id7606803">2.4 Hoeveel is 3<emphasis effect="italics">a</emphasis> – 8<emphasis effect="italics">b</emphasis> + 3 minder as <emphasis effect="italics">a</emphasis> + <emphasis effect="italics">b</emphasis> + 2?</para>
+      <para id="id7508092">3. Vereenvoudig deur vermenigvuldiging en laat antwoord in eenvoudigste vorm:</para>
+      <para id="id7508099">3.1 (3<emphasis effect="italics">x</emphasis><sup>2</sup>) × (2<emphasis effect="italics">x</emphasis><sup>3</sup>)</para>
+      <para id="id7462153">3.2 (<emphasis effect="italics">abc</emphasis>) (<emphasis effect="italics">a</emphasis><sup>2</sup><emphasis effect="italics">c</emphasis>) (2<emphasis effect="italics">b</emphasis><sup>2</sup>)</para>
+      <para id="id1166673523314">3.3 <emphasis effect="italics">abc</emphasis>(<emphasis effect="italics">a</emphasis><sup>2</sup><emphasis effect="italics">c</emphasis> + 2<emphasis effect="italics">b</emphasis><sup>2</sup>)</para>
+      <para id="id7388155">3.4 –3<emphasis effect="italics">a</emphasis>(2<emphasis effect="italics">a</emphasis><sup>2</sup> – 5<emphasis effect="italics">a</emphasis>)</para>
+      <para id="id1166674152223">3.5 (<emphasis effect="italics">a</emphasis> – 2<emphasis effect="italics">b</emphasis>) (<emphasis effect="italics">a</emphasis> + 2<emphasis effect="italics">b</emphasis>)</para>
+      <para id="id7667140">3.6 (3 – <emphasis effect="italics">x</emphasis><sup>2</sup>) (2<emphasis effect="italics">x</emphasis><sup>2</sup> + 5)</para>
+      <para id="id7417488">3.7 (<emphasis effect="italics">x</emphasis> – 5<emphasis effect="italics">y</emphasis>)<sup>2</sup></para>
+      <para id="id1166673514232">3.8 (2 – <emphasis effect="italics">b</emphasis>) (3<emphasis effect="italics">a</emphasis> + <emphasis effect="italics">c</emphasis>)</para>
+      <para id="id7617750">Memorandum </para>
+      <para id="id7617755">1.1 6<emphasis effect="italics">a</emphasis><sup>2</sup> – 3<emphasis effect="italics">a</emphasis> – 3   </para>
+      <para id="id7406586">1.2 4<emphasis effect="italics">y</emphasis><sup>2</sup> + <emphasis effect="italics">y</emphasis> – 15  </para>
+      <para id="id7418440">1.3 – 4<emphasis effect="italics">x</emphasis><sup>2</sup> – 4<emphasis effect="italics">x</emphasis> – 3</para>
+      <para id="id1166674176089">1.4 – 3<emphasis effect="italics">a</emphasis><sup>2</sup> + 8<emphasis effect="italics">a</emphasis> + 8   </para>
+      <para id="id1166674148141">2.1 4<emphasis effect="italics">x</emphasis><sup>2</sup> + 2<emphasis effect="italics">x</emphasis> – 1  </para>
+      <para id="id1166673353810">2.2 – 5<emphasis effect="italics">a</emphasis> + 5<emphasis effect="italics">b</emphasis> – 2</para>
+      <para id="id1166673523956">2.3 5<emphasis effect="italics">a</emphasis><sup>2</sup> – 4<emphasis effect="italics">a</emphasis> – 5   </para>
+      <para id="id1166673545928">2.4 – 2<emphasis effect="italics">a</emphasis> + 9<emphasis effect="italics">b</emphasis> – 1  </para>
+      <para id="id1166684927656">3.1 6<emphasis effect="italics">x</emphasis><sup>5</sup></para>
+      <para id="id1166684953736">3.2 2<emphasis effect="italics">a</emphasis><sup>3</sup><emphasis effect="italics">b</emphasis><sup>3</sup><emphasis effect="italics">c</emphasis><sup>2</sup></para>
+      <para id="id1166674141075">3.3 <emphasis effect="italics">a</emphasis><sup>3</sup><emphasis effect="italics">bc</emphasis><sup>2</sup> + 2<emphasis effect="italics">ab</emphasis><sup>3</sup><emphasis effect="italics">c</emphasis></para>
+      <para id="id1166674149934">3.4 – 6<emphasis effect="italics">a</emphasis><sup>3</sup> + 15<emphasis effect="italics">a</emphasis><sup>2</sup></para>
+      <para id="id1166673539602">3.5 <emphasis effect="italics">a</emphasis><sup>2</sup> – 4<emphasis effect="italics">b</emphasis><sup>2</sup></para>
+      <para id="id1166684846086">3.6 –2<emphasis effect="italics">x</emphasis><sup>4</sup> + <emphasis effect="italics">x</emphasis><sup>2</sup> + 15  </para>
+      <para id="id1166684852058">3.7 <emphasis effect="italics">x</emphasis><sup>2</sup> – 10<emphasis effect="italics">xy</emphasis> + 25<emphasis effect="italics">y</emphasis><sup>2</sup></para>
+      <para id="id1166673316517">3.8 6<emphasis effect="italics">a</emphasis> + 2<emphasis effect="italics">c</emphasis> – 3<emphasis effect="italics">ab</emphasis> – <emphasis effect="italics">bc</emphasis></para>
+      <para id="id1166679724463">TOETS </para>
+      <para id="id1166673901082">1. Bepaal die Grootste Gemene Faktor van hierdie drie uitdrukkings: 6<emphasis effect="italics">a</emphasis><sup>2</sup><emphasis effect="italics">c</emphasis><sup>2</sup> en 2<emphasis effect="italics">ac</emphasis><sup>2</sup> en 10<emphasis effect="italics">ab</emphasis><sup>2</sup><emphasis effect="italics">c</emphasis><sup>3</sup>.</para>
+      <para id="id1166685923292">2. Faktoriseer die volgende uitdrukkings volledig deur gemene faktore te bepaal:</para>
+      <para id="id1166685923298">2.1 12<emphasis effect="italics">a</emphasis><sup>3</sup> + 3<emphasis effect="italics">a</emphasis><sup>4</sup></para>
+      <para id="id1166684927563">2.2 –5<emphasis effect="italics">xy</emphasis> – 15<emphasis effect="italics">x</emphasis><sup>2</sup><emphasis effect="italics">y</emphasis><sup>2</sup> – 20<emphasis effect="italics">y</emphasis></para>
+      <para id="id1166679314439">2.3 6<emphasis effect="italics">a</emphasis><sup>2</sup><emphasis effect="italics">c</emphasis><sup>2</sup> – 2<emphasis effect="italics">ac</emphasis><sup>2</sup> + 10<emphasis effect="italics">ab</emphasis><sup>2</sup><emphasis effect="italics">c</emphasis><sup>3</sup></para>
+      <para id="id1166679743478">3. Faktoriseer hierdie verskille van kwadrate volledig:</para>
+      <para id="id1166679422112">3.1 <emphasis effect="italics">a</emphasis><sup>2</sup> – 4</para>
+      <para id="id1166673379508">3.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>9</m:mn></m:mfrac><m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:msup><m:mn>9b</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {9} } a rSup { size 8{2} }  - 9b rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166679428438">3.3 <emphasis effect="italics">x</emphasis><sup>4</sup> – 16<emphasis effect="italics">y</emphasis><sup>4</sup></para>
+      <para id="id1166673513555">3.4 1 – <emphasis effect="italics">a</emphasis><sup>4</sup><emphasis effect="italics">b</emphasis><sup>4</sup></para>
+      <para id="id1166673380320">4. Faktoriseer hierdie uitdrukkings so ver as moontlik:</para>
+      <para id="id1166673380326">4.1 3<emphasis effect="italics">x</emphasis><sup>2</sup> – 27</para>
+      <para id="id3922395">4.2 2<emphasis effect="italics">a</emphasis> – 8<emphasis effect="italics">ab</emphasis><sup>2</sup></para>
+      <para id="id1166674068441">4.3 <emphasis effect="italics">a</emphasis><sup>2 </sup>– 5<emphasis effect="italics">a</emphasis> – 6</para>
+      <para id="id1166673364168">4.4 <emphasis effect="italics">a</emphasis><sup>2</sup> + 7<emphasis effect="italics">a</emphasis> + 6</para>
+      <para id="id1166679372497">5. Vereenvoudig die volgende breuke deur van faktorisering gebruik te maak:</para>
+      <para id="id1166679372503">5.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>3a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:mn>6a</m:mn><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3a rSup { size 8{2} }  - 3}  over  {6a+6} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166673351873">5.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>6x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">−</m:mo><m:mn>6y</m:mn></m:mrow></m:mrow><m:mrow><m:mn>2x</m:mn><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6x rSup { size 8{2} } y - 6y}  over  {2x - 2} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166673319627">5.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>9</m:mn></m:mrow><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mrow><m:msup><m:mn>4a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mtext>12</m:mtext></m:mrow><m:mi>a</m:mi></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a rSup { size 8{2} }  - 9}  over  {2} }  times  {  {1}  over  {4a rSup { size 8{2} }  - "12"a} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166673315373">5.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>3x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow><m:mn>5</m:mn></m:mfrac><m:mo stretchy="false">÷</m:mo><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3x+6}  over  {5} }  div  {  {x rSup { size 8{2} }  - 4}  over  {"15"} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id8180602">5.5 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>abx</m:mtext></m:mrow></m:mstyle><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cx</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ac</m:mtext></m:mrow></m:mstyle></m:mrow><m:mn>3x</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:mn>3</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cx</m:mtext></m:mrow></m:mstyle></m:mrow><m:mn>2a</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "abx"}  over  {2 ital "cx"} } + {  {2 ital "ac"}  over  {3x} } + {  {3 ital "cx"}  over  {2a} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166673340447">5.6 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>2a</m:mn><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>3a</m:mn><m:mi>x</m:mi></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mi>a</m:mi><m:mn>2x</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2a}  over  {x rSup { size 8{2} } } }  -  {  {3a}  over  {x} } + {  {a}  over  {2x} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166679597269">5.7 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>4a</m:mn><m:mo stretchy="false">−</m:mo><m:mn>4b</m:mn></m:mrow><m:mrow><m:msup><m:mn>2a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:msup><m:mn>2b</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>3</m:mn><m:mrow><m:mn>2a</m:mn><m:mo stretchy="false">−</m:mo><m:mn>2b</m:mn></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4a - 4b}  over  {2a rSup { size 8{2} }  - 2b rSup { size 8{2} } } }  -  {  {3}  over  {2a - 2b} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166674142112">5.8 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} }  left (a+2 right )+ {  {1}  over  {3} }  left (a - 1 right ) -  {  {1}  over  {4} }  left (a - 5 right )} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166673317689">Memorandum </para>
+      <para id="id1166673317694">1. 2<emphasis effect="italics">ac</emphasis><sup>2</sup></para>
+      <para id="id1166678511956">2.1 3<emphasis effect="italics">a</emphasis><sup>3</sup> (4 + <emphasis effect="italics">a</emphasis><sup>2</sup>)</para>
+      <para id="id1166673378973">2.2 –5<emphasis effect="italics">y</emphasis> (<emphasis effect="italics">x</emphasis> + 3<emphasis effect="italics">x</emphasis><sup>2</sup><emphasis effect="italics">y</emphasis> + 4)</para>
+      <para id="id1166684955128">2.3 2<emphasis effect="italics">ac</emphasis><sup>2</sup> (3<emphasis effect="italics">a</emphasis> – 1 + 5<emphasis effect="italics">b</emphasis><sup>2</sup><emphasis effect="italics">c</emphasis>)</para>
+      <para id="id1166673896259">3.1 (<emphasis effect="italics">a</emphasis> + 2) (<emphasis effect="italics">a</emphasis> – 2)</para>
+      <para id="id4554683">3.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3b</m:mn></m:mrow></m:mrow></m:mfenced><m:mfenced open="(" close=")"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>3b</m:mn></m:mrow></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {1}  over  {3} } a+3b right ) left ( {  {1}  over  {3} } a - 3b right )} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id4136985">3.3 (<emphasis effect="italics">x</emphasis><sup>2</sup> + 4<emphasis effect="italics">y</emphasis><sup>2</sup>) (<emphasis effect="italics">x</emphasis> + 2<emphasis effect="italics">y</emphasis>) (<emphasis effect="italics">x</emphasis> – 2<emphasis effect="italics">y</emphasis>)</para>
+      <para id="id1166674153574">3.4 (1 + <emphasis effect="italics">a</emphasis><sup>2</sup><emphasis effect="italics">b</emphasis><sup>2</sup>) (1 + <emphasis effect="italics">ab</emphasis>) (1 – <emphasis effect="italics">ab</emphasis>)</para>
+      <para id="id1166684899940">4.1 3 (<emphasis effect="italics">x</emphasis> + 3) (<emphasis effect="italics">x</emphasis> – 3)</para>
+      <para id="id1166678415950">4.2 2<emphasis effect="italics">a</emphasis> (1 + 4<emphasis effect="italics">b</emphasis>) (1 – 4<emphasis effect="italics">b</emphasis>)</para>
+      <para id="id1166678255138">4.3 (<emphasis effect="italics">a</emphasis> + 1) (<emphasis effect="italics">a</emphasis> – 6)</para>
+      <para id="id3630334">4.4 (<emphasis effect="italics">a</emphasis> + 1) (<emphasis effect="italics">a</emphasis> + 6)</para>
+      <para id="id1166674158586">5.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a - 1}  over  {2} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166684905937">5.2 3<emphasis effect="italics">y</emphasis> (<emphasis effect="italics">x</emphasis> + 1)</para>
+      <para id="id1166679371627">5.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow><m:mn>8a</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a+3}  over  {8a} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166673910552">5.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {x - 2} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166685003091">5.5 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>3a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>bx</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:msup><m:mn>4a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>9c</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mn>6</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>acx</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3a rSup { size 8{2} }  ital "bx"+4a rSup { size 8{2} } c rSup { size 8{2} } +9c rSup { size 8{2} } x rSup { size 8{2} } }  over  {6 ital "acx"} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id3595374">5.6 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mrow><m:mn>4a</m:mn><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ax</m:mtext></m:mrow></m:mstyle></m:mrow><m:msup><m:mn>2x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4a - 5 ital "ax"}  over  {2x rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166674129330">5.7 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>7b</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow></m:mfenced><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mi>b</m:mi></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a - 7b}  over  {2 left (a+b right ) left (a - b right )} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166684967603">5.8 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>3a</m:mn><m:mo stretchy="false">+</m:mo><m:mn>9</m:mn></m:mrow><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3a+9}  over  {4} } } {}</m:annotation></m:semantics></m:math></para>
+    </section>
+  </content>
+</document>

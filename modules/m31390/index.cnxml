@@ -1,0 +1,612 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Meetkunde van lyne en driehoeke</title>
+  <metadata>
+  <md:content-id>m31390</md:content-id><md:title>Meetkunde van lyne en driehoeke</md:title>
+  <md:abstract/>
+  <md:uuid>9e9f13d7-fb03-48f4-a29b-071f96d03234</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1167914818214">
+      <title>WISKUNDE</title>
+      <para id="para-id1167914818214">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167912330609">
+      <title>Graad 9</title>
+      <para id="para-id1167912330609">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167912432197">
+      <title>ALGEBRA EN MEETKUNDE</title>
+      <para id="para-id1167912432197">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167912316575">
+      <title>Module 8</title>
+      <para id="para-id1167912316575">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167914817339">
+      <title>MEETKUNDE VAN LYNE EN DRIEHOEKE</title>
+      <para id="id1167912328538">Meetkunde van lyne en driehoeke</para>
+      <para id="id1167913946432">Aktiwiteit 1</para>
+      <para id="id1167914817522">Om die gebruiklike benoeming van sye en hoeke in driehoeke te leer</para>
+      <figure id="id1167920137603">
+        <media id="id1167920137603_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-c8c1.png" id="id1167920137603__onlineimage" height="238" width="323"/>
+        </media>
+      </figure>
+      <table id="id1167914816660" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Verwys na die driehoek om die terme te verstaan.Die drie sye van die driehoek is AB, AD en BD.‘n Sy in ‘n driehoek kan ook die naam van die oorstaande hoek as ‘n kleinletter kry. Die hoeke (vertekse) word met hoofletters geskryf. As A of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>A</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {A}}} {}</m:annotation></m:semantics></m:math>gebruik word, verwys dit na die hoek wat sye BA en AD vorm. Ons kan die hoek ook BAD of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>B</m:mi><m:mover accent="true"><m:mi>A</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mi>D</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{B { hat  {A}}D} {}</m:annotation></m:semantics></m:math> noem. En as ek A=38° gebruik, is dit duidelik wat ek bedoel. Ons benoem die driehoek ABD of ΔABD, met die letters in alfabetiese orde.</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167912309043">Oefening:</para>
+      <para id="id1167912320253">Teken die volgende tekening in die spasie </para>
+      <para id="id1167912328604">regs, om te wys dat jy begryp hoe die beskrywings</para>
+      <para id="id1167912329570">gebruik word:</para>
+      <para id="id5652434">Teken ΔQRT met q=4cm, T=65° en QT=5,5cm.</para>
+      <para id="id1167912330779">Sien jy dat dit nie nodig is om die lengte van t,</para>
+      <para id="id1167912332092">of die groottes van 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>Q</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {Q}}} {}</m:annotation></m:semantics></m:math> of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>R</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {R}}} {}</m:annotation></m:semantics></m:math>te weet nie? Maak eers</para>
+      <para id="id1167920377228">‘n rowwe skets om jou te help om jou werk te</para>
+      <para id="id1167912318920">beplan.</para>
+      <para id="id1167912308971">Opdrag:</para>
+      <para id="id1246915">Jy weet alreeds dat driehoeke volgens hulle vorm geklassifiseer word. Maak ‘n A4–grootte plakkaat vir jouself waarop die eienskappe van die volgende soorte driehoeke duidelik aangetoon word: gelyksydig, reghoekig, gelykbenig en ongelyksydig. Benoem die hoeke en sye soos hierbo verduidelik. Werk so noukeurig en netjies as moontlik.</para>
+      <para id="id1167912315298">Meet die sye en hoeke van jou driehoeke en vul dit in op die plakkaat.</para>
+      <para id="id1167912316405">Aktiwiteit 2</para>
+      <para id="id1167912328421">Om die beginsel van kongruensie in driehoeke te ondersoek</para>
+      <para id="id1167912317836">[LU 4.4, 3.3, 3.5]</para>
+      <para id="id1167917057960">In die vorige oefening het jy ΔQTR volgens gegewe spesifikasies geteken. Vra die ander leerders wat hierdie oefening gedoen het om jou hulle sketse te wys, en bevestig dat hulle mates perfek ooreenstem met dié wat gegee is. Meet nou die sy en twee hoeke wat nie gegee is nie om te sien of hulle met joune ooreenstem.</para>
+      <list id="id1167912318666" list-type="bulleted">
+        <item>Almal se driehoeke wat volgens die spesifikasies getrek is, is altyd eenders. Inderwaarheid is dit onmoontlik om die driehoek korrek te teken sodat dit verskil! Skryf (met jou maat) neer presies hoekom dit so is.</item>
+        <item>Hier volg nog beskrywings van driehoeke. Werk hulle ook soos ΔQTR? Met ander woorde, is dit ook onmoontlik om verskillende driehoeke te teken? Skryf weer jou siening van die situasie neer. Die laaste een is moeilik om te teken – probeer gerus!</item>
+      </list>
+      <list id="id1167912332105" list-type="bulleted">
+        <item>Teken ΔAGE met a=4cm, E=90° en AG=5cm.</item>
+        <item>Teken ΔNOH met HN=4cm, H=56° en O=72°.</item>
+        <item>Teken ΔBAT met B=48°, T=65° en A=67°.</item>
+        <item>Teken ΔMOD met m=5,5cm, O=65° en DM=4cm.</item>
+        <item>Teken ΔAMP met a=4,2cm, m=5cm en p=5,6cm.</item>
+      </list>
+      <list id="id1167912310741" list-type="bulleted">
+        <item>In al die driehoeke hierbo spesifiseer ons net drie van die ses moontlike mates (drie sye en drie hoeke). Partykeer was dit genoeg om te verseker dat almal identiese driehoeke sou teken. Maar in ΔBAT en ΔMOD was die drie mates nie genoeg om identiese driehoeke van almal te verseker nie. </item>
+        <item>So, wanneer is drie genoeg? Dalk het jy alreeds die geheim uitgedink:</item>
+      </list>
+      <para id="id1167912327081">ΔQRT: Twee sye en die hoek <emphasis effect="underline">tussen</emphasis> hulle is gegee.</para>
+      <para id="id1606513">ΔAGE: ‘n Regte hoek, die skuinssy en nog ‘n sy is gegee.</para>
+      <para id="id1167922838775">ΔNOH: Een sy en twee hoeke is gegee.</para>
+      <para id="id1606656">ΔAMP: Drie sye is gegee.</para>
+      <para id="id1167912330792">ΔBAT: Drie hoeke is gegee, maar daar is niks gesê van die driehoek se grootte nie!</para>
+      <para id="id1167924958149">ΔMOD: Twee sye en die hoek <emphasis effect="underline">nie</emphasis> tussen die twee sye, is gegee. Dus kan dit gebeur dat sommige leerders ‘n kort OM sy en sommige ‘n lang OM sy sou teken; omdat die lengte van OM nie gespesifiseer word nie!</para>
+      <list id="id1167912311727" list-type="bulleted">
+        <item>Twee driehoeke wat presies eenders is – beide vorm en grootte – noem ons <emphasis effect="italics">kongruent</emphasis>. Dit beteken dat as jy een uitknip, dit presies op die ander een sal pas. Jy sal later sien dat ons die woord vir ander identiese vorms ook kan gebruik, maar nou hou ons eers by driehoeke. </item>
+        <item>Vanuit die skets–oefening is dit duidelik dat daar vier verskillende maniere is om kongruente driehoeke te verseker. Hier is die vier – met hulpsketse:</item>
+      </list>
+      <figure id="id1167919623456">
+        <media id="id1167919623456_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 9-17b7.png" id="id1167919623456__onlineimage" height="194" width="223"/>
+        </media>
+      </figure>
+      <figure id="id1606173">
+        <media id="id1606173_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 10-4606.png" id="id1606173__onlineimage" height="53" width="186"/>
+        </media>
+      </figure>
+      <table id="id1167919320309" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Geval 1: Twee driehoeke met twee sye en die ingeslote hoek gelyk, is kongruent.Geval 2: Twee reghoekige driehoeke met die  skuinssy en nog ‘n sy gelyk, is  kongruent.Geval 3: Twee driehoeke met drie gelyke sye, is  kongruent.Geval 4: Twee driehoeke met twee hoeke en ooreenkomstige sye gelyk, is kongruent. Die gelyke sy moet teenoor ooreenkomstige hoeke wees.</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id4643528">Ondersoek:</para>
+      <para id="id1167912331883">In die volgende oefening is daar 15 driehoeke, A tot O. Hulle is doelbewus deurmekaar en in vreemde posisies. Werk in ‘n groep van 4 of 5 om te besluit of enige daarvan kongruent is. Groepeer die name van dié wat kongruent is, met redes en verduidelikings. Dis nie ‘n eenvoudige oefening nie – dis meer soos ‘n raaisel. Jy moet al jou ondervinding, gesonde verstand en logika inspan. Moenie iets meet nie – die mates is nie bedoel om akkuraat te wees nie.</para>
+      <para id="id1167912330165">
+        <figure id="id1605879">
+          <media id="id1605879_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 11-98b8.png" id="id1605879__onlineimage" height="680" width="634"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1167920086404">Aktiwiteit 3</para>
+      <para id="id1167920086254">Om die vier gevalle van kongruensie in probleme toe te pas</para>
+      <para id="id1167913946073">[LU 4.4, 3.3, 3.4] </para>
+      <list id="id1167912330701" list-type="bulleted">
+        <item>As jy moet aantoon dat twee driehoeke kongruent is (soos in die vorige oefening), is daar sekere stappe om uit te voer: Besluit eers watter kongruensie–geval van toepassing is . Sê hoekom elk van die drie items gelyk is. Skryf dan jou afleidings in die regte volgorde neer. Hier volg ‘n voorbeeld van die prosedure. Die simbool  toon kongruensie. Dus: As ons weet dat <emphasis effect="underline">drie</emphasis> spesiale items gelyk is, dan weet ons dat alles verder gelyk is!</item>
+      </list>
+      <para id="id1167912332269">Bewys dat ΔABC en ΔDEF kongruent is.</para>
+      <figure id="id1167912329054">
+        <media id="id1167912329054_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 15-ad6f.png" id="id1167912329054__onlineimage" height="231" width="269"/>
+        </media>
+      </figure>
+      <table id="id1167912309585" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>1. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>A</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {A}}} {}</m:annotation></m:semantics></m:math>= 60° omdat die som van die hoeke  van ‘n driehoek 180° is. Dus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mover accent="true"><m:mi>A</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mo stretchy="false">=</m:mo><m:mover accent="true"><m:mi>F</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {A}}= { hat  {F}}} {}</m:annotation></m:semantics></m:math> , want albei is 60°.2. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mover accent="true"><m:mi>C</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mo stretchy="false">=</m:mo><m:mover accent="true"><m:mi>E</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {C}}= { hat  {E}}} {}</m:annotation></m:semantics></m:math> omdat beide 50° is.3. BC = DE , want beide is 12 eenhede en hulle is teenoor gelyke hoeke. In elke driehoek is daar dus twee gelyke hoeke en een ooreenstemmende gelyke sy. Ons skryf: ΔABC  ΔDEF (S) wat beteken:  ΔABC is kongruent aan ΔDEF omdat  twee hoeke en ‘n ooreenstemmende sy  gelyk is. Dit beteken alles is verder  ook gelyk.</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167921598480">Neem die oefening in die vorige deel en doen ten minste drie kongruensies op hierdie manier.</para>
+      <para id="id1167913946197">Oefening:</para>
+      <para id="id1167921787218">Bewys dat die twee driehoeke in elk van die volgende probleme kongruent is.</para>
+      <para id="id1167912315475"><figure id="id1167912318470"><media id="id1167912318470_media" alt=""><image mime-type="image/png" src="../../media/graphics1-2816.png" id="id1167912318470__onlineimage" height="160" width="585"/></media></figure>1. </para>
+      <para id="id1167912328845">2.</para>
+      <figure id="id1167912332406">
+        <media id="id1167912332406_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 16-6c0c.png" id="id1167912332406__onlineimage" height="269" width="196"/>
+        </media>
+      </figure>
+      <para id="id1167912329714">3.</para>
+      <figure id="id1167912313385">
+        <media id="id1167912313385_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 17-aa69.png" id="id1167912313385__onlineimage" height="218" width="239"/>
+        </media>
+      </figure>
+      <para id="id1167912331602">Aktiwiteit 4</para>
+      <para id="id1167912330688">Om die beginsel van gelykvormigheid in driehoeke te begryp</para>
+      <para id="id1167912340828">[LU 1.2, 1.4, 3.5] </para>
+      <list id="id1167920890796" list-type="bulleted">
+        <item>In ‘n vorige oefening moes jy ΔBAT met B=48°, T=65° en A=67° teken. Jy het seker agtergekom dis moontlik om baie driehoeke volgens hierdie spesifikasies te teken, maar hulle was nie kongruent nie, want niks het die grootte van die driehoek bepaal nie – dus was sommige kleiner as ander. </item>
+        <item>Werk in groepies van vier of vyf. Meet die sye van jou driehoek. Elkeen meet sy eie Δ BAT om sy ry in die tabel te voltooi. Waar jy deel, skryf die antwoord afgerond tot <emphasis effect="underline">een</emphasis> desimale plek.</item>
+      </list>
+      <table id="id1606741" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Leerder</entry>
+              <entry>AB</entry>
+              <entry>AT</entry>
+              <entry>BT</entry>
+              <entry>BT  AT</entry>
+              <entry>AB  AT</entry>
+              <entry>BT  AB</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1167913846132" list-type="bulleted">
+        <item>In die volgende oefening moet jy twee gelykbenige driehoeke teken met hoeke 80°, 50° en 50°. Skets die driehoek ongeveer twee– of drie keer groter as die ander. Werk baie akkuraat. </item>
+        <item>Noem die klein driehoek DEF ( F = 80°) en die grote OPT ( T = 80°). Meet al die sye en voltooi die tabel uit jou mates.</item>
+      </list>
+      <table id="id6794006" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>OP</entry>
+              <entry>PT</entry>
+              <entry>OT</entry>
+              <entry>DE</entry>
+              <entry>EF</entry>
+              <entry>DF</entry>
+              <entry>OP  DE</entry>
+              <entry>PT  EF</entry>
+              <entry>OT  DF</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167913695531">Opdrag:</para>
+      <list id="id1167919059481" list-type="bulleted">
+        <item>Bestudeer die twee tabelle (veral die laaste drie kolomme van beide tabelle). Wat let jy op? </item>
+        <item>Skryf ‘n duidelike verduideliking oor hoekom hierdie berekenings só uitwerk.</item>
+        <item>Hierdie driehoeke is nie kongruent nie omdat hulle nie ewe groot is nie, selfs al is die hoeke gelyk. As twee driehoeke gelyke hoeke het, maar nie ewe groot is nie, noem ons hulle <emphasis effect="italics">gelykvormig</emphasis>. </item>
+        <item>Die teken is , dus: ΔDEF  ΔOPT uit vorige tabel.</item>
+        <item>Alle driehoeke met drie gelyke hoeke is outomaties <emphasis effect="italics">gelykvormig</emphasis>. As hulle ewe groot is, is hulle boonop <emphasis effect="italics">kongruent</emphasis>. </item>
+        <item>Die sye van gelykvormige driehoeke is in verhouding. Ons sien dit duidelik uit die twee vorige tabelle. Die breuke wat ons bereken het, gee ons die verhoudings van die onderskeie sye.</item>
+        <item>Uit die eerste tabel is dit duidelik dat die verhoudings van die sye van elke driehoek dieselfde is as die sye van ander gelykvormige driehoeke. In die tweede tabel is die verhoudings van ooreenstemmende sye van twee gelykvormige driehoeke dieselfde. Hierdie verhouding noem ons die <emphasis effect="italics">konstante verhouding</emphasis> van die twee driehoeke. </item>
+        <item>Ons kan twee afleidings maak uit die feite oor gelykvormige driehoeke:</item>
+      </list>
+      <list id="id1167918385064" list-type="bulleted">
+        <item>Eerstens, twee driehoeke met gelyke hoeke (<emphasis effect="italics">gelykhoekige driehoeke</emphasis>) is gelykvormig, en dus moet die sye in verhouding wees.</item>
+        <item>Tweedens, twee driehoeke met sye in verhouding is gelykvormig, en dus moet die hoeke gelyk wees.</item>
+      </list>
+      <para id="id6211775">Voorbeeld:</para>
+      <para id="id1167921165104">Bestudeer die twee driehoeke en bereken die waardes van x en y.</para>
+      <figure id="id1167912472372">
+        <media id="id1167912472372_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 18-e0df.png" id="id1167912472372__onlineimage" height="99" width="457"/>
+        </media>
+      </figure>
+      <para id="id1167915777410">Is die driehoeke gelykvormig? Is die hoeke gelyk? Is die sye in verhouding? In hierdie probleem sien ons maklik dat die hoeke gelyk is, maar ons het nie genoeg inligting oor die sye nie. In ander probleme is dit dalk andersom. </para>
+      <para id="id4322759">Sit dit so uiteen:</para>
+      <para id="id1167924040243">1. A = 65° omdat die hoeke van ΔABC saam 180° maak.</para>
+      <para id="id1167923451662"> F = 35° omdat die hoeke ΔDEF saam 180° maak.</para>
+      <para id="id1167922685520">2. Die hoeke van die driehoek is gelyk en dus is die driehoeke gelykvorming:</para>
+      <para id="id1167928645602"> ΔABC  ΔDEF (gelykhoekig).</para>
+      <para id="id1167921377675">3. Dit beteken dat die sye in verhouding moet wees.</para>
+      <para id="id1167923683708">4. Bereken die konstante verhouding. AC = 16 en DF = 8. </para>
+      <list id="id7318327" list-type="bulleted">
+        <item> Omdat hierdie sye beide teenoor 80° hoeke is, stem hulle posisies ooreen.</item>
+        <item> Die proporsionele konstante is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>16</m:mtext><m:mn>8</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"16"}  over  {8} } =2} {}</m:annotation></m:semantics></m:math>. As ons ‘n sy van die klein driehoekie met 2 <emphasis effect="italics">vermenigvuldig,</emphasis> gee dit ons die lengte van die ooreenkomstige sy in die groot driehoek. As ons ‘n  sy van die groot driehoek deur 2 <emphasis effect="underline">deel</emphasis>, kry ons die lengte van die ooreenkomstige sy in die klein  driehoekie.</item>
+      </list>
+      <para id="id1167920414372">5. Ons bereken nou die waarde van x deur 9 deur 2 te deel: x = <emphasis effect="bold">2</emphasis>  9,4 = 4,7.</para>
+      <para id="id1167919964977">6. En y = <emphasis effect="bold">2</emphasis> × 5,5 = 11.</para>
+      <para id="id780410"/>
+      <para id="id1167919295092">Oefening:</para>
+      <para id="id8232910">Bereken die lengtes van die twee sye PR en XY in hierdie twee driehoeke.</para>
+      <figure id="id7213225">
+        <media id="id7213225_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 20-267a.png" id="id7213225__onlineimage" height="97" width="458"/>
+        </media>
+      </figure>
+      <para id="id1167919529738">Voorbeeld:</para>
+      <para id="id1167921153750">Indien moontlik, bereken die groottes van al die ontbrekende hoeke :</para>
+      <figure id="id5354033">
+        <media id="id5354033_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 21-ee85.png" id="id5354033__onlineimage" height="159" width="513"/>
+        </media>
+      </figure>
+      <para id="id1167912541285">1. Die sye is in verhouding: 42 × 1,5 = 63 , 38 × 1,5 = 57 en 34 × 1,5 = 51</para>
+      <para id="id1167918104763">2. Dit beteken die driehoeke is gelykvormig: ΔEFG  ΔKLM (sye in verhouding)</para>
+      <para id="id1167921784378">3. Dus: ooreenstemmende hoeke is gelyk: L = 68° (stem ooreen met F)</para>
+      <para id="id8276929"> E = 51° (stem ooreen met K)</para>
+      <para id="id8327596"> G = M = 61° (som van die hoek van ‘n driehoek)</para>
+      <para id="id1167913752068">Oefening:</para>
+      <para id="id1167923912179">Bereken al die ontbrekende hoeke in hierdie driehoeke:</para>
+      <figure id="id1167920004762">
+        <media id="id1167920004762_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 22-f5a9.png" id="id1167920004762__onlineimage" height="155" width="510"/>
+        </media>
+      </figure>
+      <para id="id8084349">Aktiwiteit 5</para>
+      <para id="id739707">Om gelykvormigheid in probleme toe te pas</para>
+      <para id="id8240311">[LU 4.4, 1.4, 3.5]</para>
+      <para id="id6736991">In die volgende probleme moet jy sketse van die gegewe driehoeke maak, maar jy moet NIE akkurate tekeninge maak nie.</para>
+      <para id="id8889284">1. Is die volgende driehoeke gelykvormig?</para>
+      <para id="id5701907">1.1 ΔBAG met B = 90°, AG = 15cm en AB = 9cm en</para>
+      <para id="id6291851"> ΔPOT met P = 90°, OT = 5cm en PO = 4cm.</para>
+      <para id="id1167921564451">1.2 ΔREM met R = 60° en M = 50° en</para>
+      <para id="id1167923809517"> ΔSUP met U = 70° en S = 50°.</para>
+      <para id="id1167912726075">1.3 ΔLOP met P = 90°, LO = 13cm en OP = 12cm en</para>
+      <para id="id1167919957872"> ΔCAT met C = 90°, AC = 16cm en CT = 12cm.</para>
+      <para id="id1167923852802">2. Bereken die konstante verhouding in die <emphasis effect="underline">gelykvormige</emphasis> driehoeke ΔABC en ΔDEF met </para>
+      <para id="id7386040"> AB = 36cm, EF = 12cm, C = 48° en D = 48°. </para>
+      <para id="id1167921098544">3. Twee vlagpale (een langer as die ander) gooi skaduwees op die grond. Die skaduwee van die lang paal (wat 8m hoog is) is 3m, en die kort paal het ‘n 2,5m skaduwee. Bereken hoe lank die kort vlagpaal is.</para>
+      <para id="id1167912630132">4. Gloria ontwerp ‘n logo vir haar skool se rekenaarklub. Die ontwerp het ‘n rekenaar langs ‘n stapel boeke wat 50 % hoër is as die rekenaar. Sy gebruik ‘n kopieermasjien om die ontwerp te verklein. Op die kopie is die rekenaar 18cm hoog en op die oorspronklike skets is die stapel boeke 54cm hoog. Met watter proporsionele faktor het sy die skets kleiner gemaak? </para>
+    </section>
+    <section id="id1167921225668">
+      <title>Assessering</title>
+      <table id="id1167922672123" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1</entry>
+            </row>
+            <row>
+              <entry>Getalle, Bewerkings en VerwantskappeDie leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Ons weet dit as die leerder:</entry>
+            </row>
+            <row>
+              <entry>1.1 die historiese ontwikkeling van getallestelsels in ’n verskeidenheid historiese en kulturele kontekste (insluitend plaaslik) beskryf en illustreer;</entry>
+            </row>
+            <row>
+              <entry>1.2 rasionale getalle (insluitend baie klein getalle in wetenskaplike notasie) herken, gebruik en voorstel, en sonder huiwering tussen ekwivalente vorms in gepaste kontekste beweeg;</entry>
+            </row>
+            <row>
+              <entry>1.3 probleme in konteks oplos, insluitend kontekste wat gebruik word om ‘n bewustheid van ander leerareas, asook van menseregte-, sosiale, ekonomiese en omgewingsake, te bevorder, soos:</entry>
+            </row>
+            <row>
+              <entry>1.3.1 finansiële kontekste (insluitend wins en verlies, begrotings, rekeninge, lenings, enkelvoudige en saamgestelde rente, huurkoop, wisselkoerse, kommissie, huur en die bankwese);</entry>
+            </row>
+            <row>
+              <entry>1.3.2 metings in die Natuurwetenskappe en Tegnologie;</entry>
+            </row>
+            <row>
+              <entry>1.4 probleme oplos wat verhouding, koers en proporsie (direkte en omgekeerde) behels;</entry>
+            </row>
+            <row>
+              <entry>1.5 skat en bereken deur geskikte bewerkings vir probleme te kies en te gebruik en die redelikheid van resultate te beoordeel (insluitend meetprobleme wat rasionale benaderings van irrasionale getalle behels);</entry>
+            </row>
+            <row>
+              <entry>1.6 ’n verskeidenheid van tegnieke en instrumente (insluitend tegnologie) gebruik om berekeninge doeltreffend en met die nodige mate van akkuraatheid te doen, insluitend die volgende reëls en betekenisse van eksponente (leerders behoort in staat te wees om hierdie reëls en betekenisse slegs in berekeninge te gebruik):</entry>
+            </row>
+            <row>
+              <entry>1.6.1 x <sup>n</sup> × x <sup>m</sup> = x<sup>n + m</sup></entry>
+            </row>
+            <row>
+              <entry>1.6.2 x <sup>n</sup>  x <sup>m</sup> = x<sup>n – m</sup></entry>
+            </row>
+            <row>
+              <entry>1.6.3 x <sup>0</sup> = 1</entry>
+            </row>
+            <row>
+              <entry>1.6.4 x <sup>–n</sup> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {x rSup { size 8{n} } } } } {}</m:annotation></m:semantics></m:math></entry>
+            </row>
+            <row>
+              <entry>1.7 die eienskappe van rasionale getalle herken, beskryf en gebruik.</entry>
+            </row>
+            <row>
+              <entry>LU 2</entry>
+            </row>
+            <row>
+              <entry>Patrone, Funksies en AlgebraDie leerder is in staat om patrone en verwantskappe te herken, te beskryf en voor te stel, en probleme op te los deur algebraïese taal en vaardighede te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Ons weet dit as die leerder:</entry>
+            </row>
+            <row>
+              <entry>2.1 op verskillende maniere ‘n verskeidenheid numeriese en meetkundige patrone en verwantskappe ondersoek deur dit voor te stel en te veralgemeen, en deur die reëls onderliggend daaraan te verduidelik en te bewys (insluitend patrone in natuurlike en kulturele vorms en patrone wat die leerders self geskep het);</entry>
+            </row>
+            <row>
+              <entry>2.7 die distributiewe wet en manipuleringsvaardighede wat in graad 8 ontwikkel is gebruik om die volgende te doen:</entry>
+            </row>
+            <row>
+              <entry>
+                <list id="id1167921296569" list-type="bulleted">
+                  <item>bepaal die produk van tweeterme;</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <list id="id815827" list-type="bulleted">
+                  <item>faktoriseer algebraïse uitdrukkings (beperk tot gemene faktore en die verskil van vierkante);</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry>2.8 die eksponentwette gebruik om uitdrukkings te vereenvoudig en vergelykings op te los;</entry>
+            </row>
+            <row>
+              <entry>2.9 faktorisering om algebraïese uitdrukkings te vereenvoudig en vergelykings op te los gebruik.</entry>
+            </row>
+            <row>
+              <entry>LU 3</entry>
+            </row>
+            <row>
+              <entry>Ruimte en Vorm (Meetkunde)Die leerder is in staat om eienskappe van en verwantskappe tussen tweedimensionele vorms en driedimensionele voorwerpe in ‘n verskeidenheid oriëntasies en posisies te beskryf en voor te stel.</entry>
+            </row>
+            <row>
+              <entry>Ons weet dit as die leerder:</entry>
+            </row>
+            <row>
+              <entry>3.1 meetkundige figure en driedimensionele voorwerpe in natuurlike en kulturele vorms en meetkundige agtergrond herken, visualiseer en benoem, insluitend:</entry>
+            </row>
+            <row>
+              <entry>3.1.1 reëlmatige en onreëlmatige veelhoeke en veelvlakke;</entry>
+            </row>
+            <row>
+              <entry>3.1.2 sfere;</entry>
+            </row>
+            <row>
+              <entry>3.1.3 silinders;</entry>
+            </row>
+            <row>
+              <entry>3.2 die onderlinge verwantskappe van meetkundige figure en driedimensionele voorwerpe se eienskappe met bewyse in kontekste, insluitend dié wat gebruik kan word om ‘n bewustheid van sosiale, kulturele en omgewingsake te bevorder beskryf, insluitend:3.2.1 kongruensie en reguitlynmeetkunde;</entry>
+            </row>
+            <row>
+              <entry>3.3 die meetkunde van reguitlyne en driehoeke gebruik om probleme op te los en verwantskappe in meetkundige figure te bewys;</entry>
+            </row>
+            <row>
+              <entry>3.4 meetkundige figure teken en/of konstrueer en modelle maak van driedimensionele voorwerpe om die eienskappe daarvan en van modelsituasies in die omgewing te ondersoek en vergelyk;</entry>
+            </row>
+            <row>
+              <entry>3.5 transformasies, kongruensie en gelykvormigheid gebruik om die eienskappe van meetkundige figure en driedimensionele voorwerpe te ondersoek (alleen en/of as ‘n lid van ‘n span of groep), insluitend toetse vir die gelykvormigheid en kongruensie van driehoeke.</entry>
+            </row>
+            <row>
+              <entry>LU 4</entry>
+            </row>
+            <row>
+              <entry>MetingDie leerder is in staat om gepaste meeteenhede, -instrumente en formules in ’n verskeidenheid kontekste te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Ons weet dit as die leerder:</entry>
+            </row>
+            <row>
+              <entry>4.1 verhoudings- en koersprobleme wat tyd, afstand en spoed behels, oplos;</entry>
+            </row>
+            <row>
+              <entry>4.2 probleme oplos – insluitend probleme in kontekste wat gebruik kan word om ‘n bewustheidvan menseregte-, sosiale, ekonomiese, kulturele en omgewingsake te bevorder – wat bekende meetkundige figure en driedimensionele voorwerpe in ’n verskeidenheid meetkontekste behels, deur die volgende te doen:</entry>
+            </row>
+            <row>
+              <entry>4.2.1 meet noukeurig en kies meetinstrumente wat geskik vir die probleemis;</entry>
+            </row>
+            <row>
+              <entry>4.2.2 skat en bereken noukeurig;</entry>
+            </row>
+            <row>
+              <entry>4.2.3 kies en gebruik geskikte formules en meeteenhede;</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1167924823060" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>4.3 die ontwikkeling van meetinstrumente deur die geskiedenis heen in verskillende kulture beskryf en illustreer;.</entry>
+            </row>
+            <row>
+              <entry>4.4 die Stelling van Pythagoras gebruik om probleme op te los wat ontbrekende lengtes in bekende meetkundige figure en driedimensionele voorwerpe behels.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id4301405">
+      <title>Memorandum</title>
+      <para id="id1167926358498">Meetkunde</para>
+      <para id="id1167922009523">Bespreking</para>
+      <para id="id1167922816484">Wys leerders op die verwantskap tussen hoekgroottes en lengtes van oorstaande sye, m.a.w. dat die grootste hoek teenoor die langste sy is, ens. In hierdie verband is die volgende stellings van belang:</para>
+      <para id="id1167920555716">In Δ<emphasis effect="italics">ABC</emphasis>:</para>
+      <para id="id1167912574002"> As <emphasis effect="italics">b</emphasis><sup>2</sup> = <emphasis effect="italics">a</emphasis><sup>2</sup> + <emphasis effect="italics">c</emphasis><sup>2</sup> , dan 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {B}}} {}</m:annotation></m:semantics></m:math>= 90°</para>
+      <para id="id1167912686107"> As <emphasis effect="italics">b</emphasis><sup>2</sup> &gt; <emphasis effect="italics">a</emphasis><sup>2</sup> + <emphasis effect="italics">c</emphasis><sup>2</sup> , dan 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {B}}} {}</m:annotation></m:semantics></m:math>&gt; 90°</para>
+      <para id="id1167913771511"> As <emphasis effect="italics">b</emphasis><sup>2</sup> &lt; <emphasis effect="italics">a</emphasis><sup>2</sup> + <emphasis effect="italics">c</emphasis><sup>2</sup> , dan 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {B}}} {}</m:annotation></m:semantics></m:math>&lt; 90°</para>
+      <list id="id1167928594431" list-type="bulleted">
+        <item>Deur konstruksie kan hierdie verwantskappe maklik bevestig word. As daar tyd is, sou dit ‘n goeie bekendstellingsoefening wees.</item>
+        <item>Vele leerders kom in graad 9 in sonder ‘n begrip van die belangrikheid van die keuse van hoogte en basis van ‘n driehoek vir die berekening van oppervlakte. Bevestig weer aan hulle dat die hoogte gemeet word vanaf die hoekpunt oorstaande tot die basis, loodreg op die basis. Hierdie punt word baie duidelik as leerders ‘n oefening doen om verskillende ongelykhoekige driehoeke te teken en drie hoogtelyne te trek en dan die oppervlakte driekeer uit te werk.</item>
+      </list>
+      <para id="id1167922691322">Kongruensie</para>
+      <para id="id1195857">In die eerste oefening van aktiwiteit 3.2 moet die leerders liefs nie in groot groepe saamwerk nie – pare sou goed wees. Die doel is om soveel moontlik verskillende weergawes van die driehoek te verkry, om sodoende te toon wanneer hulle kongruent is en wanneer nie. Heel beste is om hierdie oefening as huiswerk te gee as die leerders dit sonder hulp sou kon voltooi.</para>
+      <para id="id1167923819125">Wanneer die vier kongruensie-gevalle bespreek word, let op dat twee reghoekige driehoeke <emphasis effect="underline">wel</emphasis> kongruent is as twee nie-skuissy sye onderskeidelik gelyk is; nie deur die <emphasis effect="italics">RHS</emphasis>-reël nie, maar wel deur <emphasis effect="italics">SS</emphasis>.</para>
+      <para id="id1167923530469">Leerders moet ook gewoond raak aan figure wat nie volgens skaal geteken is nie – en dat die gegewe mate op die skets gebruik moet word. Tensy gevra moet hulle nie kenmerke meet nie.</para>
+      <para id="id1167912314290">Antwoorde op pas-oefening:</para>
+      <para id="id1167921385814"><emphasis effect="italics">A</emphasis>  <emphasis effect="italics">O</emphasis> (<emphasis effect="italics">SSS</emphasis> of <emphasis effect="italics">RHS</emphasis> uit berekende skuinssy, Pythagoras)</para>
+      <para id="id1167923455311"><emphasis effect="italics">B</emphasis>  <emphasis effect="italics">G</emphasis> (<emphasis effect="italics">S</emphasis><emphasis effect="italics">S</emphasis>) Nie kongruent aan I nie; die gegewe hoek is nie ingeslote nie</para>
+      <para id="id1167920474919"><emphasis effect="italics">C</emphasis>  <emphasis effect="italics">F</emphasis>  <emphasis effect="italics">N</emphasis> (<emphasis effect="italics">SSS</emphasis> of <emphasis effect="italics">RHS</emphasis> uit berekende skuinssy)</para>
+      <para id="id4853042"><emphasis effect="italics">D</emphasis>, <emphasis effect="italics">L</emphasis> en <emphasis effect="italics">K</emphasis> is nie kongruent nie – slegs hoeke is gegee</para>
+      <para id="id739368"><emphasis effect="italics">E</emphasis>  <emphasis effect="italics">H</emphasis> (<emphasis effect="italics">S</emphasis>) Nie kongruent aan <emphasis effect="italics">M</emphasis> nie; die gegewe sy is nie in ooreenstemmende posisie nie </para>
+      <list id="id1167921437350" list-type="bulleted">
+        <item>Streng bewysvoering word nie van graad 9-leerders verwag nie. Een van die grootste waardes van meetkunde, egter, is dat leerders geleer word om op ‘n logiese en streng wyse te werk te gaan. Leerders wat besonder by so ‘n benadering sou baat behoort aangemoedig word om so te werk, veral met die oog op verdere studie.</item>
+      </list>
+      <para id="id1167922969922">Kongruensiebewyse:</para>
+      <para id="id1610348">1. <emphasis effect="italics">C</emphasis> = 180° – 88° – 43° = 49° = <emphasis effect="italics">F</emphasis> (som van hoeke van Δ)</para>
+      <para id="id1167923572800"> <emphasis effect="italics">B</emphasis> = 43° = <emphasis effect="italics">E</emphasis> (gegee)</para>
+      <para id="id1167912711797"><emphasis effect="italics">AB</emphasis> = 15 = <emphasis effect="italics">DE</emphasis> oorkant 49°–hoeke (gegee)</para>
+      <para id="id1167921864332"> Δ<emphasis effect="italics">ABC</emphasis>  Δ<emphasis effect="italics">DEF</emphasis> (<emphasis effect="italics">S</emphasis>)</para>
+      <para id="id1167921495308">2. <emphasis effect="italics">BC</emphasis> = 12 = <emphasis effect="italics">FE</emphasis> (Pythagoras)</para>
+      <para id="id1167919997916"><emphasis effect="italics">AC</emphasis> = 15 = <emphasis effect="italics">DE</emphasis> (gegee)</para>
+      <para id="id1167922943361"> Reghoekige driehoeke</para>
+      <para id="id1167923516483"> Δ<emphasis effect="italics">ABC</emphasis>  Δ<emphasis effect="italics">D</emphasis><emphasis effect="italics">FE</emphasis> (<emphasis effect="italics">RHS</emphasis>)</para>
+      <para id="id7451264">3. <emphasis effect="italics">BC</emphasis> = <emphasis effect="italics">BC</emphasis> (gemene / gedeelde sy)</para>
+      <para id="id1167919163200"> <emphasis effect="italics">B</emphasis> = 55° = <emphasis effect="italics">C</emphasis> (gegee)</para>
+      <para id="id7526900"> <emphasis effect="italics">A</emphasis> = <emphasis effect="italics">D</emphasis> (gegee; sien merkie)</para>
+      <para id="id1167927566437"> Δ<emphasis effect="italics">ABC</emphasis>  Δ<emphasis effect="italics">D</emphasis><emphasis effect="italics">CB</emphasis><emphasis effect="italics"/>(<emphasis effect="italics">RHS</emphasis>)</para>
+      <para id="id1167922686864"/>
+      <para id="id1167912704870">Gelykvormigheid</para>
+      <para id="id1167920096107">Met ‘n fotokopieerder kan opvoeders nog oefeninge ontwerp wat die beginsels van gelykvormigheid goed illustreer deur direkte meting.</para>
+      <para id="id8766097">Oefening:</para>
+      <para id="id1167928661111"> <emphasis effect="italics">Q</emphasis> = 55° en <emphasis effect="italics">Z</emphasis> = 65°</para>
+      <para id="id1167912790606"> Δ<emphasis effect="italics">PQR</emphasis>  Δ<emphasis effect="italics">XYZ</emphasis> (gelykhoekig)</para>
+      <para id="id1167927605480"> 213 = 3(71)</para>
+      <para id="id1097142"><emphasis effect="italics">PR</emphasis> = 201  3 = 67 en <emphasis effect="italics">XY</emphasis> = 74 × 3 = 222</para>
+      <para id="id1167919275163"><emphasis effect="italics">DE</emphasis> = <emphasis effect="italics">AB</emphasis> × 4, <emphasis effect="italics">DF</emphasis> = <emphasis effect="italics">AC</emphasis> × 4 and <emphasis effect="italics">EF</emphasis> = <emphasis effect="italics">BC</emphasis> × 4</para>
+      <para id="id8682020"> Δ<emphasis effect="italics">ABC</emphasis>  Δ<emphasis effect="italics">DEF</emphasis> (sye in verhouding)</para>
+      <para id="id1167913620518"> Ooreenstemmende hoeke moet gelyk wees</para>
+      <para id="id1167917182231"> <emphasis effect="italics">A</emphasis> = <emphasis effect="italics">D</emphasis> = 62°; <emphasis effect="italics">E</emphasis> = <emphasis effect="italics">B</emphasis> = 49° en <emphasis effect="italics">C</emphasis> = <emphasis effect="italics">F</emphasis> = 69° (som van hoeke van Δ)</para>
+      <para id="id1167917166215">Oefening uit aktiwiteit 3.5:</para>
+      <para id="id3227889">1.1 Ja, Pythagoras gee <emphasis effect="italics">BG</emphasis> = 12 cm en <emphasis effect="italics">PT</emphasis> = 3 cm; sye in verhouding</para>
+      <para id="id817237">1.2 Ja, <emphasis effect="italics">E</emphasis> = 70° = <emphasis effect="italics">U</emphasis> en <emphasis effect="italics">P</emphasis> = 60° = <emphasis effect="italics">R</emphasis> (hoeke van driehoek); gelykhoekig</para>
+      <para id="id4577208">1.3 Nee, <emphasis effect="italics">LP</emphasis> = 5 cm en <emphasis effect="italics">AT</emphasis> = 20 cm (Pythagoras); maar sye nie in verhouding</para>
+      <para id="id1167923578557">2. Konstante verhouding = 36  12 = 3</para>
+      <para id="id1167922123463">3. Kort vlagpaal is 6,67 m hoog</para>
+      <para id="id1167919576709">4. Stapel boeke op kopie is 18  2 × 3 = 27 cm hoog</para>
+      <para id="id1167919796854"> 54  27 = 2 is die faktor waarmee ontwerp verklein is.</para>
+      <para id="id6106906">Toets</para>
+      <para id="id1167916895757">Hierdie eenheid het nie ‘n toets nie.</para>
+    </section>
+  </content>
+</document>

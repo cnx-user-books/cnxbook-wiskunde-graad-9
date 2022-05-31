@@ -1,0 +1,416 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Konteks en terminologie van waarskynlikheidsleer</title>
+  <metadata>
+  <md:content-id>m31507</md:content-id><md:title>Konteks en terminologie van waarskynlikheidsleer</md:title>
+  <md:abstract/>
+  <md:uuid>4b7490ba-9e2f-4c9c-ada0-9bda142114b2</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1171508961937">
+      <title>WISKUNDE </title>
+      <para id="para-id1171508961937">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171514801028">
+      <title>Graad 9</title>
+      <para id="para-id1171514801028">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7242730">
+      <title>GETALPATRONE</title>
+      <para id="para-id7242730">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171509993738">
+      <title>GRAFIESE VOORSTELLINGS</title>
+      <para id="para-id1171509993738">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171509265725">
+      <title>VERGELYKINGS</title>
+      <para id="para-id1171509265725">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5777014">
+      <title>STATISTIEK</title>
+      <para id="para-id5777014">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171515894629">
+      <title>WAARSKYNLIKHEIDSLEER</title>
+      <para id="para-id1171515894629">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171509248774">
+      <title>Module 20</title>
+      <para id="para-id1171509248774">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171517031794">
+      <title>KONTEKS EN TERMINOLOGIE VAN WAARSKYNLIKHEIDSLEER</title>
+      <para id="id1171511189045">Hoe werk dobbelary eintlik?</para>
+      <para id="id1171517037609">AKTIWITEIT 1</para>
+      <para id="id8754353">Om die konteks en terminologie van waarkynlikheidsleer te begryp</para>
+      <para id="id1171514750571">[LU 1.2, 5.1, 5.6]</para>
+      <para id="id1171514709755">1 Al hierdie doodgewone stellings het met waarskynlikhede te doen – maar hulle is nie almal ewe waar nie. Jy en jou maat moet hulle bestudeer en besluit wat ongesê gelaat is, of watter inligting jy nog benodig voordat jy kan sê hoe waar hulle is. Skryf die uitkomste van julle bespreking netjies neer.</para>
+      <para id="id1171509988899"><emphasis effect="italics">Byvoorbeeld</emphasis>: “Die son sal môre-oggend opkom” beteken eintlik: “As ek moet oordeel na die feit dat die son elke oggend van my lewe nog opgekom het, is ek doodseker dat dit môre weer sal gebeur.”</para>
+      <para id="id1171514819012">1.1 As ek ’n munt opskiet, is daar ’n 50:50 kans dat dit muntkant bo sal land.</para>
+      <para id="id1171514700744">1.2 Johan sal my definitief vanaand bel.</para>
+      <para id="id5076197">1.3 Dit is feitlik onmoontlik om die Lotto te wen.</para>
+      <para id="id6711705">1.4 As jy positief toets vir MIV, dan sal jy aan VIGS sterf.</para>
+      <para id="id7207236">1.5 Dis meer waarskynlik dat jy van ’n spinnekopbyt sal doodgaan as van ’n weerligslag.</para>
+      <para id="id1171508145345">1.6 As aan jou gesê word dat elke lootjie twee nommers het, dan is jou kans om te wen verdubbel.</para>
+      <para id="id1171510106946">1.7 As jy nie die Lotto speel nie, sal jy definitief nie wen nie.</para>
+      <para id="id8703946">1.8 As daar 24 mense saam is, is daar waarskynlik twee met dieselfde verjaardag.</para>
+      <para id="id1171515589929">1.9 Daar is 25% kans dat dit more sal reën.</para>
+      <para id="id1171515862448">1.10 Dis ewe waarskynlik dat jy ’n vier of ’n vyf met ’n dobbelsteentjie sal gooi.</para>
+      <para id="id6810386">2 Kyk na die onderstaande skaal.</para>
+      <figure id="id1171515646655">
+        <media id="id1171515646655_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 47.png" id="id1171515646655__onlineimage" height="73" width="633"/>
+        </media>
+      </figure>
+      <list id="id1171514498837" list-type="bulleted">
+        <item>Die waarskynlikheid dat iets sal gebeur, moet êrens op hierdie skaal van waarskyn­likhede lê. Niks kan minder waarskynlik wees as 0% nie, en niks kan meer waar­skynlik wees as 100% nie. As jy ’n gewone seskantige dobbelsteentjie gooi, is dit <emphasis effect="italics">seker</emphasis> (bedoelende 100% op die bostaande skaal) dat die getal aan die bokant 1, 2, 3, 4, 5 of 6 sal wees. Dit is onmoontlik (0%) dat dit ’n 7 sal wees. Ons kan nie altyd presies sê waar die waarskynlikheid sal lê nie, maar daar is gevalle waar dit akkuraat uitgewerk kan word.Skryf neer waar jy dink elk van die volgende stellings op die skaal van waarskynlikhede lê. Bespreek dit daarna met jou maat.</item>
+      </list>
+      <para id="id1171515726910">2.1 Ek sal ’n ses met ’n gewone dobbelsteen gooi.</para>
+      <para id="id1171510073008">2.2 As jy toe-oë ’n Smartie kies, sal dit ’n rooie wees.</para>
+      <para id="id8934562">2.3 Ek sal volgende naweek by ’n maat gaan kuier.</para>
+      <para id="id7502506">2.4 Dis ewe waarskynlik om 1, 2, 3, 4, 5 of 6 te gooi met ’n dobbelsteen.</para>
+      <para id="id8713540">2.5 Ek sal die president van Suid-Afrika eendag ontmoet.</para>
+      <para id="id1171514725974">2.6 Ek sal die hele jaar dieselfde lengte bly.</para>
+      <para id="id1171517878282">2.7 Ek sal volgende winter ’n verkoue kry.</para>
+      <para id="id5874812">2.8 Eendag sal ek die president van Suid-Afrika wees.</para>
+      <para id="id8782702">Ons het nog iets by die skaal gevoeg:</para>
+      <figure id="id7983082">
+        <media id="id7983082_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 81-3fb9.png" id="id7983082__onlineimage" height="107" width="634"/>
+        </media>
+      </figure>
+      <para id="id5832656"/>
+      <list id="id1171511473585" list-type="bulleted">
+        <item>Waarskynlikhede word dikwels as vereenvoudigde breuke geskryf. Let op dat die skaal vanaf 0 (onmoontlik) tot 1 (seker) loop. Daar is nie waarskynlikhede groter as 1 nie – niks is meer waarskynlik as doodseker nie! Anders gestel, hierdie waar­skynlikhede kan nie ’n breuk wees waar die teller groter as die noemer is nie.</item>
+      </list>
+      <list id="id1171516926802" list-type="bulleted">
+        <item>Kyk weer na die dobbelsteen-geval. Die steentjie wys een van ses getalle, maar daar is slegs een kans uit die ses dat dit ’n vier gaan wees. Byvoorbeeld, as ses maats een steentjie gooi en elkeen kies ’n ander nommer tussen 1 en 6, dan is dit doodseker dat een van hulle reg gaan wees! Dus het elkeen slegs 1 kans uit 6 om reg te wees. Die breuk (die waarskynlikheid) is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {6} } } {}</m:annotation></m:semantics></m:math>, en dit lê tussen 10% en 20% op ons skaal. </item>
+      </list>
+      <list id="id1171515972248" list-type="bulleted">
+        <item>Die naam vir die gooi van ’n dobbelsteen (of soortgelyke aktiwiteit) is <emphasis effect="italics">eksperiment</emphasis>. Die resultaat ná die gooi is ’n <emphasis effect="italics">uitkoms</emphasis>. As jy, sê, 3 raai en jy gooi ’n 3, dan noem ons dit ’n <emphasis effect="italics">suksesvolle uitkoms</emphasis> of net <emphasis effect="italics">sukses</emphasis>. Met ’n gewone dobbelsteen is daar ses <emphasis effect="italics">moontlike uitkomste</emphasis>. Ons definieer nou die waarskynlikheid dat iets gaan gebeur as:</item>
+      </list>
+      <para id="id8690412">
+        <emphasis effect="bold">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>P</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>aantal</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mi/>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>suksesvoll</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mi>e</m:mi>
+                          <m:mi/>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>uitkomste</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>aantal</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mi/>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>moontlike</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mi/>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>uitkomste</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{P= {  { ital "aantal"` ital "suksesvoll"e` ital "uitkomste"}  over  { ital "aantal"` ital "moontlike"` ital "uitkomste"} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </emphasis>
+        <emphasis effect="bold">.</emphasis>
+      </para>
+      <para id="id1171511434481">AKTIWITEIT 2</para>
+      <para id="id3805056">Om waarskynlikhede in sekere kontekste te bereken</para>
+      <para id="id1171517810657">[LU 1.2, 1.4, 1.7, 5.4, 5.6]</para>
+      <para id="id8951646">Enkelvoudige eksperimente</para>
+      <para id="id1171517900506">1 Daar is 12 balle in ’n sak: 3 blou, 5 groen, 3 wit en een rooi bal.</para>
+      <list id="id1171514757972" list-type="bulleted">
+        <item>As jy een uithaal sonder om te kyk, is die kans dat dit groen sal wees 5  12. </item>
+        <item>Ons kan dit skryf as: <emphasis effect="italics">P</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {"12"} } } {}</m:annotation></m:semantics></m:math>; maar ook as ’n desimale breuk: <emphasis effect="italics">P</emphasis> = 0,417. (Ons gebruik dikwels desimale breuke vir waarskynlikhede omdat hulle makliker is om te vergelyk.) </item>
+        <item>Die waarskynlikheid om ’n wit bal te kies is 0,25. Wat is die waarskynlikheid dat die bal óf blou óf wit sal wees? <emphasis effect="italics">P</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow><m:mtext>12</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>6</m:mn><m:mtext>12</m:mtext></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>0,5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3+3}  over  {"12"} } = {  {6}  over  {"12"} } = {  {1}  over  {2} } =0,5} {}</m:annotation></m:semantics></m:math>.</item>
+      </list>
+      <para id="id8675210">1.1 Bereken die waarskynlik dat óf ’n groen óf ’n blou bal uitgehaal sal word.</para>
+      <para id="id1565692">1.2 Wat is die waarskynlikheid dat ’n geel bal gekies word? </para>
+      <para id="id3220004">2 ’n Gewone dobbelsteen word gegooi. Bereken die waarskynlikheid van:</para>
+      <para id="id8744391">2.1 ’n twee 2.2 ’n onewe getal 2.3 ’n getal wat groter as twee is.</para>
+      <para id="id1171515697597">Saamgestelde eksperimente.</para>
+      <para id="id1171508221656">3 Beskou die opskiet van ’n muntstuk – die resultaat kan óf kruis óf munt wees.</para>
+      <list id="id6295379" list-type="bulleted">
+        <item>Die waarskynlikheid van kruis is dieselfde as munt, naamlik 0,5.</item>
+        <item>Maar as jy ’n muntstuk twee keer ná mekaar opskiet, hoe waarskynlik is dit dat jy twee keer ná mekaar munt sal kry?</item>
+      </list>
+      <para id="id1171509204573">Ons moet eers bepaal wat die totale aantal uitkomste moontlik kan wees. Ons kry (a) kruis gevolg deur kruis, of (b) kruis gevolg deur munt; of dalk (c) munt gevolg deur kruis, of (d) munt gevolg deur munt. </para>
+      <figure id="id1171509155985">
+        <media id="id1171509155985_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 59.png" id="id1171509155985__onlineimage" height="253" width="293"/>
+        </media>
+      </figure>
+      <para id="id6534046">Die diagram wys dit as ’n boom. Daar is dus vier moontlike uitkomste. Twee munte ná mekaar gebeur slegs eenkeer uit die vier. Dus is die waarskynlikheid daarvan 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:math> of 0,25.</para>
+      <para id="id1171509980567">Werk uit:</para>
+      <para id="id6853725">3.1 Wat is die waarskynlikheid dat jy twee <emphasis effect="italics">verskillende</emphasis> kante van die muntstuk na mekaar sal kry?</para>
+      <para id="id1289510">4 Nog voorbeelde uit die sak met balle: </para>
+      <list id="id1171510063250" list-type="bulleted">
+        <item>Nou is daar vier balle – 1 elk rooi (R), groen (G), blou (B) en wit (W).</item>
+      </list>
+      <list id="id5784340" list-type="bulleted">
+        <item>Prosedure: Haal ’n bal uit, neem kennis van die kleur, plaas dit terug en haal nog ’n bal uit.</item>
+        <item>Byvoorbeeld: Haal ’n rooi bal uit, gevolg deur ’n wit. Ons kan dit skryf as RW.</item>
+      </list>
+      <para id="id1171517819604">As jy dit doen, wat is die waarskynlikheid dat jy al twee keer blou balle sal uithaal?</para>
+      <list id="id5076122" list-type="bulleted">
+        <item>Eerstens, wat is die totale moontlike uitkomste? </item>
+      </list>
+      <list id="id6966262" list-type="bulleted">
+        <item>RR ; RG ; RB ; RW as die eerste bal rooi was.</item>
+        <item>GR ; GG ; GB ; GW as die eerste bal groen was.</item>
+        <item>BR ; BG ; BB ; BW as die eerste bal blou was.</item>
+        <item>WR ; WG ; WB ; WW as die eerste bal wit was.</item>
+      </list>
+      <para id="id1171509256658">4.1 Teken die boomdiagram vir hierdie situasie.</para>
+      <para id="id6903972">Ons kan nou sien dat die totale aantal uitkomste 16 is! Van hulle is slegs één BB, dus is ons waarskynlikheid 116 = 0,063. Bereken die waarskynlikheid van</para>
+      <para id="id1171509051172">4.2 twee balle van dieselfde kleur.</para>
+      <para id="id8086403">4.3  twee balle met verskillende kleure.</para>
+      <para id="id1171515779822">4.4 ten minste een wit bal.</para>
+      <para id="id1171509122396">4.5 ’n blou bal met die tweede trekking.</para>
+      <para id="id1171509186188">4.6 ’n geel bal.</para>
+      <para id="id5957461">4.7 geen rooi balle.</para>
+      <para id="id2443095">AKTIWITEIT 3</para>
+      <para id="id6531499">Om te begryp dat kennis van risiko’s belangrik is vir lewensbesluite</para>
+      <para id="id1171509048184">[LU 5.1, 5.5]</para>
+      <para id="id2844293">RISIKO’S</para>
+      <para id="id1171515581415">Ons aanvaar sekere risiko’s in ons daaglikse lewe – ons kan hulle skaars vermy. Ons kan nie alle risiko’s uitskakel nie, maar as ons tussen die grotes en die kleintjies kan onderskei, sal dit wel help. Dis moeilik om alles van risiko’s te bestudeer, maar as ons die beginsels verstaan, kan ons meer dikwels eenvoudige, wyse besluite neem. </para>
+      <para id="id3830214">Ons word daagliks blootgestel aan vele risiko’s – hier is ’n paar waaroor ons gerus kan dink:</para>
+      <para id="id3400803">1. Radioaktiewe bestraling kan kanker veroorsaak. As al die klein bietjies bestraling waaraan ’n mens blootgestel word, ophoop, loop jy ’n groter risiko om kanker op te doen. Waar kom al hierdie strale vandaan? </para>
+      <list id="id1171517878605" list-type="bulleted">
+        <item>Eerstens is daar natuurlike radioaktiewe bestraling – oral om ons – vanuit die ruimte en vanuit die aarde. Dit maak ’n groot verskil waar jy woon. Radon is ’n radioaktiewe gas wat deur rotse kom en vasgevang kan word in woonhuise. As jy sou belangstel, kan daar vir radon in jou huis getoets word. Maar as jy net seker maak dat daar gereeld vars lug deur die huis waai, is jou risiko al baie minder, al weet jy nie hoeveel daar uit die grond syfer nie.</item>
+        <item>Natuurlik is kernwapens ’n bestralingsrisiko – dink net aan die atoombomme wat teen die einde van die Tweede Wêreldoorlog op Japan laat val is. Baie mense het in die ontploffing gesterf en baie het later weens bestraling beswyk, maar mense kry ook nou nog kanker omdat hulle toe blootgestel is. </item>
+        <item>Ongelukke by kernkragstasies veroorsaak partykeer dat radioaktiwiteit ontsnap. Mense wat in so ’n ongeluk bestraal word, loop die risiko om te sterf, of om later kanker te kry.</item>
+        <item>Gewone mediese <emphasis effect="italics">х</emphasis>-strale maak nie ’n groot verskil aan die meeste mense se daaglikse blootstelling aan radioaktiwiteit nie. Dit is egter slim om nie onnodig <emphasis effect="italics">х</emphasis>-strale te laat neem nie. Net ná die ontdekking van <emphasis effect="italics">х</emphasis>-strale was dit ’n groot nuwigheid en mense het min omgegee oor hulle blootstelling. Dit is nou amper onmoontlik om dit te begryp – maar hulle het doodgewoon nie die risiko’s verstaan nie.</item>
+      </list>
+      <para id="id1171509265282">2 Elke keer as jy reis, neem jy meer risiko’s. Ongelukke gebeur dikwels. Maar daar is groot verskille in die risiko van die verskillende soorte vervoer. Passasiersvliegtuie is besonder veilig, maar motorvoertuie is heelwat erger. Hierdie soort risiko word soos volg bereken: Deel die aantal mense wat in ’n sekere tydperk sterf deur die totale aantal kilometers wat al die passasiers gereis het, vermenigvuldig met die aantal passasiers. Hierdie verhouding is <emphasis effect="italics">sterftes per persoon-kilometer</emphasis>. Hierdie waarde is hoër vir motorkarre as vir vliegtuie en daarom kan ons sê dat dit veiliger is om te vlieg as om in ’n motor te reis.</para>
+      <list id="id1171509257133" list-type="bulleted">
+        <item>Baie mense glo dat lugreise baie onveilig is. Een van die redes hiervoor is dat ’n vliegongeluk baie sterftes kan veroorsaak terwyl daar gewoonlik min mense in ’n motorongeluk kan sterf. ’n Mens moet egter onthou dat daar relatief min vliegtuigongelukke is, maar mense sterf daagliks in motorongelukke. Daarom is die sterftes per persoon-kilometer die regte manier om hulle te vergelyk. Terloops, motorfietsryers loop ’n nog groter risiko as motorpassasiers.</item>
+        <item>As jy jou voertuig wil laat verseker, sal jy sien dat versekeraars hierdie risiko-syfers in ’n ernstige lig beskou. Hulle weet ook dat mense in sekere ouderdomsgroepe ’n groter risiko loop. Daarom is die premies vir jong mans heelwat hoër as dié vir ou tannies.</item>
+      </list>
+      <para id="id2412028">3 Ons loop ook daagliks die risiko dat ons kan siek word. Daarom is dit verstandig om jou liggaam op te pas en om bewus te wees van metodes om jouself teen siektekieme te beskerm. Byvoorbeeld: Mense loop ’n groter risiko om siektes op te doen as hulle hul gesig of kos aanraak sonder om hulle hande te was nadat hulle aan deurknoppe, ens. geraak het waar siekes dalk was.</para>
+      <para id="id1171510376231">4 ’n Ander risiko-faktor vir nie-rokers is die tweedehandse sigaretrook van rokers. Hulle risiko om longkanker of ander longsiektes op te doen is hoër as normaal, veral as hulle ook nog dikwels blootgestel word aan besoedelde lug.</para>
+      <list id="id1171517842330" list-type="bulleted">
+        <item>Jy kan waarskynlik aan nog ander risiko’s dink. Skryf in klein groepies nog ’n paar ander risiko-faktore in die alledaagse lewe neer.</item>
+      </list>
+      <para id="id1365182">ONSEKERHEID</para>
+      <para id="id2784812">As ’n mens ’n toets ondergaan vir ’n sekere siekte, is daar gewoonlik onsekerheid verbonde aan die toetsresultaat. Dit beteken dat as, byvoorbeeld, die toetsuitslag negatief is, daar dalk tog ’n kans kan wees dat die pasiënt die siekte het; en ook, al was die toets positief, is daar ’n kans dat die pasiënt nie die siekte het nie. </para>
+      <para id="id3626566">Dis hoekom ’n toets ná ’n rukkie herhaal kan word vir bevestiging, veral in die geval van ernstige siektes.</para>
+      <para id="id8377621">DOBBELKANSE</para>
+      <para id="id1171510183756">Ons het reeds gesien dat, as jy een dobbelsteentjie gooi, die kans om reg te raai 1 uit 6 is. Gooi nou twee dobbelstene (een rooi en een swart) en raai ’n getal tussen 2 en 12. Wat is die kans dat jy reg raai?</para>
+      <para id="id1171511084854">Hier is ’n tabel met die uitkomste vir die gooi van twee dobbelstene. Ons sien maklik dat daar 36 uitkomste is.</para>
+      <figure id="id6817235">
+        <media id="id6817235_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 48-5545.png" id="id6817235__onlineimage" height="347" width="336"/>
+        </media>
+      </figure>
+      <para id="id1171508957147">As jy 12 raai, is daar slegs 1 kans uit 36 (P = 0,028) dat jy reg is. Maar as jy 3 raai, het jy 2 kanse uit 36 (P = 0,56) om reg te wees, naamlik 1 op die swart en 2 op die rooi steentjie OF andersom: As die slimkop 7 raai, dan is die kans 6 uit 36 (P = 0,167).</para>
+      <para id="id1171517149712">Die kans om al ses nommers in die Lotto reg te raai is ongeveer 1 uit 14 miljoen. Dit is ’n bitter geringe kansie! Of dalk is dit net lekker (as jy dit kan bekostig) om te droom oor wat jy met die wengeld kan doen as jy sou wen.</para>
+      <para id="id2813556"/>
+      <para id="id1171509168580">Bron:</para>
+      <para id="id1171511085044"><emphasis effect="italics">Pythagoras</emphasis>, Nommer 52, Augustus 2000</para>
+    </section>
+    <section id="id5932633">
+      <title>Assessering</title>
+      <table id="id1171509202892" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1 </entry>
+            </row>
+            <row>
+              <entry>Getalle, Bewerkings en VerwantskappeDie leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</entry>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry>1.2 rasionale getalle (insluitend baie klein getalle in wetenskaplike notasie) herken, gebruik en voorstel, en in staat is om sonder huiwering tussen ekwivalente vorms in gepaste kontekste te beweeg;</entry>
+            </row>
+            <row>
+              <entry>1.3 probleme in konteks oplos, insluitend kontekste wat gebruik kan word om ‘n bewustheid van ander leerareas, asook van menseregte-, sosiale, ekonomiese en omgewingsake, te bevorder, soos:</entry>
+            </row>
+            <row>
+              <entry>1.3.1 finansiële kontekste (insluitend wins en verlies, begrotings, rekenings, lenings, enkelvoudige en saamgestelde rente, huurkoop, wisselkoerse, kommissie, huur en die bankwese);</entry>
+            </row>
+            <row>
+              <entry>1.3.2 meting in die konteks van Natuurwetenskappe en Tegnologie;</entry>
+            </row>
+            <row>
+              <entry>1.4 probleme oor verhouding, koers en proporsie (direk en indirek) oplos.</entry>
+            </row>
+            <row>
+              <entry>1.7 die eienskappe van rasionale getalle herken, beskryf en gebruik.</entry>
+            </row>
+            <row>
+              <entry>LU 5 </entry>
+            </row>
+            <row>
+              <entry>DatahanteringDie leerder is in staat om data te versamel, op te som, voor te stel en krities te ontleed om gevolgtrekkings en voorspellings te maak en om toevallige variasie te interpreteer en te bepaal.</entry>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry>5.1 vrae stel oor menseregte-, sosiale, politieke, omgewings– en ekonomiese sake in Suid–Afrika;</entry>
+            </row>
+            <row>
+              <entry>5.2 geskikte metodes kies, staaf en gebruik vir die versameling van data(alleen en/of as lid van ‘n groep of span), insluitend vraelyste, onderhoude, eksperimente en bronne soos boeke, tydskrifte en die Internet, om vrae te beantwoord en gevolgtrekkings en voorspellings oor die omgewing te maak;</entry>
+            </row>
+            <row>
+              <entry>5.3 numeriese data op verskillende maniere organiseer ten einde ‘n opsomming te maak deur die volgende vas te stel:</entry>
+            </row>
+            <row>
+              <entry>5.3.1 bepalers van sentrale neiging;</entry>
+            </row>
+            <row>
+              <entry>5.3.2 bepalers van verspreiding;</entry>
+            </row>
+            <row>
+              <entry>5.4 ‘n verskeidenheid grafieke met die hand of met behulp van tegnologie teken om data voor te stel en te interpreteer, insluitend:</entry>
+            </row>
+            <row>
+              <entry>5.4.1 staafgrafieke en dubbele staafgrafieke;</entry>
+            </row>
+            <row>
+              <entry>5.4.2 histogramme met gegewe en eie intervalle;</entry>
+            </row>
+            <row>
+              <entry>5.4.3 sirkeldiagramme;</entry>
+            </row>
+            <row>
+              <entry>5.4.4 lyn– en gebroke lyngrafieke;</entry>
+            </row>
+            <row>
+              <entry>5.4.5 verspreidingsgrafieke;</entry>
+            </row>
+            <row>
+              <entry>5.5 data krities lees en interpreteer, met ‘n bewustheid dat fout- en manipulasiebronne kan bestaan, om gevolgtrekkings en voorspellings oor die volgende te maak:</entry>
+            </row>
+            <row>
+              <entry>5.5.1 sosiale, omgewing– en politieke sake (bv. misdaad, staatsbesteding, bewaring, MIV/VIGS); </entry>
+            </row>
+            <row>
+              <entry>5.5.2 eienskappe van teikengroepe (bv. ouderdom, geslag, ras, sosio–ekonomiese groep);</entry>
+            </row>
+            <row>
+              <entry>5.5.3 houdings of menings van mense t.o.v. sekere sake (bv. rook, toerisme, sport); </entry>
+            </row>
+            <row>
+              <entry>5.5.4 enige ander menseregte– en inklusiwiteitsake;</entry>
+            </row>
+            <row>
+              <entry>5.6 situasies met ewe waarskynlike uitkomste beskou, en</entry>
+            </row>
+            <row>
+              <entry>5.6.1 waarskynlikhede vir saamgestelde gebeure bepaal deur tweerigtingtabelle en boomdiagramme te gebruik;</entry>
+            </row>
+            <row>
+              <entry>5.6.2 die waarskynlikheid vir die uitkomste van gebeure bepaal en die relatiewe frekwensie daarvan in eenvoudige eksperimente voorspel;</entry>
+            </row>
+            <row>
+              <entry>5.6.3 die verskille tussen die waarskynlikheid van uitkomste en die relatiewe frekwensie daarvan bespreek.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1171517888730">
+      <title>Memorandum</title>
+      <para id="id2462983">Bespreking</para>
+      <list id="id1171514883044" list-type="bulleted">
+        <item>Leerdermodule baie volledig met baie voorbeelde. </item>
+        <item>Daar kan meer tyd bestee word aan eksperimente soos die opskiet van muntstukke, gooi van dobbelstene of trek van kaarte uit ‘n pak. So kan leerders hulle tabellering van gegewens ook oefen.</item>
+        <item>‘n Mens kry steentjies met vier kante, agt kante en nog meer. Hulle maak interessante eksperimentele materiaal.</item>
+        <item>Dis maklik om ‘n sak van lap te maak waarin mens albasters kan sit vir party van die eksperimente.</item>
+      </list>
+      <para id="id1171510023577">Waarskynlikhede</para>
+      <para id="id1171509138980">Die leerders kan (met hulp) baie plesier put uit die stellings. Hier is ‘n paar opmerkings.</para>
+      <para id="id1171514709286">1.4 Word later weer aangespreek.</para>
+      <para id="id1171511102436">1.5  Baie moeilik om te sê.</para>
+      <para id="id1171515541734">1.6  Moedig leerders aan om uit te dink dat dit gladnie waar kan wees nie.</para>
+      <para id="id1171511115841">1.8 Dis waar – aangesien die meeste klasse meer as 24 leerders het, beteken dit dat meer as die helfte van die klasse in die skool leerders met dieselfde verjaardag moet bevat. Laat die leerders dit navors.</para>
+      <para id="id1171508983640">2.1 Slegs 1 in 6</para>
+      <para id="id8799082">2.2 Hulle sal met smarties moet eksperimenteer!</para>
+      <para id="id3426367">2.4 Dis waar (tensy die steentjie vals is, en dit gebeur ook).</para>
+      <para id="id1171515761509"/>
+      <para id="id5455703">Die studie van risiko’s is ingewikkeld, maar daar is baie interessante aspekte. As daar tyd is kan leerders aangemoedig word om meer daaroor uit te vind en te bespreek.</para>
+      <para id="id1171509087052">TOETS</para>
+      <para id="id1171509294824">Hierdie eenheid het nie ‘n toets nie.</para>
+      <list id="id1171510143594" list-type="bulleted">
+        <item>Hierdie gids moet twee A4-velle bevat: een blokkiespapier en een assestelsel.</item>
+        <item>Twee papierkopieë van elk is hierby ingesluit – maar nie elektronies nie.</item>
+      </list>
+    </section>
+    <section id="id1171514754361">
+      <title/>
+      <para id="para-id1171514754361">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+  </content>
+</document>
