@@ -1,0 +1,611 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Vermenigvuldiging van desimale breuke</title>
+  <metadata>
+  <md:content-id>m31244</md:content-id><md:title>Vermenigvuldiging van desimale breuke</md:title>
+  <md:abstract/>
+  <md:uuid>84c1dfc5-eee8-4f62-b52f-2a193dc7b75c</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1168832199477">
+      <title>WISKUNDE</title>
+      <para id="para-id1168832199477">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168832199484">
+      <title>Desimale Breuke</title>
+      <para id="para-id1168832199484">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168832199492">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id1168832199492">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168832199502">
+      <title>Memorandum</title>
+      <para id="id1168832199511">20.1</para>
+      <para id="id1168832199516">a) 260</para>
+      <para id="id1168832199524">b) 2 600</para>
+      <para id="id1168832230403">c) 26,7</para>
+      <para id="id1168832230409">d) 267</para>
+      <para id="id1168832230416">e) 2 670</para>
+      <para id="id1168832230422">f) 26,79</para>
+      <para id="id1168832230428">g) 267,9</para>
+      <para id="id1168832230432">h) 2 679</para>
+      <para id="id1168832230438">20.2 x10: Elke syfer skuif 1 plek na links / komma skuif 1 plek na regs.</para>
+      <para id="id1168832230447"/>
+      <para id="id1168832230451">x100: Elke syfer skuif 2 plekke na links / komma skuif 2 plekke na regs.</para>
+      <para id="id1168832241084"/>
+      <para id="id1168832241089"> x1000: Elke syfer skuif 3 plekke na links / komma skuif 3 plekke na regs.</para>
+      <para id="id1168832241096"/>
+      <para id="id1168832241100"/>
+      <para id="id1168832241104">20.4 </para>
+      <table id="id1168832241109" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>a)</entry>
+              <entry>54,8</entry>
+              <entry>548</entry>
+              <entry>5480</entry>
+            </row>
+            <row>
+              <entry>b)</entry>
+              <entry>3,67</entry>
+              <entry>36,7</entry>
+              <entry>367</entry>
+            </row>
+            <row>
+              <entry>c)</entry>
+              <entry>8,9</entry>
+              <entry>89</entry>
+              <entry>890</entry>
+            </row>
+            <row>
+              <entry>d)</entry>
+              <entry>165,38</entry>
+              <entry>1653,8</entry>
+              <entry>16 538</entry>
+            </row>
+            <row>
+              <entry>e)</entry>
+              <entry>282,51</entry>
+              <entry>2825,1</entry>
+              <entry>28 251</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1168828975430">20.5.1  </para>
+      <para id="id1168828975437">a) 21,522   </para>
+      <para id="id1168828975446">b) 46,215 </para>
+      <para id="id1168832209103">c) 1,4   </para>
+      <para id="id1168832209113">d) 4,64 </para>
+      <para id="id1168832209120">e) 12 250   </para>
+      <para id="id1168832209130">f) 2 370,6</para>
+      <list id="id1168832209136" list-type="bulleted">
+        <item>Antwoord is kleiner.</item>
+      </list>
+      <para id="id1168832209142">x met getal &lt;1</para>
+      <para id="id1168832209146">20.8 </para>
+      <para id="id1168832209152">a)  0,4964 </para>
+      <para id="id1168832209161">b) 1,3737</para>
+      <para id="id1168832209167">c)   0,109   </para>
+      <para id="id1168832209179">d) 5,53724</para>
+      <para id="id1168832209185">e) 38,57997   </para>
+      <para id="id1168832209195">f) 16,78164</para>
+      <para id="id1168832209201">23.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 10:  Komma skuif 1 plek na links </para>
+      <para id="id1168829006876">Elke syfer skuif een plek na regs </para>
+      <para id="id1168829006881"/>
+      <para id="id1168829006887"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 100: Komma skuif 2 plekke na links </para>
+      <para id="id1168829006933">   Elke syfer skuif 2 plekke na regs </para>
+      <para id="id1168829006942"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 1000: Komma skuif 3 plekke na links </para>
+      <para id="id1168829001427">  Elke syfer skuif 3 plekke na regs</para>
+      <para id="id1168829001441">23.3</para>
+      <table id="id1168829001445" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>8,21</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>0,729</entry>
+              <entry/>
+              <entry>0,6</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>0,864</entry>
+              <entry/>
+              <entry>0,6254</entry>
+              <entry>0,0392</entry>
+              <entry/>
+              <entry>8,791</entry>
+              <entry/>
+              <entry>0,035</entry>
+              <entry>0,08</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>74,68</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1168828998963">
+      <title>Leerders Afdeling</title>
+      <para id="para-id1168828998963">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168828998973">
+      <title>Inhoud</title>
+      <section id="id1168828998980">
+        <title>AKTIWITEIT: Vermenigvuldiging van desimale breuke [LU 1.3.4, LU 1.7.7, LU 1.9.2, LU 1.10, LU 2.3.3]</title>
+        <para id="id1168828998998">20. VERMENIGVULDIGING VAN DESIMALE BREUKE</para>
+        <para id="id1168828999008">20.1 Kom ons hersien</para>
+        <para id="id1168828999014">Do the following with the help of your calculator:</para>
+        <table id="id1168828999018" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>SOM</entry>
+                <entry>ANTWOORD</entry>
+              </row>
+              <row>
+                <entry>Bv.</entry>
+                <entry>2,6 × 10</entry>
+                <entry>26</entry>
+              </row>
+              <row>
+                <entry>a)</entry>
+                <entry>2,6 × 100</entry>
+                <entry>.........................</entry>
+              </row>
+              <row>
+                <entry>b)</entry>
+                <entry>2,6 × 1 000</entry>
+                <entry>.........................</entry>
+              </row>
+              <row>
+                <entry>c)</entry>
+                <entry>2,67 × 10</entry>
+                <entry>.........................</entry>
+              </row>
+              <row>
+                <entry>d)</entry>
+                <entry>2,67 × 100</entry>
+                <entry>.........................</entry>
+              </row>
+              <row>
+                <entry>e)</entry>
+                <entry>2,67 × 1 000</entry>
+                <entry>.........................</entry>
+              </row>
+              <row>
+                <entry>f)</entry>
+                <entry>2,679 × 10</entry>
+                <entry>.........................</entry>
+              </row>
+              <row>
+                <entry>g)</entry>
+                <entry>2,679 × 100</entry>
+                <entry>.........................</entry>
+              </row>
+              <row>
+                <entry>h)</entry>
+                <entry>2,679 × 1 000</entry>
+                <entry>.........................</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1168828940966">20.2 Werk in groepe van drie. Formuleer gou reëls vir die vermenigvuldiging van desimale breuke met 10, 100 en 1 000.</para>
+        <para id="id1168828940979"/>
+        <para id="id1168828940984"/>
+        <para id="id1168828940990"/>
+        <para id="id1168828940994"/>
+        <para id="id1168828940998"/>
+        <para id="id1168828941003">20.3 Onthou jy nog?</para>
+        <para id="id1168828941009">10 x 1 = 10 = 101</para>
+        <para id="id1168828941022">10 x 10 = 100 = 102</para>
+        <para id="id1168828941035">10 x 10 x 10 = 1 000 = 103</para>
+        <para id="id1168828941047">10 x 10 x 10 x 10 = 10 000 = 104 </para>
+        <para id="id1168828941060">10 x 10 x 10 x 10 x 10 = 100 000 = 105</para>
+        <para id="id1168828941073">10 x 10 x 10 x 10 x 10 x 10 = 1 000 000 = 106</para>
+        <para id="id1168828941086">20.4 Voltooi die volgende tabel:</para>
+        <table id="id1168828941096" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>×</entry>
+                <entry>10<sup>1</sup></entry>
+                <entry>10<sup>2</sup></entry>
+                <entry>10<sup>3</sup></entry>
+              </row>
+              <row>
+                <entry>e.g.</entry>
+                <entry>3,2</entry>
+                <entry>32</entry>
+                <entry>320</entry>
+                <entry>3 200</entry>
+              </row>
+              <row>
+                <entry>a)</entry>
+                <entry>5,48</entry>
+                <entry>.....................</entry>
+                <entry>.....................</entry>
+                <entry>.....................</entry>
+              </row>
+              <row>
+                <entry>b)</entry>
+                <entry>0,367</entry>
+                <entry>.....................</entry>
+                <entry>.....................</entry>
+                <entry>.....................</entry>
+              </row>
+              <row>
+                <entry>c)</entry>
+                <entry>0,89</entry>
+                <entry>.....................</entry>
+                <entry>.....................</entry>
+                <entry>.....................</entry>
+              </row>
+              <row>
+                <entry>d)</entry>
+                <entry>16,538</entry>
+                <entry>.....................</entry>
+                <entry>.....................</entry>
+                <entry>.....................</entry>
+              </row>
+              <row>
+                <entry>e)</entry>
+                <entry>28,251</entry>
+                <entry>.....................</entry>
+                <entry>.....................</entry>
+                <entry>.....................</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1168828941514">20.5 Nog hersiening</para>
+        <para id="id1168828941520">20.5.1 Werk saam met ’n maat. Bereken die antwoorde sonder om ’n sakrekenaar te gebruik: </para>
+        <para id="id1168828941534">a) s = 3,587 x 6</para>
+        <para id="id1168828941549">………………………………………………</para>
+        <para id="id1168828941553">………………………………………………</para>
+        <para id="id1168828941557">………………………………………………</para>
+        <para id="id1168828941561">………………………………………………</para>
+        <para id="id1168828941565">b) f = 9,243 x 5</para>
+        <para id="id1168828941580">………………………………………………</para>
+        <para id="id1168828941584">………………………………………………</para>
+        <para id="id1168828941588">………………………………………………</para>
+        <para id="id1168828941592">………………………………………………</para>
+        <para id="id1168828941597">c) p = 0,02 x 70 </para>
+        <para id="id1168828941612">………………………………………………</para>
+        <para id="id1168828941617">………………………………………………</para>
+        <para id="id1168828941621">………………………………………………</para>
+        <para id="id1168828941625">………………………………………………</para>
+        <para id="id1168828941629">d) r = 0,058 x 80</para>
+        <para id="id1168829005348">………………………………………………</para>
+        <para id="id1168829005352">………………………………………………</para>
+        <para id="id1168829005356">………………………………………………</para>
+        <para id="id1168829005360">………………………………………………</para>
+        <para id="id1168829005364">e) t = 24,5 x 500 </para>
+        <para id="id1168829005378">………………………………………………</para>
+        <para id="id1168829005382">………………………………………………</para>
+        <para id="id1168829005386">………………………………………………</para>
+        <para id="id1168829005391">………………………………………………</para>
+        <para id="id1168829005395">f) h = 2,634 x 900</para>
+        <para id="id1168829005410">………………………………………………</para>
+        <para id="id1168829005414">………………………………………………</para>
+        <para id="id1168829005418">………………………………………………</para>
+        <para id="id1168829005422">………………………………………………</para>
+        <para id="id1168829005426">20.5.2 Kontroleer jul antwoorde met ’n sakrekenaar.</para>
+        <para id="id1168829005436">20.6 VERMENIGVULDIGING VAN DESIMALE BREUKE MET DESIMALE BREUKE</para>
+        <para id="id1168829005446">20.6.1 Lees die volgende probleem en werk dan weer saam met ’n maat deur die verskillende oplossings:</para>
+        <para id="id1168829005458">’n Skilpad stap 0,8 km in een uur. Hoe ver sal hy in 0,6 uur stap?</para>
+        <para id="id1168829005465">a) </para>
+        <para id="id1168829005470">Ek herlei eers die desimale breuke na gewone breuke:</para>
+        <equation id="id1168829005474">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mtable>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mn>0,8</m:mn>
+                                <m:mo stretchy="false">×</m:mo>
+                                <m:mn>0,6</m:mn>
+                              </m:mrow>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mrow>
+                                <m:mfrac>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>8</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mtext>10</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mfrac>
+                                <m:mo stretchy="false">×</m:mo>
+                                <m:mfrac>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>6</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mtext>10</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mfrac>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mrow/>
+                        <m:mfrac>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>48</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>100</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mfrac>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                  </m:mtable>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{0,8 times 0,6= {  { size 8{8} }  over  { size 8{"10"} } }  times  {  { size 8{6} }  over  { size 8{"10"} } } }  {} # 
+= {  { size 8{"48"} }  over  { size 8{"100"} } }  {} 
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168829005591">Hy stap dus 0,48 km.</para>
+        <para id="id1168829005595">b) Ek werk eers 8 × 6 uit. Die antwoord is 48. Nou tel ek die aantal plekke na elke desimale komma. Daar is 2. My antwoord moet dus 2 (twee) syfers na die desimale komma hê. </para>
+        <para id="id1168829005623">Die antwoord is dus 0,48.</para>
+        <para id="id1168829005627">20.6.2 Wat merk julle op as julle die antwoord (produk) met die vermenigvuldigtal vergelyk?</para>
+        <para id="id1168829005636">…………………………………………………………………………………………..</para>
+        <para id="id1168829005641">…………………………………………………………………………………………..</para>
+        <para id="id1168829005646">Kan julle dit verklaar?</para>
+        <para id="id1168829005651">…………………………………………………………………………………………..</para>
+        <para id="id1168829005656">…………………………………………………………………………………………..</para>
+        <para id="id1168829005661"/>
+        <para id="id1168829005665">20.7 ONTHOU!</para>
+        <figure id="id1168829005674">
+          <media id="id1168829005674_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-9bf5.png" id="id1168829005674__onlineimage" height="203" width="463"/>
+          </media>
+        </figure>
+        <para id="id1168829005701">20.8 Bereken die volgende op jou eie sonder ’n sakrekenaar:</para>
+        <para id="id1168829005711">a) j = 0,146 x 3,4 </para>
+        <para id="id1168829005727">b) v = 2,41 x 0,57</para>
+        <para id="id1168829005742">c) u = 0,025 x 4,36 </para>
+        <para id="id1168829005758">d) g = 8,143 x 0,68</para>
+        <para id="id1168829005772">e) d = 7,293 x 5,29 </para>
+        <para id="id1168829005788">f) o = 3,849 x 4,36</para>
+        <para id="id1168829005803">21. Tyd vir selfassessering</para>
+        <table id="id1168829005809" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>
+                  <list id="id1168829005832" list-type="bulleted">
+                    <item>Merk die toepaslike blokkie met ’n :</item>
+                  </list>
+                </entry>
+                <entry>ONSEKER</entry>
+                <entry>SEKER</entry>
+              </row>
+              <row>
+                <entry>Ek kan desimale breuke korrek optel</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek kan desimale breuke korrek van mekaar aftrek</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek kan desimale breuke korrek met 10 vermenigvuldig</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek weet hoe om desimale breuke met 100 te vermenigvuldig</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek kan die produk van desimale breuke en 1 000 korrek bereken</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek kan desimale breuke met heelgetalle vermenigvuldig</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek kan desimale breuke met desimale breuke vermenigvuldig</entry>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1168829006026">22.  Kom ons speel ’n speletjie</para>
+        <para id="id1168829006033">Jy het ’n maat en ’n sakrekenaar vir hierdie speletjie nodig. Sleutel enige desimale getal op jou sakrekenaar in. Deel dit dan deur 10, 100 of 1 000. Gee dan die sakrekenaar vir jou maat. Hy / sy moet weer die oorspronklike getal kry.</para>
+        <para id="id1168829006047">Bv. Speler 1 sleutel in: 43,674Speler 1 deel 43,674 deur 1 000 en kry 0,043674.Speler 2 moet nou weer 43,674 op die skerm kry.Speler 2 moet dus × met 1 000!</para>
+        <para id="id1168829006073">23. DELING DEUR DESIMALE BREUKE</para>
+        <para id="id1168829006082"> Kom ons hersien eers</para>
+        <para id="id1168829006087">23.1 Deel in groepe van drie. Kan julle aan mekaar verduidelik wat gebeur wanneer ons natuurlike en desimale getalle deur 10, 100 of 1 000 deel? </para>
+        <para id="id1168829006099">…………………………………………………………………………………………..</para>
+        <para id="id1168829006104">…………………………………………………………………………………………..</para>
+        <para id="id1168829006109">…………………………………………………………………………………………..</para>
+        <para id="id1168829006115">…………………………………………………………………………………………..</para>
+        <para id="id1168829006120">23.2 Maak nou beurte om vir mekaar die volgende antwoorde hardop te sê. Die derde persoon kan die antwoorde met ’n sakrekenaar kontroleer.</para>
+        <para id="id1168829006134">a) 6 ÷ 10 </para>
+        <para id="id1168829006146">b) 0,3 ÷ 10 </para>
+        <para id="id1168829006157">c) 0,06 ÷ 100 </para>
+        <para id="id1168829006169">d) 2,9 ÷ 100  </para>
+        <para id="id1168829006181">e) 4 ÷ 100 </para>
+        <para id="id1168829006193">f) 15,8 ÷ 100</para>
+        <para id="id1168829006204">g) 8 ÷ 1 000</para>
+        <para id="id1168829006216">h) 39,2 ÷ 100</para>
+        <para id="id1168829006227">i) 34,67 ÷ 1 000 </para>
+        <para id="id1168829006240">j) 27,458 ÷ 10</para>
+        <para id="id1168829006251">23.3 Kleur die korrekte antwoorde in en vind so die “pad” na die huis.</para>
+        <para id="id1168829006262">a) 82,1 ÷ 10 </para>
+        <para id="id1168829006273">b) 86,4 ÷ 100 </para>
+        <para id="id1168829006285">c) 746,8 ÷ 10 </para>
+        <para id="id1168829006296">d) 625,4 ÷ 1 000 </para>
+        <para id="id1168829006310">e) 39,2 ÷ 1 000 </para>
+        <para id="id1168829006324">f) 72,9 ÷ 100</para>
+        <para id="id1168829006334">g) 879,1 ÷ 100</para>
+        <para id="id1168829006345">h) 6 ÷ 10</para>
+        <para id="id1168829006356">i) 35 ÷ 1 000</para>
+        <para id="id1168829006368">j) 8 ÷ 100</para>
+        <table id="id1168829006379" summary="">
+          <tgroup cols="9">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <tbody>
+              <row>
+                <entry>BEGIN</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>8,21</entry>
+                <entry>0,821</entry>
+                <entry>6,254</entry>
+                <entry>39,2</entry>
+                <entry>0,729</entry>
+                <entry>879,1</entry>
+                <entry>0,6</entry>
+                <entry>35</entry>
+                <entry>0,8</entry>
+              </row>
+              <row>
+                <entry>0,864</entry>
+                <entry>7,468</entry>
+                <entry>0,6254</entry>
+                <entry>0,0392</entry>
+                <entry>7,29</entry>
+                <entry>8,791</entry>
+                <entry>6</entry>
+                <entry>0,035</entry>
+                <entry>0,08</entry>
+              </row>
+              <row>
+                <entry>8,64</entry>
+                <entry>74,68</entry>
+                <entry>62,54</entry>
+                <entry>3,92</entry>
+                <entry>729</entry>
+                <entry>87,9</entry>
+                <entry>60</entry>
+                <entry>3,5</entry>
+                <entry>80</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1168828979020"/>
+      </section>
+    </section>
+    <section id="id1168828979027">
+      <title>Assessering</title>
+      <para id="id1168828979039"><emphasis><emphasis effect="italics">Leeruitkomste 1:</emphasis></emphasis>Die leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</para>
+      <para id="id1168828979061"><emphasis><emphasis effect="italics">Assesseringstandaard 1.3:</emphasis></emphasis> Dit is duidelik wanneer die leerder die volgende getalle herken, klassifiseer en voorstel sodat dit beskryf en vergelyk kan word:</para>
+      <para id="id1168828979079">1.3.4 getalle in eksponensiële vorm, insluitend kwadrate van natuurlike getalle tot minstens 12<sup>2</sup>, natuurlike getalle tot die derde mag tot minstens 5<sup>3</sup>, asook die vierkants- en derdemagswortels van hierdie getalle;</para>
+      <para id="id1168828979107"><emphasis><emphasis effect="italics">Assesseringstandaard 1.7:</emphasis></emphasis> Dit is duidelik wanneer die leerder skat en bereken deur geskikte bewerkings vir probleme wat die volgende behels, te kies en te gebruik:</para>
+      <para id="id1168828979125">1.7.7 eksponente;</para>
+      <para id="id1168828979131"><emphasis><emphasis effect="italics">Assesseringstandaard 1.9:</emphasis></emphasis> Dit is duidelik wanneer die leerder ‘n verskeidenheid tegnieke gebruik om berekeninge te doen, insluitend:</para>
+      <para id="id1168828979149">1.9.2 die gebruik van ‘n sakrekenaar;</para>
+      <para id="id1168828979155"><emphasis><emphasis effect="italics">Assesseringstandaard 1.10:</emphasis></emphasis> Dit is duidelik wanneer die leerder ‘n verskeidenheid strategieë gebruik om oplossings te kontroleer en die redelikheid daarvan te beoordeel.</para>
+      <para id="id1168828979175"><emphasis><emphasis effect="italics">Assesseringstandaard 2.3:</emphasis></emphasis> Dit is duidelik wanneer die leerder voorstellings maak van en verwantskappe tussen veranderlikes gebruik sodat inset- en/of uitsetwaardes op ‘n verskeidenheid maniere bepaal kan word deur die gebruik van:</para>
+      <para id="id1168828979196">2.3.3 tabelle.</para>
+    </section>
+  </content>
+</document>

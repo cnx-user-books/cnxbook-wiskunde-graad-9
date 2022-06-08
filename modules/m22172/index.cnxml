@@ -1,0 +1,250 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Oppervlakte / area van onreëlmatige figure</title>
+  <metadata>
+  <md:content-id>m22172</md:content-id><md:title>Oppervlakte / area van onreëlmatige figure</md:title>
+  <md:abstract/>
+  <md:uuid>2def7b2c-8b08-459c-9a45-1f6647cfb973</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1168517472000">
+      <title>WISKUNDE</title>
+      <para id="para-id1168517472000">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8765676">
+      <title>Omtrek, Oppervlakte en Volume</title>
+      <para id="para-id8765676">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168516676058">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id1168516676058">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168517312125">
+      <title>Memorandum</title>
+      <list id="id1168514946733" list-type="bulleted">
+        <item>Groter as die helfte + kleiner as die helfte maak 1 blokkie, en blokkies wat groter as die helfte is, is reeds getel.</item>
+      </list>
+      <para id="id1168518157513">19. </para>
+      <para id="id1168514779902">a) 30   </para>
+      <para id="id1168517312343">b) 40   </para>
+      <para id="id1168525832673">c) 25   </para>
+      <para id="id1168518011791">d) 35   </para>
+      <para id="id1168525133732">e) 4 986   </para>
+      <para id="id1168514740371">f) 2,51   </para>
+      <para id="id1168526406649">g) 308   </para>
+      <para id="id1168514862886">h) 71,2</para>
+      <para id="id4267693">i)  10</para>
+      <para id="id2775806">j)  40</para>
+      <para id="id1168526239640">k) 120</para>
+      <para id="id3210185">l) 1,743</para>
+      <para id="id4577789">m) 186</para>
+      <para id="id1168514695132">n) 1 528</para>
+      <para id="id1168512784723">o) 8,249</para>
+    </section>
+    <section id="id1168526908754">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id1168526908754">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168514991093">
+      <title>Inhoud</title>
+      <section id="id1168516568065">
+        <title>AKTIWITEIT: Oppervlakte / area van onreëlmatige figure [LO 4.2, LO 2.5, LO 2.3]</title>
+        <para id="id1168518063947">16. Oppervlakte of area van onreëlmatige figure</para>
+        <para id="id1168517290082">16.1 a) Werk saam met ’n maat. Hoe sal julle die oppervlakte van hierdie figuur bepaal? Veronderstel dat elke vierkant 1 cm<sup>2</sup> groot is.</para>
+        <para id="id1168514976030">_____________________________________________________________________</para>
+        <para id="id1168516141211">_____________________________________________________________________</para>
+        <para id="id4780645">_____________________________________________________________________</para>
+        <para id="id1168513968230">_____________________________________________________________________</para>
+        <para id="id1168517250224">b) Gebruik nou jul metode en bepaal die oppervlakte!</para>
+        <para id="id1168525916704">_____________________________________________________________________</para>
+        <para id="id1168514987040">_____________________________________________________________________</para>
+        <para id="id3019720">_____________________________________________________________________</para>
+        <para id="id1168516363770">_____________________________________________________________________</para>
+        <figure id="id1168514998425">
+          <media id="id1168514998425_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-2211.png" id="id1168514998425__onlineimage" height="139" width="121"/>
+          </media>
+        </figure>
+        <para id="id1168518124454">16.2 Het jy geweet?</para>
+        <para id="id5013899">By onreëlmatige figure kan ons net ’n <emphasis effect="bold">benaderde</emphasis> oppervlakte bepaal. Ons doen dit deur al die heel vierkante binne die tekening te tel. Ons tel ook die vierkante wat groter as ’n halwe vierkant is, en tel dit by bo­genoemde. Die vierkante wat kleiner is as ’n halwe vierkant word nie getel nie. Kan jy sê hoekom nie?</para>
+        <para id="id1168515859999">_____________________________________________________________________</para>
+        <para id="id1168518435737">_____________________________________________________________________</para>
+        <para id="id4973734">_____________________________________________________________________</para>
+        <para id="id4835139">_____________________________________________________________________</para>
+        <para id="id1168526667231">So word die benaderde oppervlakte dan in cm<sup>²</sup> uitgedruk.</para>
+        <figure id="id3994829">
+          <media id="id3994829_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-2669.png" id="id3994829__onlineimage" height="185" width="173"/>
+          </media>
+        </figure>
+        <para id="id1168520654180">Bv. </para>
+        <para id="id6813252">Heel vierkante : 26</para>
+        <para id="id7078082">Groter as ’n halwe vierkante <emphasis effect="underline">: 12</emphasis></para>
+        <para id="id6408515"><emphasis effect="bold">Benaderde</emphasis> oppervlakte :38 cm²</para>
+        <para id="id1168520626432">16.3 Trek nou jou hand af op die blokkiespapier hieronder. Veronderstel elke vierkant is 1cm<sup>²</sup>.</para>
+        <figure id="id5468813">
+          <media id="id5468813_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-c5ec.png" id="id5468813__onlineimage" height="789" width="552"/>
+          </media>
+        </figure>
+        <para id="id6025377">a) Bepaal die benaderde oppervlakte van jou hand. _______________________</para>
+        <para id="id1168525154524">b) Watter klasmaat se hand het die grootste oppervlakte? ___________________</para>
+        <para id="id5923281">c) Wie se hand se oppervlakte is die kleinste? ___________________________</para>
+        <para id="id1168519400766">17 Tyd vir selfassessering</para>
+        <table id="id1168524128910" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>
+                  <list id="id1168519402390" list-type="bulleted">
+                    <item>Maak ’n regmerkie in die toepaslike kolom: </item>
+                  </list>
+                </entry>
+                <entry>On­seker</entry>
+                <entry>Redelik seker</entry>
+                <entry>Dood­seker</entry>
+              </row>
+              <row>
+                <entry>Ek kan die begrip “oppervlakte / area” verduidelik</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek kan cm<sup>²</sup> herlei na mm<sup>²</sup> en andersom</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek kan m<sup>²</sup> herlei na cm<sup>2²</sup> en andersom</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek kan km<sup>²</sup> herlei na m<sup>²</sup> en andersom</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek kan m<sup>²</sup> herlei na hektaar en andersom</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek ken die formules om die oppervlakte van die volgende figure te bepaal: </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id3351390" list-type="bulleted">
+                    <item>Vierkant</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id8526682" list-type="bulleted">
+                    <item>Reghoek</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id4382237" list-type="bulleted">
+                    <item>Driehoek</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek kan die oppervlakte van reëlmatige figure bepaal</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek kan die benaderde oppervlakte van onreëlmatige figure bepaal</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1168521564259">18.1 Kom ons speel ‘n speletjie!</para>
+        <para id="id2651370">Jy benodig ’n maat, twee dobbelstene, papier en ’n potlood. Speler A is die “omtrek” en speler B is die “oppervlakte”. Julle is albei “reghoeke” en werk in cm.</para>
+        <para id="id1168515873562">Speler A gooi die twee dobbelstene en bereken dan die omtrek van ’n reghoek met die twee getalle, bv. 6 en 2. (6 × 2) + (2 × 2) = 16 cm</para>
+        <para id="id1168525700680">Speler B bereken die oppervlakte met dieselfde getalle: 6 × 2 = 12 cm<sup>2</sup></para>
+        <para id="id4299381">Die omtrek is groter, dus kry speler A twee punte. Maak beurte. Die speler wat die meeste punte na 15 rondtes het, is die wenner.</para>
+        <para id="id1168519415517">18.2 UITDAGING!</para>
+        <para id="id1168524941747">a) Kyk goed na die voorbeeld van die huisplan.</para>
+        <figure id="id1168526381687">
+          <media id="id1168526381687_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics4-1d10.png" id="id1168526381687__onlineimage" height="195" width="305"/>
+          </media>
+        </figure>
+        <para id="id1168521710981">b) Teken nou jul eie huisplan so eenvoudig moontlik.</para>
+        <para id="id8520225">c) Wat is die vloeroppervlakte van jul huis? _____________________________</para>
+        <para id="id1168519835135">d) Hoe groot is julle erf? ____________________________________________</para>
+        <para id="id6880726">e) Wat is die omtrek van jul motorhuis(e)? _____________________________</para>
+        <para id="id3983234">f) As julle huis vir ’n half miljoen rand sou verkoop, wat sal die koste per vierkante meter dan wees? _____________________________________________________________________</para>
+        <para id="id3068274">_____________________________________________________________________</para>
+        <para id="id4298746">g) As jou ouers nog ’n vertrek van 6,1 m by 3,5 m aanbou, wat sal die oppervlakte van jul huis dan wees?</para>
+        <para id="id1168523835833">_____________________________________________________________________</para>
+        <para id="id1168526388742">_____________________________________________________________________</para>
+        <para id="id6977569">19. Kom ons kyk nou eers of jy op jou vorige hoofrekentoets kan verbeter!Voltooi die volgende so vinnig en akkuraat moontlik:</para>
+        <para id="id1168516082565"/>
+        <para id="id1168524958051">a) 0,6 of 50 = _______________________</para>
+        <para id="id5835928">b) 0,8 of 50 = _______________________</para>
+        <para id="id7736418">c) 50% of 50 = ______________________</para>
+        <para id="id1168523487170">d) 70% of 50 = ______________________</para>
+        <para id="id1168516904072">e) 4,986 x 1 000 = ___________________</para>
+        <para id="id7687966">f) 0,251 x 10 = ____________________</para>
+        <para id="id1168527837070">g) 3,08 x 100 = ______________________</para>
+        <para id="id1168515894443">h) 7,12 x 10 = ____________________</para>
+        <para id="id8572914">i) 25% x 40 = _______________________</para>
+        <para id="id1168517250339">j) 100% x 40 = ______________________</para>
+        <para id="id5971989">k) 300% x 40 = ______________________</para>
+        <para id="id3404167">l) 174,3 ÷ 100 = _____________________</para>
+        <para id="id1168525354654">m) 18,6 ÷ 0,1 = ______________________</para>
+        <para id="id5122801">n) 15,28 ÷ 0,01 = ____________________</para>
+        <para id="id4229550">o) 8 249 ÷ 1 000 = ___________________</para>
+        <para id="id8666471">Ht jy verbeter? ______________________</para>
+      </section>
+    </section>
+    <section id="id1168526468131">
+      <title>Assessering</title>
+      <para id="id1168524290103"><emphasis><emphasis effect="italics">Leeruitkomste 4:</emphasis></emphasis>Die leerder is in staat om gepaste meeteenhede, instrumente en formules in ‘n verskeidenheid kontekste te gebruik.</para>
+      <para id="id1168526596576"><emphasis><emphasis effect="italics">Assesseringstandaard 4.2:</emphasis></emphasis> Dit is duidelik wanneer die leerder probleme oplos;</para>
+      <para id="id1168521596699"><emphasis><emphasis effect="italics">Assesseringstandaard 4.5:</emphasis></emphasis> Dit is duidelik wanneer die leerder berekenings doen deur die geskikte formules te gebruik;</para>
+      <para id="id7192820"><emphasis><emphasis effect="italics">Leeruitkomste 1:</emphasis></emphasis>Die leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</para>
+      <para id="id1168521589713"><emphasis><emphasis effect="italics">Assesseringstandaard 1.8:</emphasis></emphasis> Dit is duidelik wanneer die leerder hoofrekenberekeninge doen wat kwadrate van natuurlike getalle tot minstens 10<sup>2</sup> en derdemagswaardes van natuurlike getalle tot minstens 5<sup>3</sup> behels.</para>
+    </section>
+  </content>
+</document>

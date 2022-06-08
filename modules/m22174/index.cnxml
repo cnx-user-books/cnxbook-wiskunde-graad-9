@@ -1,0 +1,266 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Drie-dimensionele voorwerpe</title>
+  <metadata>
+  <md:content-id>m22174</md:content-id><md:title>Drie-dimensionele voorwerpe</md:title>
+  <md:abstract/>
+  <md:uuid>fcd93669-cf39-43a6-aaf3-00ac8cff093b</md:uuid>
+</metadata>
+
+<content>
+    <section id="id3950236">
+      <title>WISKUNDE</title>
+      <para id="para-id3950236">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5830868">
+      <title>Omtrek, Oppervlakte en Volume</title>
+      <para id="para-id5830868">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6461293">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id6461293">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7918542">
+      <title>Memorandum</title>
+      <para id="id8889281">20.3.2  </para>
+      <para id="id4640186">a) sfeer </para>
+      <para id="id8194006">   piramide </para>
+      <para id="id8584240">   kubus </para>
+      <para id="id6462754">silinder </para>
+      <para id="id8273253">driehoekige </para>
+      <para id="id3999357">kegel </para>
+      <para id="id6105255">seshoekige prisma</para>
+      <para id="id7963868">c) b)  8; 12; 6</para>
+      <para id="id4699532">   c)  5; 8; 5</para>
+      <para id="id6975288">   d)  6; 10; 6</para>
+      <para id="id5815333">e) 12; 18; 8</para>
+      <para id="id3647182">f)  6; 9; 5</para>
+      <para id="id5701052">d) a) reghoekige prisma</para>
+      <para id="id8848889">b) kubus </para>
+      <para id="id3939708">c) piramide </para>
+      <para id="id6030957">d) vyfhoekige piramide </para>
+      <para id="id5914646">e) seshoekige prisma </para>
+    </section>
+    <section id="id3698508">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id3698508">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7181020">
+      <title>Inhoud</title>
+      <section id="id8213244">
+        <title>AKTIWITEIT: Drie-dimensionele voorwerpe [LU 3.1, LU 3.2]</title>
+        <para id="id8884474">20. Drie-dimensionele voorwerpe</para>
+        <para id="id1781225">20.1 Het jy geweet?</para>
+        <para id="id1848235">Twee-dimensionele voorwerpe het net twee dimensies, nl. lengte en breedte, wat ons in staat stel om die omtrek en oppervlakte te bereken.</para>
+        <para id="id8689256"><emphasis effect="bold">Drie-dimensionele</emphasis> voorwerpe het drie dimensies, <emphasis effect="bold">lengte</emphasis>, <emphasis effect="bold">breedte</emphasis> en <emphasis effect="bold">hoogte</emphasis>, wat ons in staat stel om die <emphasis effect="bold">volume</emphasis> te bereken.</para>
+        <para id="id3850880">20.2 Het jy ook geweet?</para>
+        <para id="id1759971">
+          <figure id="id5282367">
+            <media id="id5282367_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics1-ef76.png" id="id5282367__onlineimage" height="117" width="457"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id8905212">20.3 Kom ons kyk eers na ’n paar drie-dimensionele voorwerpe:</para>
+        <para id="id1714035">20.3.1 Interessant om te weet!</para>
+        <para id="id8889548">Drie-dimensionele figure staan ook as “ruimtefigure” bekend. Sommige figure het vier of meer syvlakke (sien skets hierbo) en word “veelvlakke” of “poliëders” genoem.</para>
+        <para id="id8451617">Die woord “poliëder” kom van die Griekse woord “poluedron” wat “baie kante” beteken. Die eerste veelvlakke is meer as 2 000 jaar gelede deur ’n Griekse Wiskundige, Euclides, beskryf.</para>
+        <para id="id8050600">20.3.2 Werk met ‘n friend</para>
+        <para id="id8023458">a) Pas elke vorm by die korrekte beskrywing: </para>
+        <table id="id8019084" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>
+                  <media id="id8168251" alt="">
+                    <image mime-type="image/png" src="../../media/graphics2-2d2c.png"/>
+                  </media>
+                </entry>
+                <entry/>
+                <entry>pyramide</entry>
+              </row>
+              <row>
+                <entry>
+                  <media id="id1168401345765" alt="">
+                    <image mime-type="image/png" src="../../media/graphics3-630c.png"/>
+                  </media>
+                </entry>
+                <entry/>
+                <entry>seshoekige prisma</entry>
+              </row>
+              <row>
+                <entry>
+                  <media id="id8958029" alt="">
+                    <image mime-type="image/png" src="../../media/graphics4-80d0.png"/>
+                  </media>
+                </entry>
+                <entry/>
+                <entry>sfeer</entry>
+              </row>
+              <row>
+                <entry>
+                  <media id="id8256329" alt="">
+                    <image mime-type="image/png" src="../../media/graphics5-3f30.png"/>
+                  </media>
+                </entry>
+                <entry/>
+                <entry>kegel</entry>
+              </row>
+              <row>
+                <entry>
+                  <media id="id5868340" alt="">
+                    <image mime-type="image/png" src="../../media/graphics6-fa50.png"/>
+                  </media>
+                </entry>
+                <entry/>
+                <entry>driehoekige prisma</entry>
+              </row>
+              <row>
+                <entry>
+                  <media id="id6124214" alt="">
+                    <image mime-type="image/png" src="../../media/graphics7-774d.png"/>
+                  </media>
+                </entry>
+                <entry/>
+                <entry>kubus</entry>
+              </row>
+              <row>
+                <entry>
+                  <media id="id1515048" alt="">
+                    <image mime-type="image/png" src="../../media/graphics8-3128.png"/>
+                  </media>
+                </entry>
+                <entry/>
+                <entry>silinder</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1168401284696">b) Gebruik nou die inligting hierbo en groepeer die volgende items. Verstrek redes waar­om julle die vorms so gegroepeer het wanneer julle terugvoering aan die klas gee.</para>
+        <figure id="id5943469">
+          <media id="id5943469_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics9-e007.png" id="id5943469__onlineimage" height="283" width="527"/>
+          </media>
+        </figure>
+        <para id="id8798623">c) Voltooi die volgende tabel.</para>
+        <table id="id4029198" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>Figuur</entry>
+                <entry>Hoekpunt</entry>
+                <entry>Rand/kant</entry>
+                <entry>Vlak/syvlak</entry>
+              </row>
+              <row>
+                <entry>e.g.a) </entry>
+                <entry>
+                  <media id="id5614633" alt="">
+                    <image mime-type="image/png" src="../../media/graphics10-df49.png"/>
+                  </media>
+                </entry>
+                <entry>8</entry>
+                <entry>12</entry>
+                <entry>6</entry>
+              </row>
+              <row>
+                <entry>b)</entry>
+                <entry>
+                  <media id="id8517117" alt="">
+                    <image mime-type="image/png" src="../../media/graphics11-1867.png"/>
+                  </media>
+                </entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+              <row>
+                <entry>c)</entry>
+                <entry>
+                  <media id="id8453683" alt="">
+                    <image mime-type="image/png" src="../../media/graphics12-ddbf.png"/>
+                  </media>
+                </entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+              <row>
+                <entry>d)</entry>
+                <entry>
+                  <media id="id6986416" alt="">
+                    <image mime-type="image/png" src="../../media/graphics13-01c8.png"/>
+                  </media>
+                </entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+              <row>
+                <entry>e)</entry>
+                <entry>
+                  <media id="id3981250" alt="">
+                    <image mime-type="image/png" src="../../media/graphics14-b0d3.png"/>
+                  </media>
+                </entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+              <row>
+                <entry>f)</entry>
+                <entry>
+                  <media id="id7457821" alt="">
+                    <image mime-type="image/png" src="../../media/graphics15-9695.png"/>
+                  </media>
+                </entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8364808">d) Kan jy al die figure hierbo benoem?</para>
+        <para id="id6147030">a) _______________________________________________________________</para>
+        <para id="id8284916">b) _______________________________________________________________</para>
+        <para id="id6637850">c) _______________________________________________________________</para>
+        <para id="id8530368">d) _______________________________________________________________</para>
+        <para id="id7448909">e) _______________________________________________________________</para>
+        <para id="id8286743">f) _______________________________________________________________</para>
+        <para id="id5250764">21. Kom ons bekyk drie-dimensionele voorwerpe van naderby!</para>
+        <para id="id1337952">21.1.1 Het jy geweet?</para>
+        <para id="id7416948">’n <emphasis effect="bold">Kubus </emphasis>is ’n <emphasis effect="bold">vierkantige </emphasis>vorm. Al sy kante is dus ewe lank.</para>
+        <para id="id6580820">21.1.2 Kyk na hierdie kubus. </para>
+        <para id="id8710188">Kan jy dieselfde kubus vanuit ’n ander hoek teken?</para>
+        <figure id="id8284622">
+          <media id="id8284622_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics16-8170.png" id="id8284622__onlineimage" height="136" width="150"/>
+          </media>
+        </figure>
+      </section>
+    </section>
+    <section id="id6324640">
+      <title>Assessering</title>
+      <para id="id8954891"><emphasis><emphasis effect="italics">Leeruitkomste 3:</emphasis></emphasis>Die leerder is in staat om eienskappe van en verwantskappe tussen twee-dimensionele vorms en drie-dimensionele voorwerpe in ‘n verskeidenheid oriëntasies en posisies te beskryf en voor te stel.</para>
+      <para id="id8218857"><emphasis><emphasis effect="italics">Assesseringstandaard 3.1:</emphasis></emphasis> Dit is duidelik wanneer die leerder meetkundige figure en drie-dimensionele voorwerpe in natuurlike en kulturele vorms en ‘n meetkundige agtergrond herken, visualiseer en benoem, insluitend dié wat vroeër behandel is;</para>
+      <para id="id6319110"><emphasis><emphasis effect="italics">Assesseringstandaard 3.2:</emphasis></emphasis> Dit is duidelik wanneer die leerder meetkundige figure en driedimensionele voorwerpe volgens eienskappe in kontekste beskryf en klassifiseer, insluitend dié wat gebruik kan word om ‘n bewustheid van sosiale, kulturele en omgewingsake te bevorder.</para>
+    </section>
+  </content>
+</document>

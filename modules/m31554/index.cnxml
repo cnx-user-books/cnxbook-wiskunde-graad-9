@@ -1,0 +1,288 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Breuke - Gemengde Bewerkings</title>
+  <metadata>
+  <md:content-id>m31554</md:content-id><md:title>Breuke - Gemengde Bewerkings</md:title>
+  <md:abstract/>
+  <md:uuid>6cf43689-1e7e-4b4b-bc2d-85f9cae70a5c</md:uuid>
+</metadata>
+
+<content>
+    <section id="id15820370">
+      <title>WISKUNDE</title>
+      <para id="para-id15820370">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5605819">
+      <title>Gewone Breuke</title>
+      <para id="para-id5605819">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13398914">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id13398914">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id10003980">
+      <title>Memorandum</title>
+      <para id="id15820436">24.1 ( )</para>
+      <para id="id14806092"> or</para>
+      <para id="id15813471"> ÷</para>
+      <para id="id18117907"> x</para>
+      <para id="id15821624"> +</para>
+      <para id="id10123456">_</para>
+      <list id="id13106891" list-type="bulleted">
+        <item>(i) = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{7} }  over  { size 8{2} } } } {}</m:annotation></m:semantics></m:math> x 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mtext>30</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"30"} }  over  { size 8{7} } } } {}</m:annotation></m:semantics></m:math> - 10</item>
+      </list>
+      <para id="id8837265">= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mtext>210</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>14</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"210"} }  over  { size 8{"14"} } } } {}</m:annotation></m:semantics></m:math> - 10</para>
+      <para id="id2580132">= 15 – 10</para>
+      <para id="id15575326"><emphasis effect="italics">s</emphasis> = 5</para>
+      <list id="id7046587" list-type="enumerated" number-style="lower-roman" mark-prefix="(" mark-suffix=")">
+        <item>= 32 - 11
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{3} }  over  { size 8{4} } } } {}</m:annotation></m:semantics></m:math></item>
+      </list>
+      <para id="id7634606"><emphasis effect="italics">v</emphasis> = 20
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{4} } } } {}</m:annotation></m:semantics></m:math></para>
+      <list id="id15424374" list-type="enumerated" number-style="lower-roman" mark-prefix="(" mark-suffix=")">
+        <item>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mtext>23</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"23"} }  over  { size 8{4} } } } {}</m:annotation></m:semantics></m:math> x 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{4} }  over  { size 8{7} } } } {}</m:annotation></m:semantics></m:math></item>
+      </list>
+      <para id="id15812649">= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mtext>23</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"23"} }  over  { size 8{7} } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id13970426"><emphasis effect="italics"> p</emphasis>  = 3
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{2} }  over  { size 8{7} } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id18639369">26.  a) Metode: Kanselleer uit </para>
+      <para id="id15850966">  Antwoord: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{8} } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id19059496"> b) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>25</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{"25"} } } } {}</m:annotation></m:semantics></m:math></para>
+    </section>
+    <section id="id15263083">
+      <title>Leerders Afdeling</title>
+      <para id="para-id15263083">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id16121564">
+      <title>Inhoud</title>
+      <section id="id18908001">
+        <title>AKTIWITEIT: Gemengde bewerkings [LU 1.10]</title>
+        <para id="id15820699">24. GEMENGDE BEWERKINGS</para>
+        <para id="id16432925">24.1 Onthou jy nog?</para>
+        <list id="id14222865" list-type="bulleted">
+          <item>Skryf gou die volgorde van bewerkings hier neer:</item>
+        </list>
+        <para id="id19123390">_______________________________________________________________</para>
+        <para id="id15075421">_______________________________________________________________</para>
+        <para id="id15075425">_______________________________________________________________</para>
+        <para id="id18907676">_______________________________________________________________</para>
+        <para id="id3657633">24.2 Pas dit nou toe in die volgende:</para>
+        <para id="id14222796">(i) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>s</m:mi><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">×</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow><m:mi/><m:mtext>of</m:mtext><m:mi/><m:mtext>15</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{s=3 {  { size 8{1} }  over  { size 8{2} } }  times 4 {  { size 8{2} }  over  { size 8{7} } }  -  {  { size 8{2} }  over  { size 8{3} } } `"of"`"15"} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id15057375">_______________________________________________________________</para>
+        <para id="id15057378">_______________________________________________________________</para>
+        <para id="id8725236">_______________________________________________________________</para>
+        <para id="id15262366">_______________________________________________________________</para>
+        <para id="id9390487">(ii) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>v</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow><m:mi/><m:mtext>of</m:mtext><m:mi/><m:mrow><m:mtext>64</m:mtext><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mn>7</m:mn><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mfenced></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v= {  { size 8{1} }  over  { size 8{2} } } `"of"`"64" -  left (7 {  { size 8{1} }  over  { size 8{2} } } +4 {  { size 8{1} }  over  { size 8{4} } }  right )} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id10381407">_______________________________________________________________</para>
+        <para id="id6940751">_______________________________________________________________</para>
+        <para id="id19059580">_______________________________________________________________</para>
+        <para id="id15075604"> _______________________________________________________________</para>
+        <para id="id10384307">(iii) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>p</m:mi><m:mo stretchy="false">=</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">÷</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mn>3</m:mn><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mfenced></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{p=5 {  { size 8{3} }  over  { size 8{4} } }  div  left (3 {  { size 8{1} }  over  { size 8{8} } }  - 1 {  { size 8{3} }  over  { size 8{4} } }  right )} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id8592779">_______________________________________________________________</para>
+        <para id="id9930494">_______________________________________________________________</para>
+        <para id="id15264335">_______________________________________________________________</para>
+        <para id="id6014878"> _______________________________________________________________</para>
+        <para id="id6014883">25. Tyd vir selfassessering</para>
+        <figure id="id11734597">
+          <media id="id11734597_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-be7a.png" id="id11734597__onlineimage" height="236" width="600"/>
+          </media>
+        </figure>
+        <para id="id15813720">26. KOPKRAPPERS!</para>
+        <para id="id15821595">a) Wat sal die antwoord van die volgende wees? Probeer dit kry sonder ellelange bewerkings!</para>
+        <para id="id17607093">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>o</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mfenced open="(" close=")">
+                                    <m:mrow>
+                                      <m:mn>1</m:mn>
+                                      <m:mo stretchy="false">−</m:mo>
+                                      <m:mfrac>
+                                        <m:mstyle fontsize="8pt">
+                                          <m:mrow>
+                                            <m:mn>1</m:mn>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                        <m:mstyle fontsize="8pt">
+                                          <m:mrow>
+                                            <m:mn>2</m:mn>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:mfrac>
+                                    </m:mrow>
+                                  </m:mfenced>
+                                  <m:mo stretchy="false">×</m:mo>
+                                  <m:mfenced open="(" close=")">
+                                    <m:mrow>
+                                      <m:mn>1</m:mn>
+                                      <m:mo stretchy="false">−</m:mo>
+                                      <m:mfrac>
+                                        <m:mstyle fontsize="8pt">
+                                          <m:mrow>
+                                            <m:mn>1</m:mn>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                        <m:mstyle fontsize="8pt">
+                                          <m:mrow>
+                                            <m:mn>3</m:mn>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:mfrac>
+                                    </m:mrow>
+                                  </m:mfenced>
+                                </m:mrow>
+                                <m:mo stretchy="false">×</m:mo>
+                                <m:mfenced open="(" close=")">
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mfrac>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mn>1</m:mn>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mn>4</m:mn>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:mfrac>
+                                  </m:mrow>
+                                </m:mfenced>
+                              </m:mrow>
+                              <m:mo stretchy="false">×</m:mo>
+                              <m:mfenced open="(" close=")">
+                                <m:mrow>
+                                  <m:mn>1</m:mn>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mfrac>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mn>1</m:mn>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mn>5</m:mn>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:mfrac>
+                                </m:mrow>
+                              </m:mfenced>
+                            </m:mrow>
+                            <m:mo stretchy="false">×</m:mo>
+                            <m:mfenced open="(" close=")">
+                              <m:mrow>
+                                <m:mn>1</m:mn>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:mfrac>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>1</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>6</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mfrac>
+                              </m:mrow>
+                            </m:mfenced>
+                          </m:mrow>
+                          <m:mo stretchy="false">×</m:mo>
+                          <m:mfenced open="(" close=")">
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mfrac>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>7</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mfrac>
+                            </m:mrow>
+                          </m:mfenced>
+                        </m:mrow>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:mfenced open="(" close=")">
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mfrac>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>1</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>8</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mfrac>
+                          </m:mrow>
+                        </m:mfenced>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{o= left (1 -  {  { size 8{1} }  over  { size 8{2} } }  right ) times  left (1 -  {  { size 8{1} }  over  { size 8{3} } }  right ) times  left (1 -  {  { size 8{1} }  over  { size 8{4} } }  right ) times  left (1 -  {  { size 8{1} }  over  { size 8{5} } }  right ) times  left (1 -  {  { size 8{1} }  over  { size 8{6} } }  right ) times  left (1 -  {  { size 8{1} }  over  { size 8{7} } }  right ) times  left (1 -  {  { size 8{1} }  over  { size 8{8} } }  right )} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id11675955">_______________________________________________________________</para>
+        <para id="id10516559">_______________________________________________________________</para>
+        <para id="id17964531">b) As jy so sou aanhou met die patroon tot by . . . 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow/><m:mfenced open="(" close=")"><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>25</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ times  left (1 -  {  { size 8{1} }  over  { size 8{"25"} } }  right )} {}</m:annotation></m:semantics></m:math>, wat sal die antwoord dan wees?</para>
+        <para id="id11412231">_______________________________________________________________</para>
+        <para id="id15812551">_______________________________________________________________</para>
+      </section>
+    </section>
+    <section id="id17214908">
+      <title>Assessering</title>
+      <para id="id16090671">Leeruitkomste 1: Die leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</para>
+      <para id="id13248865">Assesseringstandaard 1.10: Dit is duidelik wanneer die leerder ‘n verskeidenheid strategieë gebruik om oplossings te kontroleer en die redelikheid daarvan te beoordeel.</para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,591 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Voorspellings, Vergelykings en Veranderlikes (Algebraïese vergelyking)</title>
+  <metadata>
+  <md:content-id>m21829</md:content-id><md:title>Voorspellings, Vergelykings en Veranderlikes (Algebraïese vergelyking)</md:title>
+  <md:abstract/>
+  <md:uuid>d8354e73-43d6-41cd-bd4b-502fe83e6068</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1171295525264">
+      <title>WISKUNDE</title>
+      <para id="para-id1171295525264">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171295525271">
+      <title>Voorspellings, Vergelykings en Veranderlikes</title>
+      <para id="para-id1171295525271">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171295525279">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id1171295525279">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171295529348">
+      <title>Memorandum</title>
+      <para id="id1171295529357">21.  (a)</para>
+      <table id="id1171295529364" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Dae</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>5</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>49</entry>
+            </row>
+            <row>
+              <entry>Kiste</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>150</entry>
+              <entry>200</entry>
+              <entry>___</entry>
+              <entry>600</entry>
+              <entry>1 750</entry>
+              <entry>___</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171295011496">22.</para>
+      <para id="id1171295500135"> (b)</para>
+      <table id="id1171295500144" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Skets</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+            </row>
+            <row>
+              <entry>Aantal vierkante </entry>
+              <entry>4</entry>
+              <entry>7</entry>
+              <entry>10</entry>
+              <entry>13</entry>
+              <entry>25</entry>
+              <entry>40</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171293519958"> (c) Vierkante   = 1 + (Skets No. x 3)</para>
+      <para id="id1171293515509"> (d) (i) 1 + (25 x 3) = 76</para>
+      <list id="id1171293515528" list-type="enumerated" number-style="lower-roman" mark-prefix="(" mark-suffix=")">
+        <item>1 + (37 x 3) = 112</item>
+        <item>1 + (101 x 3) = 304</item>
+      </list>
+      <para id="id1171295172095">(e) (i) 43</para>
+      <list id="id1171295172104" list-type="enumerated" number-style="lower-roman" mark-prefix="(" mark-suffix=")">
+        <item>55</item>
+        <item>80</item>
+      </list>
+      <para id="id1171295642910">23. (a) <emphasis effect="italics">u</emphasis> = <emphasis effect="italics"><m:math><m:semantics><m:mrow/><m:annotation encoding="StarMath 5.0">{}</m:annotation></m:semantics></m:math></emphasis><emphasis effect="italics"> i</emphasis> ÷ 4</para>
+      <para id="id1171295501882"> (b) <emphasis effect="italics">u</emphasis> = (<emphasis effect="italics">i </emphasis>x 2) + 1</para>
+      <para id="id1171293514269">24. (a) Invoer</para>
+      <para id="id1171293514295"> geld</para>
+      <para id="id1171293506819">
+        <table id="id1171293506841" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>24. (a) <emphasis effect="bold">Invoer</emphasis><emphasis effect="bold">geld</emphasis></entry>
+                <entry>R1</entry>
+                <entry>R5</entry>
+                <entry>R30</entry>
+                <entry>R50</entry>
+                <entry>R100</entry>
+              </row>
+              <row>
+                <entry>Uitvoer : blombolle </entry>
+                <entry>3</entry>
+                <entry>15</entry>
+                <entry>90</entry>
+                <entry>150</entry>
+                <entry>300</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </para>
+      <para id="id1171294883359"> (b)</para>
+      <para id="id1171294883365">
+        <table id="id1171294883386" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>InvoerNagte</entry>
+                <entry>1</entry>
+                <entry>7</entry>
+                <entry>10</entry>
+                <entry>15</entry>
+                <entry>31</entry>
+              </row>
+              <row>
+                <entry>UitvoerKoste</entry>
+                <entry>R280</entry>
+                <entry>R1 960</entry>
+                <entry>R2 800</entry>
+                <entry>R4 200</entry>
+                <entry>R8 680</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </para>
+      <para id="id1171293519858"> (c)</para>
+      <para id="id1171295563317">
+        <table id="id1171295563339" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>InvoerKg</entry>
+                <entry>1</entry>
+                <entry>2½</entry>
+                <entry>4</entry>
+                <entry>5¼</entry>
+                <entry>19</entry>
+              </row>
+              <row>
+                <entry>UitvoerBedrag</entry>
+                <entry>R6,20</entry>
+                <entry>R17</entry>
+                <entry>R27,70</entry>
+                <entry>R35,70</entry>
+                <entry>R129,78</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </para>
+    </section>
+    <section id="id1171295558951">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id1171295558951">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171295093869">
+      <title>Inhoud</title>
+      <para id="para-id1171295093869">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171295093876">
+      <title>AKTIWITEIT: Voorspellings, Vergelykings en Veranderlikes (Algebraïese vergelyking) [LO 2.1, LO 2.3.3, LO 2.2, LO 2.4]</title>
+      <para id="id1171295093887">21. Kom ons kyk of ons, deur na patrone te kyk, reëls kan formuleer om vergelykings op te los.</para>
+      <para id="id1171295093895">Die Kaapse mark koop elke dag 50 kiste druiwe van ’n boer.</para>
+      <para id="id1171295093900">a) Voltooi die volgende tabel:</para>
+      <table id="id1171295742546" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Dae </entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry/>
+              <entry>12</entry>
+              <entry>35</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Kiste</entry>
+              <entry>50</entry>
+              <entry>100</entry>
+              <entry/>
+              <entry/>
+              <entry>250</entry>
+              <entry/>
+              <entry/>
+              <entry>2 450</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171293517109">b) Ons kan kontroleer of jy reg is deur ’n algebraiëse vergelyking vir bogenoemde neer te skryf:</para>
+      <para id="id1171295550991">b (kiste) = d (dae) x 50</para>
+      <para id="id1171295551005">Dus: c = 3 x 50</para>
+      <para id="id1171295551018">= 150 (3de dag)</para>
+      <para id="id1171295551026">c = d x 50</para>
+      <para id="id1171295524063">250 = d x 50</para>
+      <para id="id1171295524076">250 ÷ 50 = d</para>
+      <para id="id1171293505838">5 = d</para>
+      <para id="id1171293505847">Op dag 5 het die mark al 250 kiste druiwe gekoop.</para>
+      <para id="id1171293505851">c) Werk saam met ’n maat en kontroleer die res van jou werk op dieselfde manier.</para>
+      <para id="id1171293505860">
+        <emphasis effect="bold">22. </emphasis>
+        <emphasis effect="bold">Kyk goed na die volgende drie sketse:</emphasis>
+      </para>
+      <figure id="id1171295504079">
+        <media id="id1171295504079_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-8794.png" id="id1171295504079__onlineimage" height="148" width="600"/>
+        </media>
+      </figure>
+      <para id="id1171295504106">a) Kan jy die patroon wat hier gevorm word, aan ’n maat verduidelik?</para>
+      <para id="id1171295504114">b) Voltooi die tabel:</para>
+      <table id="id1171295736985" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Skets</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>8</entry>
+              <entry>13</entry>
+            </row>
+            <row>
+              <entry>Getal vierkante</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171293510200">c) Kan jy ’n vergelyking neerskryf waarvolgens jy die oplossings kan bepaal?</para>
+      <para id="id1171293510209">_____________________________________________________________________</para>
+      <para id="id1171293510213">d) Gebruik jou vergelyking en bepaal die getal vierkante in</para>
+      <para id="id1171293510220">(i) skets 25: ___________________________________________________</para>
+      <para id="id1171293510229">(ii) skets 37: ___________________________________________________</para>
+      <para id="id1171293520578">(iii) skets 101: ___________________________________________________</para>
+      <para id="id1171293520587">e) Watter sketsnommer sal die volgende getal blokkies bevat?</para>
+      <para id="id1171293520594">(i) 130: _________________________________________________________</para>
+      <para id="id1171293520603">(ii) 166: _________________________________________________________</para>
+      <para id="id1171293520612">(iii) 241: _________________________________________________________</para>
+      <para id="id1171295522855">23. Kan jy ’n reël (algebraïese vergelyking) skryf vir die verhouding tussen die in- en uitvoergetalle in die volgende tabelle?</para>
+      <para id="id1171295522864">a) </para>
+      <table id="id1171295522869" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Invoer (i)</entry>
+              <entry>16</entry>
+              <entry>28</entry>
+              <entry>48</entry>
+              <entry>60</entry>
+            </row>
+            <row>
+              <entry>Uitvoer (u)</entry>
+              <entry>4</entry>
+              <entry>7</entry>
+              <entry>12</entry>
+              <entry>15</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171295398529"/>
+      <para id="id1171295398534">b) </para>
+      <table id="id1171295398539" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Invoer (i)</entry>
+              <entry>105</entry>
+              <entry>115</entry>
+              <entry>125</entry>
+              <entry>135</entry>
+            </row>
+            <row>
+              <entry>Uitvoer (u)</entry>
+              <entry>211</entry>
+              <entry>231</entry>
+              <entry>251</entry>
+              <entry>271</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171295290028"/>
+      <para id="id1171294912495">
+        <emphasis effect="bold">24. </emphasis>
+        <emphasis effect="bold">Stel tabelle op vir die volgende. (Jy mag jou sakrekenaar gebruik).</emphasis>
+      </para>
+      <para id="id1171294912510">a) Blompot Kwekery verkoop blombolle teen 3 vir ’n rand. Toon in jou tabel hoeveel blombolle jy kan koop vir R1,00 ; R5,00 ; R30,00 ; R50,00 en R100,00.</para>
+      <para id="id1171294912534"/>
+      <para id="id1171295683096">b) Lekker Rus Vakansieoord se tarief is R280,00 per persoon per nag. Toon in jou tabel die koste vir een persoon vir die volgende aantal nagte: 1 ; 7 ; 10 ; 15 ; 31.</para>
+      <para id="id1171295683125">c) Jy kan druiwe vir R6,80 ’n kilogram koop by Soois se Supermark. Toon in jou tabel hoeveel jy sal betaal vir: 1 kg ; 2 en ’n halwe kg ; 4 kg ; 5 en ’n kwart kg ; 19 kg druiwe.</para>
+      <para id="id1171295036013">25. Tyd vir self-assessering</para>
+      <list id="id1171295036020" list-type="bulleted">
+        <item>Maak ’n kruisie op ’n skaal van 1 tot 5 vir elk van die volgende:</item>
+      </list>
+      <table id="id1171295036030" summary="">
+        <tgroup cols="11">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c4">Sukkel</entry>
+              <entry namest="c5" nameend="c7">So-so</entry>
+              <entry namest="c8" nameend="c11">In staat</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry>1</entry>
+              <entry namest="c4" nameend="c5">2</entry>
+              <entry>3</entry>
+              <entry namest="c7" nameend="c8">4</entry>
+              <entry>5</entry>
+              <entry namest="c10" nameend="c11"/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">Ek kan uitvoergetalle van ’n vloeidiagram korrek bepaal</entry>
+              <entry/>
+              <entry namest="c4" nameend="c5"/>
+              <entry/>
+              <entry namest="c7" nameend="c8"/>
+              <entry namest="c9" nameend="c10"/>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">Ek kan vasstel wat die invoergetalle van ’n vloeidiagram is</entry>
+              <entry/>
+              <entry namest="c4" nameend="c5"/>
+              <entry/>
+              <entry namest="c7" nameend="c8"/>
+              <entry namest="c9" nameend="c10"/>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">Ek verstaan die vervanging van getalle met letters van die alfabet</entry>
+              <entry/>
+              <entry namest="c4" nameend="c5"/>
+              <entry/>
+              <entry namest="c7" nameend="c8"/>
+              <entry namest="c9" nameend="c10"/>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">Ek weet wat “veranderlikes” beteken</entry>
+              <entry/>
+              <entry namest="c4" nameend="c5"/>
+              <entry/>
+              <entry namest="c7" nameend="c8"/>
+              <entry namest="c9" nameend="c10"/>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">Ek verstaan die vervanging van letters van die alfabet met getalle</entry>
+              <entry/>
+              <entry namest="c4" nameend="c5"/>
+              <entry/>
+              <entry namest="c7" nameend="c8"/>
+              <entry namest="c9" nameend="c10"/>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">Ek kan algebraiëse vergelykings skryf vir gegewe getallesinne</entry>
+              <entry/>
+              <entry namest="c4" nameend="c5"/>
+              <entry/>
+              <entry namest="c7" nameend="c8"/>
+              <entry namest="c9" nameend="c10"/>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">Ek kan algebraiëse vergelykings oplos</entry>
+              <entry/>
+              <entry namest="c4" nameend="c5"/>
+              <entry/>
+              <entry namest="c7" nameend="c8"/>
+              <entry namest="c9" nameend="c10"/>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">Ek kan getallesinne skryf deur van ongelykhede gebruik te maak</entry>
+              <entry/>
+              <entry namest="c4" nameend="c5"/>
+              <entry/>
+              <entry namest="c7" nameend="c8"/>
+              <entry namest="c9" nameend="c10"/>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">Ek kan, deur na patrone te kyk, reëls formuleer om vergelykings op te los en ’n vergelyking daarvoor neerskryf</entry>
+              <entry/>
+              <entry namest="c4" nameend="c5"/>
+              <entry/>
+              <entry namest="c7" nameend="c8"/>
+              <entry namest="c9" nameend="c10"/>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">Ek kan tabelle opstel na aanleiding van gegewe inligting</entry>
+              <entry/>
+              <entry namest="c4" nameend="c5"/>
+              <entry/>
+              <entry namest="c7" nameend="c8"/>
+              <entry namest="c9" nameend="c10"/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1171293506363">
+      <title>MODULETOETS</title>
+      <para id="id1171293506370">Kom ons kyk of jy nou al die voorafgaande kennis kan toepas.</para>
+      <para id="id1171293506375">1. <emphasis effect="bold">Skryf slegs die antwoorde neer:</emphasis></para>
+      <para id="id1171295295878">a) 4³ = __________ b) 9³ = __________ (2)</para>
+      <para id="id1171295295890">2. Waar of vals? </para>
+      <para id="id1171295295897">a) 125 is ’n kubusgetal ________________</para>
+      <para id="id1171295295907">b) 125 is ’n vierkantgetal ________________</para>
+      <para id="id1171295484672">c) v – w = w – v ________________</para>
+      <para id="id1171295484680">d) (g + h) x j = (g x j) + (h x j) ________________ (4)</para>
+      <para id="id1171295484694">3. As m = 16 ; n = 9 en p = 18, bereken:</para>
+      <para id="id1171295484710">a) (m x n) + p ___________________________________</para>
+      <para id="id1171295556855">b) p ¸ n x m2 ___________________________________ (2)</para>
+      <para id="id1171295556866">4. <emphasis effect="bold">Skryf ’n</emphasis> algebraiëse vergelyking vir die volgende:</para>
+      <para id="id1171295556878">a) As ek 347 van ’n sekere getal aftrek, is die antwoord 1 706.</para>
+      <para id="id1171295556886">______________________________________________ (1)</para>
+      <para id="id1171295556892">b) Die produk van ’n sekere getal en 598 is gelyk aan die verskil tussen 80 000 en 6 446.</para>
+      <para id="id1171295564865">______________________________________________ (2)</para>
+      <para id="id1171295564872">5. Skryf getallesinne deur van ongelykhede gebruik te maak:</para>
+      <para id="id1171295564878">a) Een kwart van die rooi skoene is minder as die helfte van die groenes.</para>
+      <para id="id1171295564885">______________________________________________ (1)</para>
+      <para id="id1171295564891">b) Daar is meer as 100 000 mense wat elke dag die koerant lees.</para>
+      <para id="id1171295564898">______________________________________________ (1)</para>
+      <para id="id1171295454771">6.1   Skryf ’n vergelyking neer vir die volgende vloeidiagram:</para>
+      <table id="id1171295454784" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Invoer</entry>
+              <entry>5</entry>
+              <entry>10</entry>
+              <entry>15</entry>
+              <entry>20</entry>
+              <entry>25</entry>
+              <entry>30</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Uitvoer</entry>
+              <entry>28</entry>
+              <entry>53</entry>
+              <entry>78</entry>
+              <entry>103</entry>
+              <entry>128</entry>
+              <entry/>
+              <entry>228</entry>
+              <entry>328</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171295430621">______________________________________________ (1)</para>
+      <para id="id1171294934278">6.2  Gebruik die vergelyking en voltooi die tabel. (3)</para>
+      <para id="id1171294934291">7. Stel ’n tabel op vir die volgende:</para>
+      <para id="id1171294934298">By die Vrolike Vrugte Padstal kan jy 1 kg appels koop vir R6,99. Toon in jou tabel die koste van 2 en ’n halwe kg ; 8 kg ; 13 kg</para>
+      <para id="id1171294934315">20</para>
+    </section>
+    <section id="id1171295425113">
+      <title>Assessering</title>
+      <para id="id1171295425123"><emphasis><emphasis effect="italics">Leeruitkomste 2:</emphasis></emphasis>Die leerder is in staat om patrone en verwantskappe te herken, te beskryf en voor te stel en probleme op te los deur algebraïese taal en vaardighede te gebruik.</para>
+      <para id="id1171295425150"><emphasis><emphasis effect="italics">Assesseringstandaard 2.2:</emphasis></emphasis> Dit is duidelik wanneer die leerder verwantskappe of reëls wat waargeneem is, in eie woorde beskryf, verduidelik en bewys;</para>
+      <para id="id1171294819408"><emphasis><emphasis effect="italics">Assesseringstandaard 2.3:</emphasis></emphasis> Dit is duidelik wanneer die leerder ‘voorstellings maak van en verwantskappe tussen veranderlikes gebruik sodat inset- en/of uitsetwaardes op ‘n verskeidenheid maniere bepaal kan word deur die gebruik van:</para>
+      <para id="id1171294819426"><emphasis effect="bold">2.3.3: </emphasis>tabelle;</para>
+      <para id="id1171294819436"><emphasis><emphasis effect="italics">Assesseringstandaard 2.4:</emphasis></emphasis> Dit is duidelik wanneer die leerder wiskundige modelle saamstel wat oplossings vir probleemsituasies voorstel, beskryf en voorsien, en verantwoordelikheid toon teenoor die omgewing en die gesondheid van ander (insluitend probleme binne menseregte-, sosiale, ekonomiese, kulturele en omgewingskontekste);</para>
+    </section>
+  </content>
+</document>

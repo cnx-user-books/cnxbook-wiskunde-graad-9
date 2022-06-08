@@ -1,0 +1,141 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Getallepatrone (Module Toets)</title>
+  <metadata>
+  <md:content-id>m22047</md:content-id><md:title>Getallepatrone (Module Toets)</md:title>
+  <md:abstract/>
+  <md:uuid>a795c6ec-7dcb-4eb2-97bc-40fb5511d1ce</md:uuid>
+</metadata>
+
+<content>
+    <section id="id7466293">
+      <title>WISKUNDE</title>
+      <para id="para-id7466293">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7466307">
+      <title>Getalpatrone</title>
+      <para id="para-id7466307">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7466315">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id7466315">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7466329">
+      <title>Memorandum</title>
+      <para id="id7466339">TOETS 1</para>
+      <para id="id7466344">1.</para>
+      <para id="id7466348">a) 0; -50</para>
+      <para id="id7466357">b) 1 en ‘n kwart; 1 en ‘n half</para>
+      <para id="id7466367">c) 22’ 30</para>
+      <para id="id7466376">d) 38; 26</para>
+      <para id="id7466385">2.</para>
+      <para id="id7466389">a) number row</para>
+      <para id="id7466396">b) kwadraatgetalle</para>
+      <para id="id7466403">c) sequence</para>
+      <para id="id7466410">d) terms</para>
+      <para id="id7466416">3.</para>
+      <para id="id7466421">a) horizontal</para>
+      <para id="id7466428">b) vertical</para>
+      <para id="id7466434">4.</para>
+      <para id="id7466439">a) 13; 21</para>
+      <para id="id7466447">b) Fibonacci</para>
+      <para id="id7466454">5.</para>
+      <para id="id7466459">a) 2 926</para>
+      <para id="id7466465">b) 8</para>
+      <para id="id7466471">6. 10; 15</para>
+      <para id="id7466482">7. 7; 17; 23</para>
+    </section>
+    <section id="id7466494">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id7466494">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7466509">
+      <title>Inhoud</title>
+      <section id="id7466516">
+        <title>AKTIWITEIT: Getallepatrone (Module Toets) [LU 2.1, LU 2.3, LU 2.4] </title>
+        <section id="id7466536">
+          <title>8. Probleem</title>
+          <para id="id7466545">Werk saam met ’n maat. Vind die oplossing vir die volgende probleem deur van ’n getallepatroon gebruik te maak.</para>
+          <para id="id7466553">’n Boer het besluit om met een paar konyne te begin boer in Januarie. Elke paar konyne skenk vanaf twee maande na geboorte maandeliks geboorte aan ’n nuwe paar konyne. </para>
+          <para id="id7466567">Hoeveel pare konyne sal die boer aan die einde van Desember daardie jaar hê?</para>
+          <para id="id7466573">(Wenk: teken ’n diagram).</para>
+          <para id="id7466583"><table id="id7466605" summary=""><tgroup cols="1"><colspec colnum="1" colname="c1"/><tbody><row><entry/></row><row><entry>25</entry></row></tbody></tgroup></table>MODULE TOETS 1</para>
+          <para id="id7466640">
+            <emphasis effect="bold">1. </emphasis>
+            <emphasis effect="bold">Voltooi die volgende getallepatrone:</emphasis>
+          </para>
+          <para id="id7466652">a) 150 ; 100 ; 50 ; _______________________ ; _________________ </para>
+          <para id="id7466702">b) ’n half ; driekwart ; een ; ________________ ; _________________ </para>
+          <para id="id7466756">c) 4 ; 9 ; 15 ; ________________ ; _________________ </para>
+          <para id="id7466806">d) 80 ; 65 ; 51 ; ________________ ; _________________ (8)</para>
+          <para id="id7466860">
+            <emphasis effect="bold">2. </emphasis>
+            <emphasis effect="bold">Vul die ontbrekende woorde in:</emphasis>
+          </para>
+          <para id="id7466873">a) ’n Stel getalle wat verkry word deur die navolging van ’n sekere reël, noem ons ’n ________________________________________________________</para>
+          <para id="id7466880">b) Vierkantgetalle word ook _______________________________ genoem.</para>
+          <para id="id7466897">c) Getallepatrone word ook _______________________________ genoem.</para>
+          <para id="id7466913">d) Die getalle in ’n getalry word ook ___________________ genoem. (4)</para>
+          <para id="id7466935">
+            <emphasis effect="bold">3. </emphasis>
+            <emphasis effect="bold">Onderstreep die korrekte woord tussen hakies:</emphasis>
+          </para>
+          <para id="id7466948">a) ’n <emphasis effect="bold">ry</emphasis> is (horisontaal ; vertikaal ; skuins)</para>
+          <para id="id7466978">b) ’n <emphasis effect="bold">kolom</emphasis> is (horisontaal ; vertikaal ; skuins) (1)</para>
+          <para id="id7467017"><emphasis effect="bold">4. </emphasis>a) Voltooi die volgende patroon:</para>
+          <para id="id7467032">8 ; _______________ ; ______________ ; 34 ; 55 ; 89 (2)</para>
+          <para id="id7467087">b) Hierdie getalry staan bekend as die _______________________-getalry..  (1)</para>
+          <para id="id7467111"><emphasis effect="bold">5. </emphasis>Gebruik Gauss se metode en bepaal die som van die natuurlike getalle van 1 tot 76.</para>
+          <para id="id7467127">_____________________________________________________________</para>
+          <para id="id7467131">_____________________________________________________________</para>
+          <para id="id7467135">___________________________________________________________(3)</para>
+          <para id="id7467140"><emphasis effect="bold">6. </emphasis>Wat is die som van die getalle in die vierde ry van Pascal se driehoek?</para>
+          <para id="id7467149">______________________________________________________(1)</para>
+          <para id="id7467153"><emphasis effect="bold">7.</emphasis> Voltooi die volgende driehoekgetallepatroon:</para>
+          <para id="id7467169">1; 3; 6; ________________________ ; _______________________ (2)</para>
+          <para id="id7467212">8. Voltooi die volgende tabel:</para>
+          <table id="id7467220" summary="">
+            <tgroup cols="5">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <tbody>
+                <row>
+                  <entry>n</entry>
+                  <entry>1</entry>
+                  <entry>2</entry>
+                  <entry>7</entry>
+                  <entry>10</entry>
+                </row>
+                <row>
+                  <entry>2<emphasis effect="italics">n</emphasis> + 3</entry>
+                  <entry>5</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id7467341">(3)</para>
+        </section>
+      </section>
+    </section>
+    <section id="id7467349">
+      <title>Assessering</title>
+      <para id="id7467362"><emphasis><emphasis effect="italics">Leeruitkomste 2:</emphasis></emphasis>Die leerder is in staat om patrone en verwantskappe te herken, te beskryf en voor te stel en probleme op te los deur algebraïese taal en vaardighede te gebruik.</para>
+      <para id="id7467389"><emphasis><emphasis effect="italics">Assesseringstandaard 2.1:</emphasis></emphasis> Dit is duidelik wanneer die leerder numeriese en meetkundige patrone ondersoek en uitbrei op soek na ‘n verwantskap of reëls, insluitend patrone.</para>
+      <para id="id7467406"><emphasis><emphasis effect="italics">Assesseringstandaard 2.3:</emphasis></emphasis> Dit is duidelik wanneer die leerder voorstellings maak van en verwantskappe tussen veranderlikes gebruik sodat inset- en/of uitsetwaardes op ‘n verskeidenheid maniere bepaal kan word.</para>
+      <para id="id7467423"><emphasis><emphasis effect="italics">Assesseringstandaard 2.4:</emphasis></emphasis> Dit is duidelik wanneer die leerder wiskundige modelle saamstel wat oplossings vir probleemsituasies voorstel, beskryf en voorsien, en verantwoordelikheid toon teenoor die omgewing en die gesondheid van ander (insluitend probleme binne menseregte-, sosiale, ekonomiese, kulturele en omgewingskontekste).</para>
+    </section>
+  </content>
+</document>
