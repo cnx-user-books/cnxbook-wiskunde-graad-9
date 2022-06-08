@@ -1,0 +1,273 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Desimale breuke en afronding</title>
+  <metadata>
+  <md:content-id>m31239</md:content-id><md:title>Desimale breuke en afronding</md:title>
+  <md:abstract/>
+  <md:uuid>b20dad0e-a4a0-407c-aeaa-471afb46449a</md:uuid>
+</metadata>
+
+<content>
+    <section id="id7633492">
+      <title>WISKUNDE</title>
+      <para id="para-id7633492">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2216428">
+      <title>Desimale Breuke</title>
+      <para id="para-id2216428">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2221493">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id2221493">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7651573">
+      <title>Memorandum</title>
+      <para id="id2758837">11.1 a) 41c</para>
+      <para id="id2749778">b) 42 </para>
+      <para id="id2692814">c) 44c</para>
+      <para id="id2694467">11.2 Rond af</para>
+      <para id="id2688802">11.3.1 a) Kyk na die 2de syfer ná komma (100stes) </para>
+      <para id="id7399687">Indien 5,6,7,8,9: 10des - syfer 1 meer</para>
+      <para id="id2885780">Indien 4,3,2,1,0: 10des - syfer dieselfde</para>
+      <para id="id2610546">Vervang alles ná 10des met nulle.</para>
+      <para id="id2452292"/>
+      <para id="id2721973">b) Kyk na 3de syfer ná komma</para>
+      <para id="id2486760">Indien 5,6,7,8,9: Honderdstes word 1 meer</para>
+      <para id="id2671191">Indien 4,3,2,1,0: Honderdstes bly dieselfde</para>
+      <para id="id2644251">Vervang alles ná 100stes met nulle.</para>
+      <para id="id6755476"/>
+      <para id="id7398901">c) Kyk na 4de syfer ná komma</para>
+      <para id="id2442169">Indien 5,6,7,8,9: Duisendstes word 1 meer</para>
+      <para id="id2909251">Indien 4,3,2,1,0: Duisendstes bly dieselfde</para>
+      <para id="id2872674">Vervang alles ná 1 000stes met nulle</para>
+      <para id="id2574417">11.4 a) 4,5</para>
+      <para id="id2698987">  9,9</para>
+      <para id="id2712781">  5,3</para>
+      <para id="id2654449">  7,6</para>
+      <para id="id2302986">  52,6</para>
+      <para id="id7240940">  88</para>
+      <para id="id2886152">11.4 b)</para>
+      <para id="id2403272"/>
+      <para id="id1897288"/>
+      <para id="id2529580">6,41 8,60 7,26 9,49 5,03 6,29</para>
+      <para id="id2860817">11.4 c) (i)     (ii) </para>
+      <para id="id7486124">  (iii)     (iv) </para>
+      <para id="id6903818">(v) (vi)</para>
+      <para id="id2310701">12.2 a) 11</para>
+      <para id="id7612604">b) R406</para>
+      <para id="id7056819">c) 6</para>
+      <para id="id7459860">d) 5</para>
+      <para id="id7025302">e) R327</para>
+      <para id="id2742145">f) 8</para>
+      <para id="id6903675">g) 9</para>
+      <para id="id2475966">h) 14</para>
+      <para id="id2641530">i) 448</para>
+      <para id="id2184567">j) 1 390</para>
+    </section>
+    <section id="id2622074">
+      <title>Leerders Afdeling</title>
+      <para id="para-id2622074">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2609190">
+      <title>Inhoud</title>
+      <section id="id2912758">
+        <title>AKTIWITEIT: Desimale breuke en afronding [LU 1.4.2, LU 1.7.1]</title>
+        <para id="id6925258">11.1 DESIMALE BREUKE EN AFRONDING</para>
+        <para id="id7471259">Werk saam met ’n maat. Kyk na die sketse. Wat kos een aartappel in elke geval?</para>
+        <figure id="id6854466">
+          <media id="id6854466_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-a891.png" id="id6854466__onlineimage" height="369" width="589"/>
+          </media>
+        </figure>
+        <para id="id2338256">11.2 Rond die volgende af tot die naaste heelgetal. Skryf die ooreenstemmende letter neer en kyk watter woord kruip hier weg!</para>
+        <table id="id2559893" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>A</entry>
+                <entry>B</entry>
+                <entry>D</entry>
+                <entry>E</entry>
+                <entry>F</entry>
+                <entry>G</entry>
+                <entry>I</entry>
+              </row>
+              <row>
+                <entry>8</entry>
+                <entry>39</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>16</entry>
+                <entry>236</entry>
+                <entry>9</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id2833549" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>K</entry>
+                <entry>L</entry>
+                <entry>M</entry>
+                <entry>N</entry>
+                <entry>0</entry>
+                <entry>R</entry>
+                <entry>S</entry>
+              </row>
+              <row>
+                <entry>17</entry>
+                <entry>237</entry>
+                <entry>15</entry>
+                <entry>38</entry>
+                <entry>35</entry>
+                <entry>4</entry>
+                <entry>150</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id2823764" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>T</entry>
+                <entry>N</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>149</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id7476976">a) 8,047</para>
+        <para id="id7341013">b) 15,51</para>
+        <para id="id2313848">c) 3,7</para>
+        <para id="id2601020">d) 35,236</para>
+        <para id="id2671136">e) 149,089</para>
+        <para id="id7705973">f) 6,4</para>
+        <para id="id6956000">g) 35,09</para>
+        <para id="id2469629">h) 38,456</para>
+        <para id="id2732422">i) 15,912</para>
+        <para id="id6866514">j) 236,199</para>
+        <para id="id2125040">k) 235,89</para>
+        <para id="id2494855">Skryf jou antwoord hier neer: ...........................................................................</para>
+        <para id="id2217531">11.3.1 Werk in groepe van drie. Formuleer reëls / metodes vir die volgende:a) Afronding tot een syfer na die desimale teken:</para>
+        <para id="id2475471">…………………………………………………………………………………………..</para>
+        <para id="id2938263">…………………………………………………………………………………………..</para>
+        <para id="id2227560">…………………………………………………………………………………………..</para>
+        <para id="id2882530">…………………………………………………………………………………………..</para>
+        <para id="id7434316">b) Afronding tot twee syfers na die desimale teken:</para>
+        <para id="id2442538">…………………………………………………………………………………………..</para>
+        <para id="id2852300">…………………………………………………………………………………………..</para>
+        <para id="id2204064">…………………………………………………………………………………………..</para>
+        <para id="id2831970">…………………………………………………………………………………………..</para>
+        <para id="id2638961">c) Afronding tot drie syfers na die desimale teken:</para>
+        <para id="id2613775">…………………………………………………………………………………………..</para>
+        <para id="id7629597">…………………………………………………………………………………………..</para>
+        <para id="id1910603">…………………………………………………………………………………………..</para>
+        <para id="id6869230">…………………………………………………………………………………………..  </para>
+        <para id="id2180374">11.3.2 Vergelyk julle antwoorde met die res van die klas s’n.</para>
+        <para id="id6869194">11.4 a) Voltooi die volgende vloeidiagram:</para>
+        <figure id="id2378770">
+          <media id="id2378770_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-60f0.png" id="id2378770__onlineimage" height="234" width="409"/>
+          </media>
+        </figure>
+        <para id="id7663631">b) Kyk of jy die tabel korrek kan voltooi:</para>
+        <table id="id6987949" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>Getal</entry>
+                <entry>4,368</entry>
+                <entry>6,411</entry>
+                <entry>8,599</entry>
+                <entry>7,255</entry>
+                <entry>9,493</entry>
+                <entry>5,034</entry>
+                <entry>6,286</entry>
+              </row>
+              <row>
+                <entry>Afgerond tot twee desimale syfers</entry>
+                <entry>4,37</entry>
+                <entry>.............</entry>
+                <entry>.............</entry>
+                <entry>.............</entry>
+                <entry>.............</entry>
+                <entry>.............</entry>
+                <entry>.............</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id2755827">c) Rond af tot drie syfers na die desimale teken. Trek ’n sirkel om die korrekte antwoord:</para>
+        <figure id="id2935874">
+          <media id="id2935874_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-ee0a.png" id="id2935874__onlineimage" height="353" width="515"/>
+          </media>
+        </figure>
+        <para id="id2774974">12.1 Onthou jy nog?</para>
+        <para id="id2412602"> 1 000 ml  = 1 liter</para>
+        <para id="id7735560"> 1 000 g = 1 kg</para>
+        <para id="id7664379"> 1 000 kg = 1 tonne </para>
+        <para id="id2714136"> 1 000 liters = 1 k </para>
+        <para id="id2577558"> 1 000 m = 1 km</para>
+        <para id="id2128642"> 100 c = R1,00</para>
+        <para id="id7610817">12.2 Vul die ontbrekende antwoorde in:</para>
+        <para id="id2824748">bv. 3 521 mm tot die naaste m = 4 m</para>
+        <para id="id7371796">a) 11 296 mm tot die naaste m = ......................... m</para>
+        <para id="id2918986">b) R406,38 tot die naaste rand = R.........................</para>
+        <para id="id2519441">c) 6 455 liter tot die naaste k = ......................... k </para>
+        <para id="id2884804">d) 4 823 kg tot die naaste ton = ......................... t</para>
+        <para id="id7277317">e) 32 687 c tot die naaste rand = R.........................</para>
+        <para id="id2796828">f) 8 388 g tot die naaste kg = ......................... kg</para>
+        <para id="id2335088">g) 8 630 m tot die naaste liter = ......................... liter</para>
+        <para id="id2796544">h) 14 277 m tot die naaste km = ......................... km</para>
+        <para id="id2865957">i) R4,4839 tot die naaste sent = ......................... c</para>
+        <para id="id6740540">j) R13,9021 tot die naaste sent = ......................... c</para>
+      </section>
+    </section>
+    <section id="id7461952">
+      <title>Assessering</title>
+      <para id="id2385166"><emphasis><emphasis effect="italics">Leeruitkomste 1:</emphasis></emphasis>Die leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</para>
+      <para id="id2096549"><emphasis><emphasis effect="italics">Assesseringstandaard 1.4:</emphasis></emphasis> Dit is duidelik wanneer die leerder herken en gebruik ekwivalente vorms van die bogenoemde rasionale getalle, insluitend:</para>
+      <para id="id2870847">1.4.2 desimale breuke;</para>
+      <para id="id7729114"><emphasis><emphasis effect="italics">Assesseringstandaard 1.7:</emphasis></emphasis> Dit is duidelik wanneer die leerder skat en bereken deur geskikte bewerkings vir probleme wat die volgende behels, te kies en te gebruik:</para>
+      <para id="id2757588">afronding van getalle tot minstens een desimale .</para>
+    </section>
+  </content>
+</document>

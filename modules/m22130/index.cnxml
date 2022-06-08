@@ -1,0 +1,119 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>MODULE TOETS</title>
+  <metadata>
+  <md:content-id>m22130</md:content-id><md:title>MODULE TOETS</md:title>
+  <md:abstract/>
+  <md:uuid>f62e591f-c539-449c-8757-deab09c8748b</md:uuid>
+</metadata>
+
+<content>
+    <section id="id8659164">
+      <title>MODULE TOETS </title>
+      <para id="id8981937">1. <emphasis effect="bold">Verbind die korrekte antwoord in kolom B met die definisie in kolom A:</emphasis></para>
+      <table id="id6235580" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>A</entry>
+              <entry/>
+              <entry>B</entry>
+            </row>
+            <row>
+              <entry>Die kortste moontlike lyn</entry>
+              <entry/>
+              <entry>halflyn / straal</entry>
+            </row>
+            <row>
+              <entry>Het geen begin-of eindpunte nie</entry>
+              <entry/>
+              <entry>vlak</entry>
+            </row>
+            <row>
+              <entry>Het ’n beginpunt, maar gaan onbe­perk voort</entry>
+              <entry/>
+              <entry>punt</entry>
+            </row>
+            <row>
+              <entry>Het lengte en breedte maar nie hoogte nie</entry>
+              <entry/>
+              <entry>reguit lyn</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8986731">(4)</para>
+      <para id="id7962715">2. <emphasis effect="bold">Watter soort hoeke is die volgende?</emphasis></para>
+      <para id="id1168513151134">a) </para>
+      <figure id="id7110749">
+        <media id="id7110749_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-0608.png" id="id7110749__onlineimage" height="100" width="110"/>
+        </media>
+      </figure>
+      <para id="id1858966"> ..................................................</para>
+      <para id="id8260812"><figure id="id1168513118983"><media id="id1168513118983_media" alt=""><image mime-type="image/png" src="../../media/graphics2-c0fa.png" id="id1168513118983__onlineimage" height="51" width="140"/></media></figure>b) </para>
+      <para id="id5248008"> ..................................................</para>
+      <para id="id7860459">c)</para>
+      <figure id="id1168511072026">
+        <media id="id1168511072026_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-ea47.png" id="id1168511072026__onlineimage" height="13" width="129"/>
+        </media>
+      </figure>
+      <para id="id6529722"> .................................................. </para>
+      <para id="id1168510939146">(3)</para>
+      <para id="id8317220">3. ’n Vliegtuig vlieg 400 km in die rigting 040 grade. Dan verander dit van rigting en vlieg 300 km verder in die rigting 125 grade. Teken die roete van die vliegtuig as 1 cm = 100 km.</para>
+      <para id="id6433703">(2)</para>
+      <para id="id4072436">4. Waar of vals?</para>
+      <para id="id5058296">a) Dié veelhoek is konveks..__________________________________________</para>
+      <para id="id3060537">b) Minstens een van die binnehoeke van ’n konkawe veelhoek is inspringend. _______________________________________________________________</para>
+      <para id="id1168511183204">c) ’n Driehoek is rigied (stewig)._______________________________________</para>
+      <para id="id8730149">d) ’n Onreëlmatige veelhoek se sye is almal ewe lank.______________________</para>
+      <figure id="id6687423">
+        <media id="id6687423_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-d296.png" id="id6687423__onlineimage" height="41" width="120"/>
+        </media>
+      </figure>
+      <para id="id8289856">(4)</para>
+      <para id="id8033124">5. Bereken die grootte van elke hoek van ’n reëlmatige heptagoon (sewe-hoek) met behulp van die formule wat jy geleer het.</para>
+      <para id="id1168510888328">_____________________________________________________________________</para>
+      <para id="id6167726">_____________________________________________________________________</para>
+      <para id="id1168508541463">_____________________________________________________________________</para>
+      <para id="id1168517924357">(4)</para>
+      <para id="id1168515210250">6. Meet die grootte van die volgende hoeke met behulp van jou gradeboog.</para>
+      <para id="id1168509357321"><figure id="id5738591"><media id="id5738591_media" alt=""><image mime-type="image/png" src="../../media/graphics5-fbcf.png" id="id5738591__onlineimage" height="109" width="310"/></media></figure>a) </para>
+      <para id="id8062490"> ..................................................</para>
+      <para id="id1168509020725"><figure id="id3273064"><media id="id3273064_media" alt=""><image mime-type="image/png" src="../../media/graphics6-88c0.png" id="id3273064__onlineimage" height="127" width="299"/></media></figure>b) </para>
+      <para id="id1168517717317"> ..................................................</para>
+      <para id="id8218856">(2)</para>
+      <para id="id4996388">7. <emphasis effect="bold">Watter soort driehoek is elk van die volgende?</emphasis></para>
+      <figure id="id2643040">
+        <media id="id2643040_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics7-00c7.png" id="id2643040__onlineimage" height="176" width="184"/>
+        </media>
+      </figure>
+      <para id="id4354296">a) ..................................................</para>
+      <para id="id6000484">b) ..................................................</para>
+      <figure id="id2744302">
+        <media id="id2744302_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics8-da42.png" id="id2744302__onlineimage" height="48" width="127"/>
+        </media>
+      </figure>
+      <para id="id8096038">c) ..................................................</para>
+      <para id="id5994607">3)</para>
+      <para id="id1168514196811">8. <emphasis effect="bold">’n Figuur is simmetries as </emphasis></para>
+      <para id="id8086437">_____________________________________________________________________</para>
+      <para id="id1168514277816">_____________________________________________________________________</para>
+      <para id="id4196555">_____________________________________________________________________</para>
+      <para id="id6021935">(1)</para>
+      <para id="id1168508798817">9. Teken ’n veelhoek met vier simmetrie-asse. Toon die simmetrie-asse met gebroke lyne aan.</para>
+      <para id="id8762149">(3)</para>
+      <para id="id8269821">10. Gebruik gebroke lyne en wys hoe jy ’n vyfhoek stewig sal maak.</para>
+      <para id="id3054236">(1)</para>
+      <para id="id5036006">11. Teken enige figuur wat tesseleer in die blok hieronder.</para>
+      <para id="id1168514095461">(1)</para>
+      <para id="id5531700">30</para>
+    </section>
+  </content>
+</document>

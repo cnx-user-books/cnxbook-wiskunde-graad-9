@@ -1,0 +1,119 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Getallepatrone (Fibonacci-patroon)</title>
+  <metadata>
+  <md:content-id>m22037</md:content-id><md:title>Getallepatrone (Fibonacci-patroon)</md:title>
+  <md:abstract/>
+  <md:uuid>e50d266d-de84-4b95-b156-b3abaef26ee5</md:uuid>
+</metadata>
+
+<content>
+    <section id="id6789536">
+      <title>WISKUNDE</title>
+      <para id="para-id6789536">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8283341">
+      <title>Getalpatrone</title>
+      <para id="para-id8283341">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8985950">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id8985950">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6978466">
+      <title>Memorandum</title>
+      <para id="id6279952">4.</para>
+      <para id="id7064441">4; 8; 12: 28; 40; 48</para>
+      <para id="id8543031">5. Ry foutief: moet wees 0; 1; 1; 2; 3; 5; 8; etc.</para>
+      <para id="id8870825">a) 0 + 1 = 1; 1 + 1 = 2; 2 + 1 = 3; 3 + 2 = 5; 5 + 3 = 8; 8 + 5 = 13; 13 + 8 = 21;</para>
+      <para id="id6735042"> 21 + 13 = 34</para>
+      <para id="id8167003">b) Dit volg die Fibonaccipatroon</para>
+      <para id="id1908729">c) 55; 89; 144</para>
+      <para id="id2394694">d) 1 7 - 21 - 35 - 35 - 21 - 7 - 1</para>
+      <para id="id3995895"> 1 - 8 - 28 - 56 - 70 - 56 - 28 - 8 - 1</para>
+      <para id="id8254956"> 1 - 9 - 36 - 84 - 126v126 - 84 - 36 - 9 - 1</para>
+    </section>
+    <section id="id777724">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id777724">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6762326">
+      <title>Inhoud</title>
+      <section id="id8172306">
+        <title>AKTIWITEIT: Getallepatrone (Fibonacci-patroon) [LU 2.2, LU 2.3.3] </title>
+        <para id="id1169807885289">Vir die volgende aktiwiteit het jy ’n dosie vuurhoutjies nodig. Pak die vuurhoutjies soos gewys om die figure te vorm:</para>
+        <para id="id7689646">4. </para>
+        <figure id="id3330321">
+          <media id="id3330321_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-83c0.jpg" id="id3330321__onlineimage" height="72" width="409"/>
+          </media>
+        </figure>
+        <list id="id5733256" list-type="bulleted">
+          <item>Voltooi die tabel. Gebruik jou vuurhoutjies indien nodig.</item>
+        </list>
+        <table id="id8179247" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>Aantal vierkante</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>7</entry>
+                <entry>10</entry>
+                <entry>12</entry>
+              </row>
+              <row>
+                <entry>Aantal vuurhoutjies</entry>
+                <entry>_______</entry>
+                <entry>_______</entry>
+                <entry>_______</entry>
+                <entry>_______</entry>
+                <entry>_______</entry>
+                <entry>_______</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <section id="id1566346">
+          <title>5. Het jy geweet?</title>
+          <para id="id5064264">’n Italiaanse Wiskundige, Leonardo Fibonacci, het in die 12 de eeu geleef. Hy het ook as Leonardo van Pisa bekend gestaan omdat hy in Pisa gewoon het. Fibonacci het patrone in plante ondersoek en met die baie bekende Fibonacci-ry vorendag gekom:</para>
+          <para id="id5748692">0 ; 1 ; 1 ; 2 ; 3 ; 5 ; 8 ; 13 ; 21 ; 34</para>
+          <list id="id1169808754869" list-type="bulleted">
+            <item>Gaan kyk gerus na sonneblomkoppe en die sade in die spiraal van ’n dennebol en jy sal die Fibonacci-patroon daar raakloop!</item>
+          </list>
+          <para id="id6159308">a) Kan jy die patroon verklaar? ____________________________________</para>
+          <para id="id4958770">b) Werk in groepe van 4. Kyk in die skool se tuin (of tuis) en tel die kroonblare van die verskillende blomme wat jy sien.</para>
+          <para id="id6464299">w Wat merk julle op?_______________________________________________</para>
+          <para id="id1169807969056">_____________________________________________________________________</para>
+          <para id="id6168446">_____________________________________________________________________</para>
+          <para id="id8164368">_____________________________________________________________________</para>
+          <para id="id5716786">c) Voeg nog 3 getalle by die Fibonacci-getalry:</para>
+          <para id="id1169808112010">5 ; 8 ; 13 ; 21 ; 34 ; ________________________________________________</para>
+          <para id="id1314907">d) Vra jou opvoeder vir grafiekpapier en probeer om die Fibonacci-spiraal te teken.</para>
+        </section>
+      </section>
+    </section>
+    <section id="id8990045">
+      <title>Assessering</title>
+      <para id="id6048155"><emphasis><emphasis effect="italics">Leeruitkomste 2:</emphasis></emphasis>Die leerder is in staat om patrone en verwantskappe te herken, te beskryf en voor te stel en probleme op te los deur algebraïese taal en vaardighede te gebruik.</para>
+      <para id="id1951938"><emphasis><emphasis effect="italics">Assesseringstandaard 2.2:</emphasis></emphasis> Dit is duidelik wanneer die leerder verwantskappe of reëls wat waargeneem is, in eie woorde beskryf, verduidelik en bewys;</para>
+      <para id="id8985608"><emphasis><emphasis effect="italics">Assesseringstandaard 2.3:</emphasis></emphasis> Dit is duidelik wanneer die leerder voorstellings maak van en verwantskappe tussen veranderlikes gebruik sodat inset- en/of uitsetwaardes op ‘n verskeidenheid maniere bepaal kan word deur die gebruik van:</para>
+      <para id="id8118422"><emphasis effect="bold">2.3.3:</emphasis> tabelle.</para>
+    </section>
+  </content>
+</document>

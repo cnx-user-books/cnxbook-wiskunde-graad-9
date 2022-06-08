@@ -1,0 +1,402 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Wins en verlies</title>
+  <metadata>
+  <md:content-id>m31625</md:content-id><md:title>Wins en verlies</md:title>
+  <md:abstract/>
+  <md:uuid>bf549d4c-69ee-47d3-85f2-a7dddf502b3c</md:uuid>
+</metadata>
+
+<content>
+    <section id="id4259764">
+      <title>WISKUNDE</title>
+      <para id="para-id4259764">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3764943">
+      <title>Persentasies</title>
+      <para id="para-id3764943">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4710796">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id4710796">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5487121">
+      <title>Memorandum </title>
+      <para id="id4122998">18.2</para>
+      <table id="id3626127" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>KOSPRYS</entry>
+              <entry>VERKOOPPRYS</entry>
+              <entry>VERLIES/WINS</entry>
+              <entry>% WINS/VERLIES</entry>
+            </row>
+            <row>
+              <entry>a)</entry>
+              <entry/>
+              <entry/>
+              <entry>R623</entry>
+              <entry>24,92% wins</entry>
+            </row>
+            <row>
+              <entry>b)</entry>
+              <entry/>
+              <entry/>
+              <entry>R80</entry>
+              <entry>28,57% verlies</entry>
+            </row>
+            <row>
+              <entry>c)</entry>
+              <entry/>
+              <entry/>
+              <entry>R9,99</entry>
+              <entry>27,75% wins</entry>
+            </row>
+            <row>
+              <entry>d)</entry>
+              <entry/>
+              <entry>R19,14</entry>
+              <entry>R2,64</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>e)</entry>
+              <entry/>
+              <entry>R765</entry>
+              <entry>R135</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id4941013" list-type="bulleted">
+        <item>a) 14%</item>
+      </list>
+      <list id="id3169862" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>Werkvoorsiening; welsyns- en maatskaplike uitgawes; behuising; ens. </item>
+        <item>Melk; vars groente; vars vrugte; vleis</item>
+      </list>
+      <para id="id4637756">19.3 a) 41c</para>
+      <para id="id3259739">b) R2,66</para>
+      <para id="id5361964">c) R69,86</para>
+      <list id="id5155349" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>R770</item>
+      </list>
+      <para id="id5327659">20.  Betaal eers BTW, dan afslag.</para>
+      <para id="id4855580">21.     </para>
+      <para id="id4323230">a) &gt;</para>
+      <para id="id3351136">b) &lt;</para>
+      <para id="id5305799">c) =</para>
+      <para id="id5322899">d) &lt;</para>
+      <para id="id4970004">e) =</para>
+      <para id="id5357733">f) =</para>
+      <para id="id3625309">g) &gt;</para>
+      <para id="id5360857">h) &gt;</para>
+      <para id="id3206250">i) 0,55</para>
+      <para id="id4637435">j) 0,125</para>
+      <para id="id5467476">k) 1,42</para>
+      <para id="id4856232">l) 0,03</para>
+      <para id="id3719908">m) 0,45</para>
+      <para id="id5196028">n) 0,075</para>
+      <para id="id3259962">o) 0,625</para>
+    </section>
+    <section id="id4126122">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id4126122">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5346225">
+      <title>Inhoud</title>
+      <section id="id3512149">
+        <title>AKTIWITEIT: Wins en verlies [LU 1.4, LU 2.3.3]</title>
+        <para id="id3777553">18. WINS EN VERLIES</para>
+        <para id="id3647671">18.1 Belangrik om te weet!</para>
+        <para id="id3880144">Wins = verkoopprys – kosprys</para>
+        <table id="id4753586" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entrytbl cols="3">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <tbody>
+                    <row>
+                      <entry>% wins</entry>
+                      <entry>=</entry>
+                      <entry>verkoopprys – kosprys</entry>
+                    </row>
+                    <row>
+                      <entry/>
+                      <entry/>
+                      <entry>kosprys</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+                <entry>×</entry>
+                <entrytbl cols="1">
+                  <colspec colnum="1" colname="c1"/>
+                  <tbody>
+                    <row>
+                      <entry>100</entry>
+                    </row>
+                    <row>
+                      <entry>1</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entrytbl cols="3">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <tbody>
+                    <row>
+                      <entry/>
+                      <entry>=</entry>
+                      <entry>wins</entry>
+                    </row>
+                    <row>
+                      <entry/>
+                      <entry/>
+                      <entry>kosprys</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+                <entry>×</entry>
+                <entrytbl cols="1">
+                  <colspec colnum="1" colname="c1"/>
+                  <tbody>
+                    <row>
+                      <entry>100</entry>
+                    </row>
+                    <row>
+                      <entry>1</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5437553">Verlies = wanneer jy meer vir ’n item betaal as waarvoor jydit verkoop</para>
+        <table id="id5379533" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entrytbl cols="3">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <tbody>
+                    <row>
+                      <entry>% verlies</entry>
+                      <entry>=</entry>
+                      <entry>verlies</entry>
+                    </row>
+                    <row>
+                      <entry/>
+                      <entry/>
+                      <entry>kosprys</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+                <entry>×</entry>
+                <entrytbl cols="1">
+                  <colspec colnum="1" colname="c1"/>
+                  <tbody>
+                    <row>
+                      <entry>100</entry>
+                    </row>
+                    <row>
+                      <entry>1</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id4539850">18.2 Voltooi die tabel met behulp van jou sakrekenaar.</para>
+        <table id="id5430311" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>Kosprys</entry>
+                <entry>Verkoopprys</entry>
+                <entry>Verlies / Wins</entry>
+                <entry>% Wins / Verlies</entry>
+              </row>
+              <row>
+                <entry>Bv.</entry>
+                <entry>R125</entry>
+                <entry>R160</entry>
+                <entry>R35</entry>
+                <entry>28% wins</entry>
+              </row>
+              <row>
+                <entry>a)</entry>
+                <entry>R2 500</entry>
+                <entry>R3 123</entry>
+                <entry>.................</entry>
+                <entry>.........................</entry>
+              </row>
+              <row>
+                <entry>b)</entry>
+                <entry>R280</entry>
+                <entry>R200</entry>
+                <entry>.................</entry>
+                <entry>.........................</entry>
+              </row>
+              <row>
+                <entry>c)</entry>
+                <entry>R36</entry>
+                <entry>R45,99</entry>
+                <entry>.................</entry>
+                <entry>.........................</entry>
+              </row>
+              <row>
+                <entry>d)</entry>
+                <entry>R16,50</entry>
+                <entry>.................</entry>
+                <entry>.................</entry>
+                <entry>16% wins</entry>
+              </row>
+              <row>
+                <entry>e) </entry>
+                <entry>R900</entry>
+                <entry>.................</entry>
+                <entry>.................</entry>
+                <entry>15% verlies</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id3465526">19.1 Het jy geweet?</para>
+        <para id="id2345212">Belasting op toegevoegde waarde (BTW) is ’n bedrag geld wat deur die Minister van Finansies vasgestel word as deel van die regering se begroting. Dit word ook soms “verkoopbelasting” genoem.</para>
+        <para id="id5310268">19.2 Vind uit</para>
+        <para id="id5272014">a) Hoeveel % BTW moet ons tans betaal? ………………………………………..</para>
+        <para id="id5378919">…………………………………………………………………………………………..</para>
+        <para id="id3410636">b) Waarvoor gebruik die regering die geld wat hulle met BTW in?</para>
+        <para id="id5029591">…………………………………………………………………………………………..</para>
+        <para id="id5345337">…………………………………………………………………………………………..</para>
+        <para id="id4577604">c) Watter items is vrygestel van BTW? …………………………………………..</para>
+        <para id="id4532501">…………………………………………………………………………………………..</para>
+        <para id="id2826326">…………………………………………………………………………………………..</para>
+        <para id="id3262719"/>
+        <para id="id5700306">19.3 Bereken die BTW op die volgende teen 14% met behulp van jou sakrekenaar.</para>
+        <para id="id5161898">a) R2,95 :  ………………………………………………………………………….</para>
+        <para id="id3582736">b) R18,99 : ………………………………………………………………………...</para>
+        <para id="id3248252">c) R499 : …………………………………………………………………………..</para>
+        <para id="id5352788">d) R 5 500 : ………………………………………………………………………..</para>
+        <para id="id3022817">20. KOPKRAPPER!</para>
+        <para id="id4469510">Jy koop ’n artikel kontant en kry 10% afslag, maar moet 14% BTW betaal. Wat is die voordeligste vir jou: om eers belasting te betaal en dan die afslag te kry, of andersom?</para>
+        <para id="id5461078">…………………………………………………………………………………………..</para>
+        <para id="id3662984">…………………………………………………………………………………………..</para>
+        <para id="id4468441">…………………………………………………………………………………………..</para>
+        <para id="id3923069">…………………………………………………………………………………………..</para>
+        <para id="id5745714"/>
+        <para id="id5488554">21. Kan jy die volgende hoofrekentoets binne 3 minute voltooi?</para>
+        <para id="id3307160"/>
+        <table id="id5475446" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Vul in: &lt; ; &gt; ; = :</entry>
+                <entry>Skryf as desimale breuk:</entry>
+              </row>
+              <row>
+                <entry>a) 0,8 ........... 8%</entry>
+                <entry>i) 55% : ....................</entry>
+              </row>
+              <row>
+                <entry>b) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{3} }  over  { size 8{4} } } } {}</m:annotation></m:semantics></m:math> ............ 76%</entry>
+                <entry>j) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{8} } } } {}</m:annotation></m:semantics></m:math> : ....................</entry>
+              </row>
+              <row>
+                <entry>c) 60% ........... 0,6</entry>
+                <entry>k) 142% : ....................</entry>
+              </row>
+              <row>
+                <entry>d) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{4} }  over  { size 8{5} } } } {}</m:annotation></m:semantics></m:math> ............ 85%</entry>
+                <entry>l) 3% : ....................</entry>
+              </row>
+              <row>
+                <entry>e) 0,835 ........... 83,5%</entry>
+                <entry>m) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>9</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>20</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{9} }  over  { size 8{"20"} } } } {}</m:annotation></m:semantics></m:math> : ....................</entry>
+              </row>
+              <row>
+                <entry>f) 0,02 ........... 2%</entry>
+                <entry>n) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>7</m:mn><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 {  { size 8{1} }  over  { size 8{2} } } } {}</m:annotation></m:semantics></m:math>% : ....................</entry>
+              </row>
+              <row>
+                <entry>g) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{3} } } } {}</m:annotation></m:semantics></m:math> ............ 33%</entry>
+                <entry>o) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>62</m:mtext><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"62" {  { size 8{1} }  over  { size 8{2} } } } {}</m:annotation></m:semantics></m:math>% : ....................</entry>
+              </row>
+              <row>
+                <entry>h) 12,5% ............ 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{8} } } } {}</m:annotation></m:semantics></m:math></entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5150436">(15)</para>
+        <para id="id3889636">
+          <figure id="id5292219">
+            <media id="id5292219_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics1-e82a.png" id="id5292219__onlineimage" height="45" width="400"/>
+            </media>
+          </figure>
+        </para>
+      </section>
+    </section>
+    <section id="id4933310">
+      <title>Assessering</title>
+      <para id="id3252677"><emphasis><emphasis effect="italics">Leeruitkomste 1:</emphasis></emphasis>Die leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</para>
+      <para id="id3619318"><emphasis><emphasis effect="italics">Assesseringstandaard 1.4:</emphasis></emphasis> Dit is duidelik wanneer die leerder ekwivalente vorms van rasionale getalle herken en gebruik;</para>
+      <para id="id4449144"><emphasis><emphasis effect="italics">Leeruitkomste 2:</emphasis></emphasis>Die leerder is in staat om patrone en verwantskappe te herken, te beskryf en voor te stel en probleme op te los deur algebraïese taal en vaardighede te gebruik.</para>
+      <para id="id3222336"><emphasis><emphasis effect="italics">Assesseringstandaard 2.3:</emphasis></emphasis> Dit is duidelik wanneer die leerder voorstellings maak van en verwantskappe tussen veranderlikes gebruik sodat inset- en/of uitsetwaardes op ‘n verskeidenheid maniere bepaal kan word deur die gebruik van:</para>
+      <para id="id4902867">2.3.3 tabelle.</para>
+    </section>
+  </content>
+</document>

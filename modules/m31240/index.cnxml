@@ -1,0 +1,664 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Nog hersiening</title>
+  <metadata>
+  <md:content-id>m31240</md:content-id><md:title>Nog hersiening</md:title>
+  <md:abstract/>
+  <md:uuid>f2cead44-a82e-42dc-8e53-d847bf928f14</md:uuid>
+</metadata>
+
+<content>
+    <section id="id3661354">
+      <title>WISKUNDE</title>
+      <para id="para-id3661354">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3606117">
+      <title>Desimale Breuke</title>
+      <para id="para-id3606117">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4940695">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id4940695">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5467235">
+      <title>Memorandum</title>
+      <para id="id5024245">13.4 </para>
+      <table id="id5375359" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>a) </entry>
+              <entry>2
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mtext>60</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>100</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"60"} }  over  { size 8{"100"} } } } {}</m:annotation></m:semantics></m:math></entry>
+              <entry>2,60</entry>
+            </row>
+            <row>
+              <entry>b)</entry>
+              <entry>13
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mtext>625</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>1000</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"625"} }  over  { size 8{"1000"} } } } {}</m:annotation></m:semantics></m:math></entry>
+              <entry>13,625</entry>
+            </row>
+            <row>
+              <entry>c)</entry>
+              <entry>17
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mtext>75</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>100</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"75"} }  over  { size 8{"100"} } } } {}</m:annotation></m:semantics></m:math></entry>
+              <entry>17,75</entry>
+            </row>
+            <row>
+              <entry>d)</entry>
+              <entry>23
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mtext>875</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>1000</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"875"} }  over  { size 8{"1000"} } } } {}</m:annotation></m:semantics></m:math></entry>
+              <entry>23,875</entry>
+            </row>
+            <row>
+              <entry>e)</entry>
+              <entry>36
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>10</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{8} }  over  { size 8{"10"} } } } {}</m:annotation></m:semantics></m:math></entry>
+              <entry>36,8</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id5584582">13.5 a) 0,83</para>
+      <list id="id2929143" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>0,2857142</item>
+        <item>0,8125</item>
+        <item>0,4</item>
+      </list>
+      <para id="id8466171">13.6</para>
+      <table id="id6630376" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>9</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{9} }  over  { size 8{2} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>11</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"11"} }  over  { size 8{2} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>325</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>100</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"325"} }  over  { size 8{"100"} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>43</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>5</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"43"} }  over  { size 8{5} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>201</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>8</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"201"} }  over  { size 8{8} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>4056</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>1000</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"4056"} }  over  { size 8{"1000"} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>199</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>5</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"199"} }  over  { size 8{5} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+            </row>
+            <row>
+              <entry>4
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{2} } } } {}</m:annotation></m:semantics></m:math></entry>
+              <entry>5
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{2} } } } {}</m:annotation></m:semantics></m:math></entry>
+              <entry>3
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mtext>25</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>100</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"25"} }  over  { size 8{"100"} } } } {}</m:annotation></m:semantics></m:math></entry>
+              <entry>8
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{3} }  over  { size 8{5} } } } {}</m:annotation></m:semantics></m:math></entry>
+              <entry>25
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{8} } } } {}</m:annotation></m:semantics></m:math></entry>
+              <entry>4
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mtext>56</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>1000</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"56"} }  over  { size 8{"1000"} } } } {}</m:annotation></m:semantics></m:math></entry>
+              <entry>39
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{4} }  over  { size 8{5} } } } {}</m:annotation></m:semantics></m:math></entry>
+            </row>
+            <row>
+              <entry>4,5</entry>
+              <entry>5,5</entry>
+              <entry>3,25</entry>
+              <entry>8,6</entry>
+              <entry>25,125</entry>
+              <entry>4,056</entry>
+              <entry>39,8</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7353283">14. a) 0,3</para>
+      <list id="id7313810" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>0,6</item>
+        <item>0,23</item>
+      </list>
+    </section>
+    <section id="id3191093">
+      <title>Leerders Afdeling</title>
+      <para id="para-id3191093">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2399917">
+      <title>Inhoud</title>
+      <section id="id5585034">
+        <title>AKTIWITEIT: Nog hersiening [LU 1.4.2, LU 1.10, LU 2.3.1, LU 2.3.3]</title>
+        <para id="id5066495">Ons kan breuke soos volg na desimale breuke herlei:</para>
+        <figure id="id6784397">
+          <media id="id6784397_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-e567.png" id="id6784397__onlineimage" height="225" width="273"/>
+          </media>
+        </figure>
+        <para id="id3654118">13.2 Het jy geweet?</para>
+        <para id="id5174601">Ons kan dit ook so bereken:</para>
+        <para id="id8532567">
+          <figure id="id5225424">
+            <media id="id5225424_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics2-2ce7.png" id="id5225424__onlineimage" height="347" width="265"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id3190941">13.3 Watter van die bogenoemde metodes verkies jy?  </para>
+        <para id="id2735065"/>
+        <para id="id3618870"/>
+        <para id="id2417471"> Hoekom?   </para>
+        <para id="id5124422"/>
+        <para id="id6592966"/>
+        <para id="id6611582"><figure id="id7121971"><media id="id7121971_media" alt=""><image mime-type="image/png" src="../../media/graphics3-aafc.png" id="id7121971__onlineimage" height="250" width="407"/></media></figure>13.4 Voltooi die volgende tabelle:</para>
+        <para id="id4686069">13.5 Gebruik die deelmetode soos by 13.2 en skryf die volgende breuke as desimale breuke:</para>
+        <para id="id3471550">a) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {6} } } {}</m:annotation></m:semantics></m:math> ........................................................................... ...........................................................................</para>
+        <para id="id7230693">  ...........................................................................</para>
+        <para id="id2702686">b) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {7} } } {}</m:annotation></m:semantics></m:math> ........................................................................... ...........................................................................</para>
+        <para id="id5072857">  ...........................................................................</para>
+        <para id="id2508867">c) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>13</m:mtext><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"13"}  over  {"16"} } } {}</m:annotation></m:semantics></m:math> ........................................................................... ...........................................................................</para>
+        <para id="id5438423">  ...........................................................................</para>
+        <para id="id2561191">d) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {9} } } {}</m:annotation></m:semantics></m:math> ........................................................................... ...........................................................................</para>
+        <para id="id3400799">  ...........................................................................</para>
+        <para id="id5043873">13.6 Kan jy die volgende tabel voltooi??</para>
+        <table id="id7186089" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>Onegte breuk</entry>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mfrac>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>9</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mfrac>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{9} }  over  { size 8{2} } } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mfrac>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mtext>45</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>5</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mfrac>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"45"} }  over  { size 8{5} } } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Gemengde getal</entry>
+                <entry/>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mn>5</m:mn>
+                              <m:mfrac>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mfrac>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{5 {  { size 8{1} }  over  { size 8{2} } } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mtext>25</m:mtext>
+                              <m:mfrac>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>8</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mfrac>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{"25" {  { size 8{1} }  over  { size 8{8} } } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry/>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mtext>39</m:mtext>
+                              <m:mfrac>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>4</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>5</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mfrac>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{"39" {  { size 8{4} }  over  { size 8{5} } } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+              </row>
+              <row>
+                <entry>Desimale breuk</entry>
+                <entry/>
+                <entry/>
+                <entry>3,25</entry>
+                <entry/>
+                <entry/>
+                <entry>4,056</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id3517898">14. KOPKRAPPERS!</para>
+        <para id="id3457192"><emphasis effect="bold">Probeer eers sonder ’n sakrekenaar!</emphasis> Skryf die volgende breuke as desimale breuke:</para>
+        <para id="id2474402">a) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math> ........................................................................... ...........................................................................</para>
+        <para id="id5437928">  ...........................................................................</para>
+        <para id="id4724457">b) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math> ........................................................................... ...........................................................................</para>
+        <para id="id6742628">  ...........................................................................</para>
+        <para id="id4865257">c) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>23</m:mtext><m:mtext>99</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"23"}  over  {"99"} } } {}</m:annotation></m:semantics></m:math> ........................................................................... ...........................................................................</para>
+        <para id="id5436546">   ........................................................................... </para>
+        <para id="id6638116">15. Onthou jy nog?</para>
+        <para id="id2168758">Ons noem 0,666666666 . . . ’n <emphasis effect="bold">repeterende desimaal. </emphasis>Ons skryf dit as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0,</m:mn><m:mover><m:mn>6</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mover></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0, {6}  cSup { size 8{ cdot } } } {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id6803985">Net so is 0,454545 . . . ook ’n <emphasis effect="bold">repeterende desimaal</emphasis> en ons skryf dit 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0,</m:mn><m:mover><m:mn>4</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mover><m:mover><m:mn>5</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mover></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0, {4}  cSup { size 8{ cdot } }  {5}  cSup { size 8{ cdot } } } {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id2819799">Ons rond dit gewoonlik af tot 1 of 2 syfers na die desimale teken: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0,</m:mn><m:mover><m:mn>6</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mover></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0, {6}  cSup { size 8{ cdot } } } {}</m:annotation></m:semantics></m:math> word 0,7 of 0,67 en 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0,</m:mn><m:mover><m:mn>4</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mover><m:mover><m:mn>5</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mover></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0, {4}  cSup { size 8{ cdot } }  {5}  cSup { size 8{ cdot } } } {}</m:annotation></m:semantics></m:math> word 0,5 of 0,45</para>
+        <para id="id5426360">16. Tyd vir self-assessering</para>
+        <table id="id5025557" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>
+                  <list id="id7097199" list-type="bulleted">
+                    <item>Maak ’n merkie in die toepaslike blokkie:</item>
+                  </list>
+                </entry>
+                <entry>JA</entry>
+                <entry>NEE</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek kan:</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Desimale breuke met mekaar vergelyk en korrek orden</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Die korrekte verwantskapstekens invul</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Desimale breuke korrek afrond tot:</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id7134595" list-type="bulleted">
+                    <item>die naaste heelgetal</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id7137977" list-type="bulleted">
+                    <item>een syfer na die desimale teken</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id2497066" list-type="bulleted">
+                    <item>twee syfers na die desimale teken</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id3459329" list-type="bulleted">
+                    <item>drie syfers na die desimale teken</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Breuke en gemengde getalle korrek na desimale breuke herlei</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Verduidelik wat ’n repeterende desimaal i s</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id3631011">
+      <title>Assessering</title>
+      <para id="id5373218"><emphasis><emphasis effect="italics">Leeruitkomste 1:</emphasis></emphasis>Die leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</para>
+      <para id="id7367013"><emphasis><emphasis effect="italics">Assesseringstandaard 1.4:</emphasis></emphasis> Dit is duidelik wanneer die leerder herken en gebruik ekwivalente vorms van die bogenoemde rasionale getalle, insluitend:</para>
+      <para id="id5641546">1.4.2 desimale breuke;</para>
+      <para id="id5127772"><emphasis><emphasis effect="italics">Assesseringstandaard 1.0:</emphasis></emphasis> Dit is duidelik wanneer die leerder ‘n verskeidenheid strategieë gebruik om oplossings te kontroleer en die redelikheid daarvan te beoordeel.</para>
+      <para id="id1298387"><emphasis><emphasis effect="italics">Leeruitkomste 2:</emphasis></emphasis>Die leerder is in staat om patrone en verwantskappe te herken, te beskryf en voor te stel en probleme op te los deur algebraïese taal en vaardighede te gebruik.</para>
+      <para id="id5542809"><emphasis><emphasis effect="italics">Assesseringstandaard 2.3:</emphasis></emphasis> Dit is duidelik wanneer die leerder voorstellings maak van en verwantskappe tussen veranderlikes gebruik sodat inset- en/of uitsetwaardes op ‘n verskeidenheid maniere bepaal kan word deur die gebruik van:</para>
+      <para id="id4933231">2.3.1 woordelikse beskrywings;</para>
+      <para id="id6653039">2.3.3 tabelle.</para>
+    </section>
+  </content>
+</document>

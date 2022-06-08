@@ -1,0 +1,83 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Getallepatrone (Gauss se metode)</title>
+  <metadata>
+  <md:content-id>m22042</md:content-id><md:title>Getallepatrone (Gauss se metode)</md:title>
+  <md:abstract/>
+  <md:uuid>602a89e2-0a71-4fa8-aab2-f464ab8ed02e</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1166489988834">
+      <title>WISKUNDE</title>
+      <para id="para-id1166489988834">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166489988849">
+      <title>Getalpatrone</title>
+      <para id="para-id1166489988849">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166489988856">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id1166489988856">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166489988871">
+      <title>Memorandum</title>
+      <para id="id1166489988881">8.</para>
+      <para id="id1166489988886">c) (i) 465</para>
+      <para id="id1166489988893">(ii) 1 508</para>
+      <para id="id1166489988899">b). </para>
+    </section>
+    <section id="id1166489988906">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id1166489988906">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166489988920">
+      <title>Inhoud</title>
+      <section id="id1166489988927">
+        <title>AKTIWITEIT: Getallepatrone (Gauss se metode) [LU 2.2] </title>
+        <section id="id1166489988948">
+          <title>8. Het jy geweet?</title>
+          <para id="id1166489988957">Karl Friedrich Gauss (1777 - 1855) is op 9-jarige ouderdom deur sy opvoeder gevra om die getalle 1 tot 100 op te tel. Hy was in ’n rekordtyd klaar, en die metode wat hy gebruik het, staan vandag bekend as "Gauss se metode".</para>
+          <para id="id1166489988966">a) Hoe sou JY bogenoemde probleem oplos? ________________________________</para>
+          <para id="id1166489988979">____________________________________________________________________</para>
+          <para id="id1166489988984">____________________________________________________________________</para>
+          <para id="id1166489988988">____________________________________________________________________</para>
+          <para id="id1166489988992">____________________________________________________________________</para>
+          <para id="id1166489988997">b) Kom ons kyk hoe Gauss die som bereken het!</para>
+          <figure id="id1166489989007">
+            <media id="id1166489989007_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics1-61ef.png" id="id1166489989007__onlineimage" height="151" width="465"/>
+            </media>
+          </figure>
+          <list id="id1166489989034" list-type="bulleted">
+            <item>Elke paar, bv. 1 + 100 of 3 + 98, se somtotaal is 101. Daar is 50 pare in totaal. Die som is dus 50 × 101 = 5 050. Maklik, né!</item>
+          </list>
+          <para id="id1166489989050">c) Gebruik nou Gauss se metode en bepaal:</para>
+          <para id="id1166489989056">i) die som van die getalle van 1 tot 30</para>
+          <para id="id1166489989066">_____________________________________________________________________</para>
+          <para id="id1166489989070">_____________________________________________________________________</para>
+          <para id="id1166489989074">_____________________________________________________________________</para>
+          <para id="id1166489989079">_____________________________________________________________________</para>
+          <para id="id1166489989083">_____________________________________________________________________</para>
+          <para id="id1166489989087">ii) die som van die getalle van 5 tot 55</para>
+          <para id="id1166489989096">_____________________________________________________________________</para>
+          <para id="id1166489989101">_____________________________________________________________________</para>
+          <para id="id1166489989105">_____________________________________________________________________</para>
+          <para id="id1166489989109">_____________________________________________________________________</para>
+        </section>
+      </section>
+    </section>
+    <section id="id1166489989116">
+      <title>Assessering</title>
+      <para id="id1166489989129"><emphasis><emphasis effect="italics">Leeruitkomste 2:</emphasis></emphasis>Die leerder is in staat om patrone en verwantskappe te herken, te beskryf en voor te stel en probleme op te los deur algebraïese taal en vaardighede te gebruik.</para>
+      <para id="id1166489989156"><emphasis><emphasis effect="italics">Assesseringstandaard 2.2:</emphasis></emphasis> Dit is duidelik wanneer die leerder verwantskappe of reëls wat waargeneem is, in eie woorde beskryf, verduidelik en bewys.</para>
+    </section>
+  </content>
+</document>

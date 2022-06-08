@@ -1,0 +1,421 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Veelhoeke</title>
+  <metadata>
+  <md:content-id>m22126</md:content-id><md:title>Veelhoeke</md:title>
+  <md:abstract/>
+  <md:uuid>e0676a79-f3e8-416e-add6-d2a5148baee2</md:uuid>
+</metadata>
+
+<content>
+    <section id="id5346468">
+      <title>WISKUNDE</title>
+      <para id="para-id5346468">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id900740">
+      <title>Ruimte en Vorm</title>
+      <para id="para-id900740">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2248184">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id2248184">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166958848526">
+      <title>Memorandum</title>
+      <para id="id1166961233541">15.2 (a) konkaaf </para>
+      <list id="id1166957017652" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>konkaaf </item>
+        <item>konveks </item>
+      </list>
+      <para id="id1166961632224">16.1  (a) ruit   </para>
+      <para id="id7723053">(b) trapesium </para>
+      <para id="id8895451">(c) oktogoon (8-hoek) </para>
+      <para id="id1166965160462">(d) vierhoek </para>
+      <para id="id1166960455733">veelhoek </para>
+      <para id="id8097891">(e) heksagoon (6-hoek) </para>
+      <para id="id1166960026453">(f) heptagoon (7-hoek) </para>
+      <para id="id1166968502928">(g) pentagoon (5-hoek) </para>
+      <para id="id1166958585257">(h) parallelogram </para>
+      <para id="id1166958344485">16.2 </para>
+      <figure id="id1166969587211">
+        <media id="id1166969587211_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-76bc.png" id="id1166969587211__onlineimage" height="85" width="101"/>
+        </media>
+      </figure>
+      <para id="id1582610">16.3 108°</para>
+      <para id="id5932756">17.1 OOREENKOMSTE  </para>
+      <para id="id8632951">* 4 ewe lang sye </para>
+      <para id="id1166958965069">  sye      </para>
+      <para id="id1166968603132"> * hoeklyne halveer mekaar </para>
+      <list id="id1166968748269" list-type="bulleted">
+        <item>4 hoeke </item>
+      </list>
+      <para id="id1166959469856">VERSKILLE </para>
+      <para id="id1166969507019">* ruit se hoeke nie 90° nie </para>
+      <para id="id1166960523713">17.2 OOREENKOMSTE </para>
+      <para id="id2296610">* het 2 pare ewe lang sye <emphasis effect="italics"/></para>
+      <para id="id1166957143776">* 2 teenoorstaande sye is ewe lank /</para>
+      <para id="id7026783"><emphasis effect="italics"/>* het 4 hoeke </para>
+      <para id="id5330472"> * hoeklyne halveer mekaar /</para>
+      <para id="id8413966"/>
+      <para id="id5367868">VERSKILLE </para>
+      <para id="id1166966290292">* parallelogram se hoeke nie 90<emphasis effect="italics">° </emphasis>nie/</para>
+      <para id="id4758084">18. </para>
+      <para id="id1166957884404">(a) vlieër </para>
+      <para id="id6275596">(b) trapesium</para>
+      <para id="id1166965415938">20.2 plafonne; hekke; dakkappe; brûe; steierwerk</para>
+    </section>
+    <section id="id6885350">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id6885350">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2060453">
+      <title>Inhoud</title>
+      <section id="id1166966256162">
+        <title>AKTIWITEIT: Veelhoeke [LU 3.1, LU 2.3]</title>
+        <para id="id8048830">15. VEELHOEKE</para>
+        <para id="id2222398">15.1 Het jy geweet?</para>
+        <para id="id1166964242572">Meetkundige vorms wat deur <emphasis effect="bold">reguit</emphasis> lyne omsluit word, noem ons <emphasis effect="bold">veelhoeke</emphasis>. Dit bestaan uit <emphasis effect="bold">sye</emphasis>, <emphasis effect="bold">hoeke</emphasis> en <emphasis effect="bold">hoekpunte</emphasis>.</para>
+        <figure id="id1166964305443">
+          <media id="id1166964305443_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-e271.png" id="id1166964305443__onlineimage" height="117" width="357"/>
+          </media>
+        </figure>
+        <para id="id5399483">15.2 Het jy ook geweet?</para>
+        <para id="id1166965185729">’n Veelhoek is konveks as al die lyne wat enige twee hoekpunte verbind binne die veelhoek val.</para>
+        <para id="id1166962800291">Al die binnehoeke is skerp- of stomp-hoeke.</para>
+        <para id="id4959351">As enige lyn wat twee hoekpunte verbind buite ’n veelhoek val, is die veelhoek konkaaf.</para>
+        <para id="id7755015">Een of meer van die binnehoeke is ’n inspringende hoek.</para>
+        <figure id="id3891588">
+          <media id="id3891588_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-25bf.png" id="id3891588__onlineimage" height="86" width="241"/>
+          </media>
+        </figure>
+        <figure id="id6572831">
+          <media id="id6572831_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics4-e302.png" id="id6572831__onlineimage" height="107" width="173"/>
+          </media>
+        </figure>
+        <para id="id7297736">15.2.1 Is die volgende veelhoeke konveks of konkaaf?</para>
+        <para id="id757665"><figure id="id1166965295719"><media id="id1166965295719_media" alt=""><image mime-type="image/png" src="../../media/graphics5-1da5.png" id="id1166965295719__onlineimage" height="76" width="150"/></media></figure>a) </para>
+        <para id="id7057020">_________________________________</para>
+        <para id="id1166958377796"/>
+        <para id="id2756110">b)</para>
+        <figure id="id6659730">
+          <media id="id6659730_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics6-b46b.png" id="id6659730__onlineimage" height="70" width="167"/>
+          </media>
+        </figure>
+        <para id="id1166959199505">_________________________________</para>
+        <para id="id1166963179262"/>
+        <para id="id1166962825201">c) </para>
+        <figure id="id1166959471940">
+          <media id="id1166959471940_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics7-2dac.png" id="id1166959471940__onlineimage" height="78" width="133"/>
+          </media>
+        </figure>
+        <para id="id1166959479614">_________________________________</para>
+        <para id="id1166960190748"/>
+        <para id="id2658896">15.3 Onthou ook!</para>
+        <para id="id4300502">’n Reëlmatige veelhoek se sye is almal ewe lank en die hoeke is almal ewe groot.</para>
+        <para id="id1166961355308">Hoe meer sye ’n reëlmatige veelhoek het, hoe groter is sy binnehoeke.</para>
+        <para id="id6077157">’n Onreëlmatige veelhoek se sye is almal verskillende lengtes.</para>
+        <figure id="id1166964416054">
+          <media id="id1166964416054_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics8-efdc.png" id="id1166964416054__onlineimage" height="100" width="100"/>
+          </media>
+        </figure>
+        <figure id="id5122795">
+          <media id="id5122795_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics9-bdff.png" id="id5122795__onlineimage" height="102" width="144"/>
+          </media>
+        </figure>
+        <para id="id1166962880615">15.4 LET WEL!</para>
+        <para id="id1166962837512">Ons kan die grootte van die hoeke van ’n <emphasis effect="bold">reëlmatige</emphasis> veelhoek met behulp van ’n formule bereken:</para>
+        <table id="id5391992" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Grootte van elke hoek =</entry>
+                <entrytbl cols="1">
+                  <colspec colnum="1" colname="c1"/>
+                  <tbody>
+                    <row>
+                      <entry>(aantal sye – 2) × 180°</entry>
+                    </row>
+                    <row>
+                      <entry>aantal sye</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6411511">bv. Seshoek: </para>
+        <para id="id1166963189926">
+          <figure id="id1166959237287">
+            <media id="id1166959237287_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics10-9e4d.png" id="id1166959237287__onlineimage" height="150" width="117"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id1166963139040">16.1  Werk saam met ’n maat. Kan julle sê wat elkeen van die volgende veelhoeke genoem word? Skryf die naam binne-in elke figuur.</para>
+        <para id="id1166958607205">a) </para>
+        <figure id="id1166960773811">
+          <media id="id1166960773811_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics11-019d.png" id="id1166960773811__onlineimage" height="99" width="129"/>
+          </media>
+        </figure>
+        <para id="id6308211">b) </para>
+        <figure id="id1166963161007">
+          <media id="id1166963161007_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics12-0de4.png" id="id1166963161007__onlineimage" height="81" width="203"/>
+          </media>
+        </figure>
+        <para id="id5367874">c) </para>
+        <figure id="id1166959980588">
+          <media id="id1166959980588_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics13-2729.png" id="id1166959980588__onlineimage" height="87" width="87"/>
+          </media>
+        </figure>
+        <para id="id1166959195510">d) </para>
+        <figure id="id1166964130032">
+          <media id="id1166964130032_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics14-678d.png" id="id1166964130032__onlineimage" height="90" width="129"/>
+          </media>
+        </figure>
+        <para id="id1166958567869">e)</para>
+        <figure id="id1166959378121">
+          <media id="id1166959378121_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics15-8bc7.png" id="id1166959378121__onlineimage" height="99" width="113"/>
+          </media>
+        </figure>
+        <para id="id1166966381351">f)</para>
+        <figure id="id2116419">
+          <media id="id2116419_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics16-b9ed.png" id="id2116419__onlineimage" height="96" width="95"/>
+          </media>
+        </figure>
+        <para id="id2291889">g)</para>
+        <figure id="id5173167">
+          <media id="id5173167_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics17-cc29.png" id="id5173167__onlineimage" height="98" width="103"/>
+          </media>
+        </figure>
+        <para id="id1166962966732">h)</para>
+        <figure id="id3081669">
+          <media id="id3081669_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics18-d2b4.png" id="id3081669__onlineimage" height="88" width="173"/>
+          </media>
+        </figure>
+        <para id="id1166966265121">16.2 Bereken die grootte van elke hoek van die aghoek (oktogoon)</para>
+        <para id="id1166962073266">_____________________________________________________________________</para>
+        <para id="id7024130">_____________________________________________________________________</para>
+        <para id="id1166968697254">_____________________________________________________________________</para>
+        <para id="id5692926">_____________________________________________________________________</para>
+        <para id="id5501433">_____________________________________________________________________</para>
+        <para id="id1166964113921">16.3 Wat is die grootte van elke hoek van ’n vyfhoek? (pentagoon)</para>
+        <para id="id1166956937644">_____________________________________________________________________</para>
+        <para id="id1166960571680">_____________________________________________________________________</para>
+        <para id="id1166965071216">_____________________________________________________________________</para>
+        <para id="id1166963935284">_____________________________________________________________________</para>
+        <para id="id1166959400874">_____________________________________________________________________</para>
+        <para id="id5991154">17.1 Werk in groepe van drie. Sny stroke van stewige karton of gebruik roomys-stokkies. Maak gaatjies op die punte en heg die stroke met splitpennetjies. Bou ’n vierkant. </para>
+        <figure id="id1166962901357">
+          <media id="id1166962901357_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics19-3107.png" id="id1166962901357__onlineimage" height="82" width="90"/>
+          </media>
+        </figure>
+        <para id="id6213390">
+          <figure id="id1166963988543">
+            <media id="id1166963988543_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics20-647f.png" id="id1166963988543__onlineimage" height="80" width="111"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id1166958244332">Vergelyk nou die vierkant met die ruit en kyk of julle die volgende kan voltooi:</para>
+        <list id="id1166963956724" list-type="bulleted">
+          <item>Druk op die hoekpunt en verander dit in ’n ruit:</item>
+        </list>
+        <para id="id2335673">OOREENKOMSTE  </para>
+        <para id="id1166964354866">tussen ruit en vierkant</para>
+        <para id="id1166963924777">_____________________________________________________________________</para>
+        <para id="id7573774">_____________________________________________________________________</para>
+        <para id="id1166962890157">_____________________________________________________________________</para>
+        <para id="id5640316">_____________________________________________________________________</para>
+        <para id="id1166959385498">_____________________________________________________________________</para>
+        <para id="id1166958531558">VERSKILLE</para>
+        <para id="id3113846">tussen ruit en vierkant</para>
+        <para id="id1166961658422">_____________________________________________________________________</para>
+        <para id="id2667892">_____________________________________________________________________</para>
+        <para id="id1166959288479">_____________________________________________________________________</para>
+        <para id="id1166963086496">_____________________________________________________________________</para>
+        <para id="id8564678">_____________________________________________________________________</para>
+        <para id="id7730531">17.2 Vorm ander groepe van drie elk. Volg dieselfde instruksies as in 17.1, maar bou nou ’n reghoek. As jy op die hoekpunt druk, sal dit in ’n parallelogram verander.</para>
+        <list id="id1166966516604" list-type="bulleted">
+          <item>Vergelyk nou die reghoek met die parallelogram en voltooi die tabel:</item>
+        </list>
+        <para id="id8049263">OOREENKOMSTE  </para>
+        <para id="id1166965344530">tussen reghoek en parallelogram</para>
+        <para id="id1166959248635">_____________________________________________________________________</para>
+        <para id="id1166969494751">_____________________________________________________________________</para>
+        <para id="id9068890">_____________________________________________________________________</para>
+        <para id="id8776508">_____________________________________________________________________</para>
+        <para id="id1166965186809">_____________________________________________________________________</para>
+        <para id="id6506791">VERSKILLE</para>
+        <para id="id5335966">tussen reghoek en parallelogram</para>
+        <para id="id8460383">_____________________________________________________________________</para>
+        <para id="id1166958197521">_____________________________________________________________________</para>
+        <para id="id6491716">_____________________________________________________________________</para>
+        <para id="id5420608">_____________________________________________________________________</para>
+        <para id="id3057718">_____________________________________________________________________</para>
+        <para id="id1166959478037">18. Wat noem ons hierdie meetkundige figure?</para>
+        <para id="id7595323"><figure id="id1166961260277"><media id="id1166961260277_media" alt=""><image mime-type="image/png" src="../../media/graphics21-9609.png" id="id1166961260277__onlineimage" height="112" width="85"/></media></figure>a)</para>
+        <para id="id1166962794171">__________________________________________</para>
+        <para id="id6829753">b)</para>
+        <figure id="id1166956640190">
+          <media id="id1166956640190_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics22-c9ec.png" id="id1166956640190__onlineimage" height="45" width="163"/>
+          </media>
+        </figure>
+        <para id="id1166961332762">__________________________________________</para>
+        <para id="id1166965335850">19. Deel in groepe van vier. Jul opvoeder sal julle sê wie a,b,c en d moet doen.</para>
+        <para id="id5514510">19.1 Hou ’n bespreking oor die ooreenkomste en verskille tussen:</para>
+        <para id="id1166961761652">a) ’n ruit en ’n vlieër</para>
+        <para id="id1166956608173">b) ’n trapesium en ’n parallelogram</para>
+        <para id="id2439951">c) ’n reghoek en ’n trapesium</para>
+        <para id="id3675685">d) ’n vlieër en ’n trapesium</para>
+        <para id="id1166961306770">19.2 Maak ’n plakkaat om bogenoemde te verduidelik en gee terugvoering aan die klas.</para>
+        <para id="id3547067">20. Het jy geweet?</para>
+        <para id="id7101100">In Wiskunde sê ons ’n figuur is <emphasis effect="bold">stewig</emphasis> as hy sy oorspronklike vorm behou, indien druk op een van die hoekpunte toegepas word, bv.</para>
+        <figure id="id2012524">
+          <media id="id2012524_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics23-0037.png" id="id2012524__onlineimage" height="67" width="248"/>
+          </media>
+        </figure>
+        <para id="id3093958">Nie stewig nie </para>
+        <figure id="id5172699">
+          <media id="id5172699_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics24-9acf.png" id="id5172699__onlineimage" height="55" width="108"/>
+          </media>
+        </figure>
+        <para id="id1166966533017">Stewig</para>
+        <para id="id1166961314506">20.1 Verdeel nou in pare. Gebruik koeldrankstrooitjies en bou enige stewige konstruksie. Kyk dan of julle die hoogste konstruksie in die klas kan bou!</para>
+        <para id="id3506537">20.2 LET OP!</para>
+        <para id="id1166964991418">’n Driehoek is die enigste veelhoek wat rigied / stewig is. Dit verander nie van vorm as jy op enige punt van die raam druk nie.Waar, dink jy, word driehoeke gereeld deur ingenieurs en bouers gebruik om stabiliteit te verseker? </para>
+        <para id="id1166961059287">_____________________________________________________________________</para>
+        <para id="id1166960628051">_____________________________________________________________________</para>
+        <para id="id1166966367619">_____________________________________________________________________</para>
+        <para id="id1166961480302">_____________________________________________________________________</para>
+        <para id="id1166958268025">_____________________________________________________________________</para>
+        <para id="id1166964208473">21. Tyd vir selfassessering</para>
+        <para id="id5428852"/>
+        <table id="id1166958259232" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>
+                  <list id="id8210036" list-type="bulleted">
+                    <item>Merk die toepaslike kolom.</item>
+                  </list>
+                </entry>
+                <entry>Onseker</entry>
+                <entry>Seker</entry>
+              </row>
+              <row>
+                <entry>Ek kan verduidelik wat die volgende is:</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1166966315163" list-type="bulleted">
+                    <item>’n veelhoek</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id8629903" list-type="bulleted">
+                    <item>’n konvekse veelhoek</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id4299230" list-type="bulleted">
+                    <item>’n konkawe veelhoek</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1166959480288" list-type="bulleted">
+                    <item>’n reëlmatige veelhoek</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id6001484" list-type="bulleted">
+                    <item>’n onreëlmatige veelhoek</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek ken die formule om die hoeke van ’n reëlmatige veelhoek te bereken</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek kan ooreenkomste tussen die verskillende meetkundige vorms uitwys</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek kan die verskille tussen die verskillende meetkundige vorms uitwys</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek kan ’n stewige konstruksie m.b.v. koeldrankstrooitjies bou</entry>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id7761240">
+      <title>Assessering</title>
+      <para id="id1166968384475"><emphasis><emphasis effect="italics">Leeruitkomste 3:</emphasis></emphasis>Die leerder is in staat om eienskappe van en verwantskappe tussen twee-dimensionele vorms en drie-dimensionele voorwerpe in ‘n verskeidenheid oriëntasies en posisies te beskryf en voor te stel.</para>
+      <para id="id5777303"><emphasis><emphasis effect="italics">Assesseringstandaard 3.1:</emphasis></emphasis> Dit is duidelik wanneer die leerder meetkundige figure en drie-dimensionele voorwerpe in natuurlike en kulturele vorms en ‘n meetkundige agtergrond herken, visualiseer en benoem, insluitend dié wat vroeër behandel is;</para>
+      <para id="id1166956920508"><emphasis><emphasis effect="italics">Leeruitkomste 2:</emphasis></emphasis>Die leerder is in staat om patrone en verwantskappe te herken, te beskryf en voor te stel en probleme op te los deur algebraïese taal en vaardighede te gebruik.</para>
+      <para id="id1166959445435"><emphasis><emphasis effect="italics">Assesseringstandaard 2.3:</emphasis></emphasis> Dit is duidelik wanneer die leerder voorstellings maak van en verwantskappe tussen veranderlikes gebruik sodat inset- en/of uitsetwaardes op ‘n verskeidenheid maniere bepaal kan word.</para>
+    </section>
+  </content>
+</document>
