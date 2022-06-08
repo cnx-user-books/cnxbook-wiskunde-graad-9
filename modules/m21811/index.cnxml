@@ -1,0 +1,237 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Reghoek- en Derdemagsgetalle</title>
+  <metadata>
+  <md:content-id>m21811</md:content-id><md:title>Reghoek- en Derdemagsgetalle</md:title>
+  <md:abstract/>
+  <md:uuid>87ddb065-b99a-4ff9-a665-76c813939a2a</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1166160530742">
+      <title>WISKUNDE</title>
+      <para id="para-id1166160530742">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166183802108">
+      <title>Voorspellings, Vergelykings en Veranderlikes</title>
+      <para id="para-id1166183802108">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166157962654">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id1166157962654">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166183972376">
+      <title>Memorandum</title>
+      <para id="id1166182777549">1.  (b) kwadraatgetalle</para>
+      <para id="id4426702">2.  </para>
+      <para id="id1166184516325">(a) </para>
+      <para id="id1166172248480">(b) Nee  Nie getal se kwadraat</para>
+      <para id="id1166166704446">(c) Nee  1 + 2 + 3 + 4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 5 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ &lt;&gt; } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166163630049">3.  </para>
+      <para id="id1166171331477">(b) 64; 125; 216; 343</para>
+      <para id="id1166164431270">(c) 64</para>
+      <para id="id1166180743395">(d) 64 000</para>
+      <para id="id1166173260512">(e) 274 625</para>
+      <para id="id1166158587803">(f) K4:  + 64</para>
+      <para id="id6139638">K5:  + 64 + 125 = 225</para>
+      <para id="id7130346">(g) 1 + 8 + 27 + 64 + 125 + 216 = 441</para>
+      <para id="id1166158234194">(h) Almal kwadrate / vierkantgetalle</para>
+    </section>
+    <section id="id5847655">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id5847655">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4049424">
+      <title>Inhoud</title>
+      <para id="para-id4049424">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166160293896">
+      <title>AKTIWITEIT: Reghoek- en Derdemagsgetalle [LU 1.3.4, LU 1.7.2, LU 1.7.7, LU 2.3.1, LU 2.3.3]</title>
+      <para id="id1166167097341">1. Onthou jy nog?</para>
+      <para id="id1166170554187">In module 1 het ons geleer van vierkantgetalle en driehoekgetalle.</para>
+      <para id="id1166167525424">a) Kan jy gou aan ’n maat verduidelik hoe bogenoemde patrone lyk?</para>
+      <para id="id1166183134836">b) Wat is ’n sinoniem vir vierkantgetalle?</para>
+      <para id="id1166156997622">2. Kom ons kyk hoe lyk REGHOEKGETALLE.</para>
+      <para id="id1166165322930">Het jy geweet?</para>
+      <para id="id1166159071208">Elke telgetal groter as 0 is ’n reghoekgetal. Die Grieke het die term <emphasis effect="bold">reghoekgetalle </emphasis>gebruik slegs vir die produkte van twee opeenvolgende getalle, bv. 42 = 6 × 7.</para>
+      <para id="id1166158029146">As ons reghoekgetalle wil teken, sal dit so lyk:</para>
+      <table id="id1166158359981" summary="">
+        <tgroup cols="12">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <tbody>
+            <row>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry/>
+              <entry/>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c6">
+                <emphasis effect="bold">6 = 1 </emphasis>
+                <emphasis effect="bold">×</emphasis>
+                <emphasis effect="bold"> 6</emphasis>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry namest="c9" nameend="c11">
+                <emphasis effect="bold">6 = 2 </emphasis>
+                <emphasis effect="bold">×</emphasis>
+                <emphasis effect="bold"> 3</emphasis>
+              </entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1166180758964">a) Maak nou ’n skets van die reghoekgetal 18 op soveel verskillende maniere as moontlik.</para>
+      <para id="id1166169177444">b) Is 18 ’n vierkantgetal? _________________________ Hoekom/hoekom nie?</para>
+      <para id="id1166160490432">_____________________________________________________________________</para>
+      <para id="id1166161222870">_____________________________________________________________________</para>
+      <para id="id8050182"/>
+      <para id="id1166163194267">c) Is 18 ’n driehoekgetal? _________________________ Hoekom/hoekom nie?</para>
+      <para id="id1166161174084">_____________________________________________________________________</para>
+      <para id="id1166168242348">_____________________________________________________________________</para>
+      <para id="id1166165332699">3. Het jy geweet??</para>
+      <para id="id1166167957973">a) Ons kry ook <emphasis effect="bold">derdemagsgetalle</emphasis>!! Hierdie getalle word ook <emphasis effect="bold">kubusgetalle </emphasis>genoem. Kyk goed na die voorbeelde:</para>
+      <figure id="id1166183148908">
+        <media id="id1166183148908_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-065b.png" id="id1166183148908__onlineimage" height="45" width="51"/>
+        </media>
+      </figure>
+      <para id="id1166168236258">
+        <emphasis effect="bold">1 = 1 </emphasis>
+        <emphasis effect="bold">×</emphasis>
+        <emphasis effect="bold"> 1 </emphasis>
+        <emphasis effect="bold">×</emphasis>
+        <emphasis effect="bold"> 1 </emphasis>
+      </para>
+      <figure id="id7818035">
+        <media id="id7818035_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-0853.png" id="id7818035__onlineimage" height="83" width="94"/>
+        </media>
+      </figure>
+      <para id="id1166156923950">
+        <emphasis effect="bold">8 = 2 </emphasis>
+        <emphasis effect="bold">×</emphasis>
+        <emphasis effect="bold"> 2 </emphasis>
+        <emphasis effect="bold">×</emphasis>
+        <emphasis effect="bold"> 2 </emphasis>
+      </para>
+      <figure id="id1166173019890">
+        <media id="id1166173019890_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-fe1f.png" id="id1166173019890__onlineimage" height="102" width="126"/>
+        </media>
+      </figure>
+      <para id="id1166156939114">
+        <emphasis effect="bold">27 = 3 </emphasis>
+        <emphasis effect="bold">×</emphasis>
+        <emphasis effect="bold"> 3 </emphasis>
+        <emphasis effect="bold">×</emphasis>
+        <emphasis effect="bold"> 3 </emphasis>
+      </para>
+      <para id="id1166174408469">b) Voorspel nou wat die volgende 4 kubusgetalle sal wees (jy mag jou sakrekenaar gebruik).</para>
+      <para id="id8039009">___________________________; </para>
+      <para id="id7140458">___________________________; </para>
+      <para id="id1166158939317">___________________________; </para>
+      <para id="id1166181991510">___________________________;</para>
+      <para id="id1166184010550">c) Watter van die bogenoemde getalle is ook ’n vierkantgetal? ______________</para>
+      <para id="id1166174611092">d) Wat sal die 40ste kubusgetal wees? _______________________________</para>
+      <para id="id1166169150780">e) Hoeveel is 65<sup>³</sup> (tot die mag 3)?___________________________________</para>
+      <para id="id1166161034989">f) Kyk goed na die volgende. Kan jy die tabel voltooi?</para>
+      <table id="id7955451" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Kubus getalle</entry>
+              <entry>Som van die kubusgetalle</entry>
+            </row>
+            <row>
+              <entry>K1</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>K2</entry>
+              <entry>1 + 8 = 9</entry>
+            </row>
+            <row>
+              <entry>K3</entry>
+              <entry>1 + 8 + 27 = 36</entry>
+            </row>
+            <row>
+              <entry>K4</entry>
+              <entry>1 + 8 + 27 + ........... = 100</entry>
+            </row>
+            <row>
+              <entry>K5</entry>
+              <entry>1 + 8 + 27 + ........... + ........... = .........................</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1166173204891">g) Kan jy voorspel wat die som van die eerste 6 kubusgetalle sal wees?</para>
+      <para id="id1166161077321">_____________________________________________________________________</para>
+      <para id="id1166170537246">h) Wat merk jy op omtrent die getalle in die tweede kolom?</para>
+      <para id="id1166164739987">_____________________________________________________________________</para>
+    </section>
+    <section id="id1166171384042">
+      <title>Assessering</title>
+      <para id="id1166156998834"><emphasis><emphasis effect="italics">Leeruitkomste 1:</emphasis></emphasis>Die leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</para>
+      <para id="id1166171298163"><emphasis><emphasis effect="italics">Assesseringstandaard 1.3:</emphasis></emphasis> Dit is duidelik wanneer die leerder die volgende getalle herken, klassifiseer en voorstel sodat dit beskryf en vergelyk kan word:</para>
+      <para id="id1166164717982"><emphasis>1.3.4: </emphasis>getalle in eksponensiële vorm, insluitend kwadrate van natuurlike getalle tot minstens 12<sup>²</sup>, natuurlike getalle tot die derde mag tot minstens 5<sup>³</sup>, asook die vierkants- en derdemagswortels van hierdie getalle;</para>
+      <para id="id1166165339107"><emphasis><emphasis effect="italics">Assesseringstandaard 1.7:</emphasis></emphasis> Dit is duidelik wanneer die leerder skat en bereken deur geskikte bewerkings vir probleme wat die volgende behels, te kies en te gebruik:</para>
+      <para id="id1166159087371"><emphasis>1.7.2: </emphasis>veelvoudige bewerkings met heelgetalle;</para>
+      <para id="id1166160505365"><emphasis>1.7.7: </emphasis>eksponente;</para>
+      <para id="id1166169174196"><emphasis><emphasis effect="italics">Leeruitkomste 2:</emphasis></emphasis>Die leerder is in staat om patrone en verwantskappe te herken, te beskryf en voor te stel en probleme op te los deur algebraïese taal en vaardighede te gebruik.</para>
+      <para id="id7244996"><emphasis><emphasis effect="italics">Assesseringstandaard 2.3:</emphasis></emphasis> Dit is duidelik wanneer die leerder voorstellings maak van en verwantskappe tussen veranderlikes gebruik sodat inset- en/of uitsetwaardes op ‘n verskeidenheid maniere bepaal kan word deur die gebruik van:</para>
+      <para id="id1166182352507"><emphasis>2.3.1: </emphasis>woordelikse beskrywings;</para>
+      <para id="id3813030"><emphasis>2.3.3: </emphasis>tabelle.</para>
+    </section>
+  </content>
+</document>

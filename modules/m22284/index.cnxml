@@ -1,0 +1,453 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Waarskynlikheid</title>
+  <metadata>
+  <md:content-id>m22284</md:content-id><md:title>Waarskynlikheid</md:title>
+  <md:abstract/>
+  <md:uuid>34b0c7b3-bce1-45dd-b047-4fec1cc90702</md:uuid>
+</metadata>
+
+<content>
+    <section id="id7505597">
+      <title>WISKUNDE</title>
+      <para id="para-id7505597">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8471300">
+      <title>Nog Meetkunde, Datahantering en Waarskynlikheid</title>
+      <para id="para-id8471300">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4871165">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id4871165">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166457789532">
+      <title>Memorandum</title>
+      <para id="id8830014">20.3 (a) (i) ‘n half (een uit 2) </para>
+      <para id="id7464674"> (ii) ‘n half (een uit 2) </para>
+      <para id="id1166460088713"> (c) ‘n kwart (een uit 4) </para>
+      <para id="id2091945"> (d) 2 uit 21 </para>
+      <para id="id1166459138705">20.4 (a) een sesde (een uit 6) </para>
+      <para id="id6475075">20.5 ses uit 36 (een sesde) </para>
+      <para id="id4842820">22. KLAAR MET GRAAD SEWE SE WISKUNDE! </para>
+      <para id="id1166459262138">MODULETOETS 9</para>
+      <para id="id4425628">1. Kontroleer leerder se poging. </para>
+      <para id="id1166459020948">2. gly </para>
+      <para id="id5209016">3. (a) Net ‘n deel van die groep is ondervra om inligting te kry. </para>
+      <para id="id1166459392217">(b) Gaan oor moontlikheid dat iets sal gebeur of nie. </para>
+      <para id="id1166459021420">4. (a) 10</para>
+      <para id="id1166458194702"> (b) 10</para>
+      <para id="id1166462326172"> (c) 10,6</para>
+      <para id="id7618788">5. (a) prentgrafiek / pictogram </para>
+      <para id="id1166462562007">(b) Leerders is 6 jaar en ouer in Gr.1. / Niemand jonger as 6 jaar in die skool nie. </para>
+      <para id="id1166459278285">(c) 110</para>
+      <para id="id1166459401800">(d) 30</para>
+      <para id="id2629703">(e) 680</para>
+      <para id="id1166457975460">6.</para>
+      <para id="id4644988">7.4 4 uit 32 (een agste) </para>
+    </section>
+    <section id="id1166459304730">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id1166459304730">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166462337068">
+      <title>Inhoud</title>
+      <para id="para-id1166462337068">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1372795">
+      <title>AKTIWITEIT: Waarskynlikheid [LU 5.10, LU 5.9]</title>
+      <para id="id4722870">20. WAARSKYNLIKHEID</para>
+      <para id="id8511253">20.1 Klasbespreking</para>
+      <para id="id6778514">a) Wat is die kans dat jy Graad 7 sal slaag?</para>
+      <para id="id4445865">b) Wat is die kanse dat dit vandag sal reën?</para>
+      <para id="id6667112">c) Wat is jul sportspan (enige sport) se kans om die volgende wedstryd te wen?</para>
+      <para id="id1166462350902">d) Wat is jou kans om die Lotto te wen?</para>
+      <para id="id7198254">e) Wat is die kans dat jy eendag op die maan sal loop?</para>
+      <para id="id5013090">20.2.1 Het jy geweet?</para>
+      <para id="id1166462547443">In bogenoemde gevalle het jul eintlik geskat wat die <emphasis effect="bold">waarskynlikheid</emphasis> is dat iets sal gebeur of nie sal gebeur nie.</para>
+      <para id="id4643656">20.2.2 Het jy ook geweet?</para>
+      <para id="id4545017"><emphasis effect="bold">Waarskynlikheid</emphasis> strek vanaf “<emphasis effect="bold">geen kans</emphasis>” dat iets sal gebeur nie tot “<emphasis effect="bold">dit sal beslis gebeur</emphasis>”.</para>
+      <para id="id7635654">’n Waarskynlikheid van <emphasis effect="bold">0</emphasis> beteken dat die gebeurtenis <emphasis effect="bold">nooit</emphasis> sal plaasvind nie.</para>
+      <para id="id1166459108341">’n Waarskynlikheid van <emphasis effect="bold">1</emphasis> beteken die gebeurtenis sal <emphasis effect="bold">beslis</emphasis> plaasvind.</para>
+      <para id="id1166458931677">20.2.3 BELANGRIK om te WEET:</para>
+      <para id="id6790947">Die waarskynlikheid dat iets sal plaasvind, is:</para>
+    </section>
+    <section id="id1166458973037">
+      <title>Die aantal kere wat dit kan plaasvind</title>
+      <para id="id5236395">Totale aantal moontlikhede</para>
+      <para id="id7567244">Hoe nader jou antwoord aan 1 is, hoe groter is die waarskynlikheid dat die gebeurtenis sal plaasvind.</para>
+      <para id="id1166459391263">20.3 Werk saam met ’n maat en beantwoord die volgende vrae:</para>
+      <para id="id8484093">a) Jy skiet ’n munstuk in die lug op. Wat is die waarskynlikheid dat dit sal val met:</para>
+      <para id="id4765986">i) munt bo? ________________________</para>
+      <para id="id8148749">ii) kruis bo? _________________________</para>
+      <para id="id7227814">b) Skiet ’n munstuk 50 keer in die lug op. Jou maat kan jou help rekord hou van watter kant elke keer bo land. </para>
+      <para id="id1166462359412">i) Voltooi die tabel</para>
+      <table id="id1166462485834" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entrytbl cols="1">
+                <colspec colnum="1" colname="c1"/>
+                <tbody>
+                  <row>
+                    <entry/>
+                  </row>
+                  <row>
+                    <entry/>
+                  </row>
+                </tbody>
+              </entrytbl>
+              <entry>Munt</entry>
+              <entry>Kruis</entry>
+              <entrytbl namest="c4" nameend="c5" cols="2">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <tbody>
+                  <row>
+                    <entry namest="c1" nameend="c2">Waarskynlikheid</entry>
+                  </row>
+                  <row>
+                    <entry>Munt</entry>
+                    <entry>Kruis</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry>Bv.</entry>
+              <entry>4</entry>
+              <entry>6</entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>4</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>10</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{4} }  over  { size 8{"10"} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>6</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>10</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{6} }  over  { size 8{"10"} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+            </row>
+            <row>
+              <entry>Eerste 10 gooie:</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+            </row>
+            <row>
+              <entry>Tweede 10 gooie:</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+            </row>
+            <row>
+              <entry>Derde 10 gooie:</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+            </row>
+            <row>
+              <entry>Vierde 10 gooie:</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+            </row>
+            <row>
+              <entry>Vyfde 10 gooie:</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1166459289702">ii) Wat is die gemiddelde van jou gooie vir:</para>
+      <para id="id4551888">a) munt: _______________________</para>
+      <para id="id1166459015186">a) kruis: ________________________</para>
+      <para id="id6989401">c) Wat is die waarskynlikheid dat beide muntstukke met die muntkant bo sal val as jy twee munte gelyktydig opskiet?</para>
+      <para id="id6879543">_____________________________________________________________________</para>
+      <para id="id1166458112790">d) ’n Deelnemer aan die Lotto moet ’n blou bal uit die houer haal om ’n prys te wen. As daar 19 pienk balle en 2 blou balle in die houer is, wat is die waarskynlikheid dat die deelnemer ’n prys sal wen?</para>
+      <para id="id1166462337354">_____________________________________________________________________</para>
+      <para id="id1166459022994">20.4 Werk nou op jou eie. Jy benodig ’n dobbelsteen.</para>
+      <para id="id5410255">a) Wat is die waarskynlikheid dat ’n dobbelsteen met die 3 na bo sal val as jy dit gooi? _____________________________________________________________________</para>
+      <para id="id5393931">b) Gooi nou die dobbelsteen 15 keer. Teken die aantal kere wat die 3 bo lê as die dobbelsteen val, aan (maak ’n regmerkie).</para>
+      <para id="id1166457789538">Skryf jou antwoord as ’n breuk met noemer 15. _____________________________________________________________________</para>
+      <para id="id1166459360678">Is jou antwoord na aan een sesde? (gebruik jou sakrekenaar) ___________________</para>
+      <para id="id6757014">Kan jy dit verklaar? __________________________________________________</para>
+      <para id="id1166460198643">_____________________________________________________________________</para>
+      <para id="id1166462362092">20.5 Het jy geweet?</para>
+      <para id="id7362549">Dit sou blote toeval wees, indien jy ’n waarskynlikheid van een sesde hierbo gekry het! Die <emphasis effect="bold">eksperimentele waarskynlikheid</emphasis> is gebaseer op dit wat jy werklik gedoen het. Die <emphasis effect="bold">teoretiese waarskynlikheid</emphasis> is net ’n poging om te voorspel wat sal gebeur.</para>
+      <para id="id8900184">Hoe meer kere jy die dobbelsteen gooi, hoe nader behoort die praktiese en teoretiese waarskynlikheid aan mekaar te wees.</para>
+      <para id="id1166459372702">20.6 BRAINTEASER</para>
+      <list id="id7562298" list-type="bulleted">
+        <item>What is the probability that you will get 7, if you throw two dice at the same time and add the numbers that are showing upwards?</item>
+      </list>
+      <para id="id1166462600238">_____________________________________________________________________</para>
+      <para id="id7724218">_____________________________________________________________________</para>
+      <para id="id1166459302144">21. Tyd vir selfassessering</para>
+      <table id="id9019383" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>
+                <list id="id1166460174682" list-type="bulleted">
+                  <item>Kleur die gesiggie in wat waar is van jou:</item>
+                </list>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Ek kan die begrip “waarskynlikheid” verduidelik</entry>
+              <entry>
+                <media id="id1166462391467" alt="">
+                  <image mime-type="image/png" src="../../media/graphics1-e20c.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id1166458937750" alt="">
+                  <image mime-type="image/png" src="../../media/graphics2-1bea.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id4506224" alt="">
+                  <image mime-type="image/png" src="../../media/graphics3-2974.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry>Ek weet wat ’n waarskynlikheid van 0 beteken</entry>
+              <entry>
+                <media id="id7049794" alt="">
+                  <image mime-type="image/png" src="../../media/graphics4-e20c.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id8828850" alt="">
+                  <image mime-type="image/png" src="../../media/graphics5-1bea.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id3195510" alt="">
+                  <image mime-type="image/png" src="../../media/graphics6-2974.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry>Ek weet wat ’n waarskynlikheid van 1 beteken</entry>
+              <entry>
+                <media id="id8281964" alt="">
+                  <image mime-type="image/png" src="../../media/graphics7-e20c.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id3815164" alt="">
+                  <image mime-type="image/png" src="../../media/graphics8-1bea.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id5141662" alt="">
+                  <image mime-type="image/png" src="../../media/graphics9-2974.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry>Ek weet wat die “formule” is om waarskynlikheid te bepaal</entry>
+              <entry>
+                <media id="id7447377" alt="">
+                  <image mime-type="image/png" src="../../media/graphics10-e20c.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id1347946" alt="">
+                  <image mime-type="image/png" src="../../media/graphics11-1bea.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id8263762" alt="">
+                  <image mime-type="image/png" src="../../media/graphics12-2974.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry>Ek kon die waarskynlikheid in die gegewe vrae hierbo korrek bereken</entry>
+              <entry>
+                <media id="id1166458915774" alt="">
+                  <image mime-type="image/png" src="../../media/graphics13-e20c.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id2797445" alt="">
+                  <image mime-type="image/png" src="../../media/graphics14-1bea.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id6771046" alt="">
+                  <image mime-type="image/png" src="../../media/graphics15-2974.png"/>
+                </media>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1166459304440">22. Vir die PRET!</para>
+      <list id="id6527383" list-type="bulleted">
+        <item>Gebruik die gegewe koördinate en ontsyfer die kode!</item>
+      </list>
+      <para id="id5551903">(9,9) (9,2) (1,10) (1,10) (3,2)  (1,0) (6,10) (2,6)</para>
+      <para id="id1166458202522">............................................ .........................</para>
+      <para id="id6741037">(4,1) (3,2) (1,10) (1,10) (5,8)  (8,5) (6,10) (1,2) (6,10)</para>
+      <para id="id5339369">............................................ ......................................</para>
+      <para id="id1166459048667">(8,5) (6,10) (1,2) (1,8) (8,5) (9,9) (3,8) (9,1) (5,8) (6,10)!!</para>
+      <para id="id1166462454305">................. ......................................................................!!</para>
+      <figure id="id1166462501975">
+        <media id="id1166462501975_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics16-07de.png" id="id1166462501975__onlineimage" height="257" width="257"/>
+        </media>
+      </figure>
+      <section id="id7376046">
+        <title>Assessering</title>
+        <para id="id1166460070963"><emphasis>Leeruitkomste 5:</emphasis>Die leerder is in staat om data te versamel, op te som, voor te stel en krities te ontleed om gevolgtrekkings en voorspellings te maak en om toevallige variasie te interpreteer en te bepaal.</para>
+        <para id="id1166459390900"><emphasis>Assesseringstandaard 5.9:</emphasis> Dit is duidelik wanneer die leerder data wat op verskeie maniere voorgestel is krities lees en interpreteer ten einde gevolgtrekkings en voorspellings te maak wat sensitief is</para>
+        <para id="id8990839"><emphasis>Assesseringstandaard 5.10:</emphasis> Dit is duidelik wanneer die leerder eenvoudige eksperimente uitvoer waarvan die moontlike uitkomste ewe waarskynlik is.</para>
+      </section>
+      <section id="id7156352">
+        <title>MODULE TOETS</title>
+        <para id="id7601194">1. <emphasis effect="bold">Verklein die padda tot ’n skaal 2:1.</emphasis></para>
+        <figure id="id6979342">
+          <media id="id6979342_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics17-cd04.png" id="id6979342__onlineimage" height="314" width="523"/>
+          </media>
+        </figure>
+        <para id="id6950980">(3)</para>
+        <para id="id4863247">2. <emphasis effect="bold">Watter soort transformasie is in die volgende figuur gebruik?</emphasis></para>
+        <figure id="id1166459386184">
+          <media id="id1166459386184_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics18-90d5.png" id="id1166459386184__onlineimage" height="107" width="68"/>
+          </media>
+        </figure>
+        <para id="id6530339">_____________________________________________</para>
+        <para id="id8803354">(1)</para>
+        <para id="id7577719">3. <emphasis effect="bold">Verduidelik die volgende begrippe:</emphasis></para>
+        <para id="id3134592">a) steekproef: ____________________________________________________</para>
+        <para id="id8938792">_____________________________________________________________________</para>
+        <para id="id1166458990733">_____________________________________________________________________</para>
+        <para id="id1166458085653">(2)</para>
+        <para id="id1166460527361">b) waarskynlikheid: ________________________________________________</para>
+        <para id="id8655086">_____________________________________________________________________</para>
+        <para id="id1166459075257">_____________________________________________________________________</para>
+        <para id="id1166460196137">(2)</para>
+        <para id="id1166459029880">4. <emphasis effect="bold">Kyk na die volgende:</emphasis></para>
+        <para id="id1166458288090">’n Groep leerders se punte uit 15 was soos volg:</para>
+        <para id="id1166462379717">6; 11 ; 12 ; 15 ; 9 ; 10 ; 10 ; 10 ; 8 ; 15</para>
+        <para id="id2977236">a) Bereken die modus: _____________________________________________</para>
+        <para id="id7634813">_____________________________________________________________________</para>
+        <para id="id7255413">_____________________________________________________________________</para>
+        <para id="id1166459385313">(2)</para>
+        <para id="id1166460010931">b) Bereken die mediaan: _____________________________________________</para>
+        <para id="id7201732">_____________________________________________________________________</para>
+        <para id="id6801638">_____________________________________________________________________</para>
+        <para id="id1166457849459">(2)</para>
+        <para id="id1166462656437">c) Bereken die rekenkundige gemiddelde:______________________________</para>
+        <para id="id3306072">_____________________________________________________________________</para>
+        <para id="id7203121">_____________________________________________________________________</para>
+        <para id="id7595198">(2)</para>
+        <para id="id6796348">5. <emphasis effect="bold">Kyk na die grafiek en beantwoord die volgende vrae:</emphasis></para>
+        <figure id="id1166460161009">
+          <media id="id1166460161009_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics19-e323.png" id="id1166460161009__onlineimage" height="339" width="227"/>
+          </media>
+        </figure>
+        <para id="id1166460167748">a) Wat word hierdie soort grafiek genoem?</para>
+        <para id="id4106768">_____________________________________________________________________</para>
+        <para id="id1166462604351">(1)</para>
+        <para id="id5347213">b) Waarom “spring” die grafiek van 0 na 6?</para>
+        <para id="id1166459301738">_____________________________________________________________________</para>
+        <para id="id6667136">_____________________________________________________________________</para>
+        <para id="id8663072">(1)</para>
+        <para id="id1166459040647">c) Hoeveel leerders is 7 jaar oud?</para>
+        <para id="id1166458259805">_____________________________________________________________________</para>
+        <para id="id5017120">(1)</para>
+        <para id="id5151286">d) Hoeveel meer leerders is 9 jaar oud as 12 jaar oud?</para>
+        <para id="id5716348">_____________________________________________________________________</para>
+        <para id="id1166459001479">(1)</para>
+        <para id="id1166459000311">e) Hoeveel leerders is daar altesaam in die skool?</para>
+        <para id="id7613787">_____________________________________________________________________</para>
+        <para id="id8597198">(1)</para>
+        <para id="id7337783">6. <emphasis effect="bold">Stel die inligting soos gegee by nr. 4 op ’n lyngrafiek voor.</emphasis></para>
+        <para id="id3241984">(3)</para>
+        <para id="id8138895">7. Wat is die waarskynlikheid dat jy ’n swart bal sal uithaal in ’n houer met 12 rooi, 6 groen, 4 swart, 2 geel en 8 blou balle?</para>
+        <para id="id7203482">_____________________________________________________________________</para>
+        <para id="id1166460313316">_____________________________________________________________________</para>
+        <para id="id7128361">_____________________________________________________________________</para>
+        <para id="id2704718">_____________________________________________________________________</para>
+        <para id="id1166456052800">(2)</para>
+      </section>
+    </section>
+  </content>
+</document>

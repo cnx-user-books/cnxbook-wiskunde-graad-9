@@ -1,0 +1,382 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Data en statistiek</title>
+  <metadata>
+  <md:content-id>m22286</md:content-id><md:title>Data en statistiek</md:title>
+  <md:abstract/>
+  <md:uuid>5ac0e805-e50b-4ea6-88ca-d1065b95b649</md:uuid>
+</metadata>
+
+<content>
+    <section id="id5036762">
+      <title>WISKUNDE</title>
+      <para id="para-id5036762">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5505243">
+      <title>Nog Meetkunde, Datahantering en Waarskynlikheid</title>
+      <para id="para-id5505243">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5754799">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id5754799">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5249042">
+      <title>Memorandum</title>
+      <para id="id3957279">10.2.2 (a) 60</para>
+      <para id="id2469330"> (c) 17</para>
+      <para id="id5381120">  33</para>
+      <para id="id2796868">  16</para>
+      <para id="id6328505">  5</para>
+      <para id="id4308883">  24</para>
+      <para id="id4846922">10.2.6   </para>
+      <table id="id5854773" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>llll</entry>
+              <entry/>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>_</entry>
+              <entry>llll</entry>
+              <entry>lll</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>llll</entry>
+              <entry/>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>_</entry>
+              <entry>llll</entry>
+              <entry>l</entry>
+              <entry>6</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>ll</entry>
+              <entry/>
+              <entry>2</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id5876313">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id5876313">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4317125">
+      <title>Inhoud</title>
+      <section id="id1617966">
+        <title>AKTIWITEIT: Data en statistiek [LU 5.7, LU 5.9, LU 5.5]</title>
+        <para id="id2453092">9 DATA EN STATISTIEK</para>
+        <para id="id6280997">9.1 Klas bespreking</para>
+        <list id="id4644450" list-type="bulleted">
+          <item>Presies wat is “data” en “statistiek”?</item>
+          <item>Waarvoor gebruik ons dit?</item>
+          <item>Waar kry ons die inliging?</item>
+          <item>Hoe kan ons die inligting wat bekom is, voorstel?</item>
+        </list>
+        <para id="id5530974">9.2 Nog iets om te bespreek</para>
+        <list id="id3572000" list-type="bulleted">
+          <item>Verdeel in groepe van 3. Hoe sou julle die volgende vrae kan beantwoord?</item>
+        </list>
+        <para id="id5250260">a) Wat is die gemiddelde lengte van ’n seun in gr. 7 in Suid-Afrika?</para>
+        <para id="id2588536">b) Na watter TV-program kyk gr. 7-dogters in Suid-Afrika die graagste?</para>
+        <para id="id5505521">c) Watter soort aartappelskyfies is Suid-Afrikaners se gunsteling?</para>
+        <para id="id4107530">d) Hoeveel leerders in die Wes-Kaap speel tennis?</para>
+        <para id="id4300354">e) Wat is die gemiddelde massa van die gr. 7-opvoeders in jul skool?</para>
+        <para id="id855582">f) Wat is die gemiddelde ouderdom van die gr. 7-leerders in jul skool?</para>
+        <para id="id2873518">10. TEL EN GROEPERING VAN DATA</para>
+        <para id="id4030799">10.1.1 Het jy geweet?</para>
+        <para id="id5806625">Soms is dit baie moeilik om inligting te kry van die <emphasis effect="bold">hele</emphasis> groep wat jy moes ondervra (sien bv. 9.2 (c) hierbo) Daarom word daar dikwels net ’n <emphasis effect="bold">deel</emphasis> van die groep ondervra. Ons noem dit ’n <emphasis effect="bold">steekproef</emphasis> of ’n steekproeftrekking.</para>
+        <para id="id5249646">As jy ’n <emphasis effect="bold">steekproef</emphasis> maak, moet dit egter <emphasis effect="bold">verteenwoordigend</emphasis> wees:</para>
+        <list id="id4613447" list-type="bulleted">
+          <item>Jy moet <emphasis effect="italics">genoeg</emphasis> mense ondervra</item>
+          <item>Jy moet ’n <emphasis effect="italics">goeie verskeidenheid</emphasis> mense ondervra (ouderdom, geslag, ens.)</item>
+        </list>
+        <para id="id4136822">10.1.2 Klasbespreking:</para>
+        <list id="id5305989" list-type="bulleted">
+          <item>Wie en hoeveel van hulle sal julle in ’n steekproef ondervra om die volgende uit te vind? Onthou: julle wil realistiese antwoorde hê!</item>
+        </list>
+        <para id="id6248430">a) Wat die gunsteling sportsoort vir meisies in julle skool is;</para>
+        <para id="id6119136">b) Wat Afrikaanssprekende Suid-Afrikaners se gunsteling tydskrif is;</para>
+        <para id="id4247150">c) Wat die mees algemene siekte/kwaal is waaraan persone ouer as 50 jaar in Suid-Afrika ly.</para>
+        <para id="id6298464">10.2.1 Kyk na die volgende data wat tydens ’n steekproef ingesamel is. Dit dui die ouderdomme van sekretaresses aan:</para>
+        <table id="id2458498" summary="">
+          <tgroup cols="12">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <tbody>
+              <row>
+                <entry>32</entry>
+                <entry>24</entry>
+                <entry>25</entry>
+                <entry>18</entry>
+                <entry>23</entry>
+                <entry>25</entry>
+                <entry>26</entry>
+                <entry>19</entry>
+                <entry>33</entry>
+                <entry>30</entry>
+                <entry>21</entry>
+                <entry>24</entry>
+              </row>
+              <row>
+                <entry>23</entry>
+                <entry>23</entry>
+                <entry>26</entry>
+                <entry>25</entry>
+                <entry>22</entry>
+                <entry>21</entry>
+                <entry>24</entry>
+                <entry>18</entry>
+                <entry>18</entry>
+                <entry>22</entry>
+                <entry>20</entry>
+                <entry>18</entry>
+              </row>
+              <row>
+                <entry>19</entry>
+                <entry>32</entry>
+                <entry>30</entry>
+                <entry>22</entry>
+                <entry>21</entry>
+                <entry>20</entry>
+                <entry>20</entry>
+                <entry>20</entry>
+                <entry>22</entry>
+                <entry>23</entry>
+                <entry>21</entry>
+                <entry>24</entry>
+              </row>
+              <row>
+                <entry>26</entry>
+                <entry>28</entry>
+                <entry>29</entry>
+                <entry>24</entry>
+                <entry>23</entry>
+                <entry>21</entry>
+                <entry>18</entry>
+                <entry>24</entry>
+                <entry>23</entry>
+                <entry>27</entry>
+                <entry>26</entry>
+                <entry>29</entry>
+              </row>
+              <row>
+                <entry>24</entry>
+                <entry>19</entry>
+                <entry>20</entry>
+                <entry>25</entry>
+                <entry>29</entry>
+                <entry>26</entry>
+                <entry>24</entry>
+                <entry>18</entry>
+                <entry>28</entry>
+                <entry>17</entry>
+                <entry>25</entry>
+                <entry>22</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id4775564">10.2.2 Beantwoord die volgende vrae:</para>
+        <para id="id6137708">a) Hoeveel sekretaresses is in die steekproef ondervra?</para>
+        <para id="id3509779">b) Werk saam met ’n maat. Hoe kan julle die inligting sinvol organiseer/ groepeer? Gee terugvoering aan die klas!</para>
+        <para id="id4037133">c) Voltooi: </para>
+        <list id="id3593510" list-type="bulleted">
+          <item>die jongste sekretaresse is __________________________________ jaar oud.</item>
+          <item>die oudste sekretaresse is ____________________________________ jaar oud.</item>
+          <item>verskil tussen die oudste en jongste sekretaresse is _____ jaar.</item>
+          <item>________________________________________ sekretaresses is mondig.</item>
+          <item>die grootste aantal sekretaresses met dieselfde ouderdom is _____ jaar oud.</item>
+        </list>
+        <para id="id4762540">10.2.3 Het jy geweet?</para>
+        <para id="id4720193">Een manier om inligting te organiseer, is deur middel van ’n “<emphasis effect="bold">stingel-en-blaar</emphasis>”-diagram.</para>
+        <table id="id6166963" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Stingel</entry>
+                <entry>Blaar</entry>
+              </row>
+              <row>
+                <entry>(tiene)</entry>
+                <entry>(ene)</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>2 ; 3; 0 ; ens.</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>8 ; 9 ; 8 ; 8 ; ens.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5268477">Die eerste ry is dus 32 ; 33 ; 30 ; ens.</para>
+        <para id="id4243430">10.2.4 Kry die massa van 15 van jou klasmaats. Stel die data voor deur middel van ’n stingel-en-blaar-diagram.</para>
+        <para id="id5054498">10.2.5 Het jy ook geweet?</para>
+        <para id="id2959485">Jy kan die data tel deur strepies te trek en ’n kerfstok-tabel op te stel. Elke vyfde strepie kruis die vorige 4. Die getalle sal dus so lyk:</para>
+        <para id="id4295465">een: I</para>
+        <para id="id4321982">twee: II</para>
+        <para id="id2439518">drie: III</para>
+        <para id="id6127592">vier: IIII</para>
+        <para id="id4654508">vyf: IIII</para>
+        <para id="id1659457">10.2.3 Gebruik die onderstaande inligting in verband met Gr. 7-dogters se punte uit 30 en voltooi die tabel:</para>
+        <table id="id6586783" summary="">
+          <tgroup cols="15">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <colspec colnum="13" colname="c13"/>
+            <colspec colnum="14" colname="c14"/>
+            <colspec colnum="15" colname="c15"/>
+            <tbody>
+              <row>
+                <entry>24</entry>
+                <entry>28</entry>
+                <entry>26</entry>
+                <entry>24</entry>
+                <entry>24</entry>
+                <entry>26</entry>
+                <entry>22</entry>
+                <entry>20</entry>
+                <entry>24</entry>
+                <entry>26</entry>
+                <entry>28</entry>
+                <entry>28</entry>
+                <entry>24</entry>
+                <entry>18</entry>
+                <entry>20</entry>
+              </row>
+              <row>
+                <entry>22</entry>
+                <entry>22</entry>
+                <entry>24</entry>
+                <entry>20</entry>
+                <entry>20</entry>
+                <entry>26</entry>
+                <entry>28</entry>
+                <entry>30</entry>
+                <entry>28</entry>
+                <entry>30</entry>
+                <entry>28</entry>
+                <entry>24</entry>
+                <entry>24</entry>
+                <entry>22</entry>
+                <entry>16</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id3418494" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Punt</entry>
+                <entry>“Kerfstok”</entry>
+                <entry>Totaal</entry>
+              </row>
+              <row>
+                <entry>16</entry>
+                <entry>I</entry>
+                <entry>1</entry>
+              </row>
+              <row>
+                <entry>18</entry>
+                <entry>I</entry>
+                <entry>1</entry>
+              </row>
+              <row>
+                <entry>20</entry>
+                <entry>III</entry>
+                <entry>__________</entry>
+              </row>
+              <row>
+                <entry>22</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+              <row>
+                <entry>24</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+              <row>
+                <entry>26</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+              <row>
+                <entry>28</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+              <row>
+                <entry>30</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id5186014">
+      <title>Assessering</title>
+      <para id="id3586420"><emphasis><emphasis effect="italics">Leeruitkomste 5:</emphasis></emphasis>Die leerder is in staat om data te versamel, op te som, voor te stel en krities te ontleed om gevolgtrekkings en voorspellings te maak en om toevallige variasie te interpreteer en te bepaal.</para>
+      <para id="id5030861"><emphasis><emphasis effect="italics">Assesseringstandaard 5.5:</emphasis></emphasis> Dit is duidelik wanneer die leerder data organiseer (en groepeer ook, waar gepas) en aanteken deur tellings, tabelle en stam-en-blaar-voorstellings te gebruik;</para>
+      <para id="id3354602"><emphasis><emphasis effect="italics">Assesseringstandaard 5.7:</emphasis></emphasis> Dit is duidelik wanneer die leerder die grootste en kleinste telling in ‘n datastel identifiseer en die verskil tussen hierdie tellings bepaal ten einde die verspreiding van die data (omvang) te bepaal;</para>
+      <para id="id3226064"><emphasis><emphasis effect="italics">Assesseringstandaard 5.9:</emphasis></emphasis> Dit is duidelik wanneer die leerder data wat op verskeie maniere voorgestel is krities lees en interpreteer ten einde gevolgtrekkings en voorspellings te maak wat sensitief is.</para>
+    </section>
+  </content>
+</document>

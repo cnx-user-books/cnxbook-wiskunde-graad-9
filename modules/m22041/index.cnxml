@@ -1,0 +1,123 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Getallepatrone (Driehoekgetalle)</title>
+  <metadata>
+  <md:content-id>m22041</md:content-id><md:title>Getallepatrone (Driehoekgetalle)</md:title>
+  <md:abstract/>
+  <md:uuid>5ae4868d-90e0-43a9-acfb-0252cf8d68ed</md:uuid>
+</metadata>
+
+<content>
+    <section id="id6391009">
+      <title>WISKUNDE</title>
+      <para id="para-id6391009">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5389139">
+      <title>Getalpatrone</title>
+      <para id="para-id5389139">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6270225">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id6270225">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3458774">
+      <title>Memorandum</title>
+      <para id="id8513759">7.</para>
+      <para id="id2701814">a) 1; 3; 6; 10</para>
+      <figure id="id8235610">
+        <media id="id8235610_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-669a.jpg" id="id8235610__onlineimage" height="121" width="368"/>
+        </media>
+      </figure>
+      <para id="id7822167">b). </para>
+      <para id="id6389543">c) Skets 5: 15</para>
+      <para id="id6399776">Skets 6: 21</para>
+      <para id="id6463273">10 x (10 +1) ÷ 2</para>
+      <para id="id6203730">= 55</para>
+      <para id="id2962456">25 x (25 + 1) ÷ 2</para>
+      <para id="id6244404">= 325</para>
+    </section>
+    <section id="id3371442">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id3371442">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3360251">
+      <title>Inhoud</title>
+      <section id="id2460391">
+        <title>AKTIWITEIT: Getallepatrone (Driehoekgetalle) [LO 2.3] </title>
+        <para id="id6297894"><emphasis effect="bold">7.</emphasis> Kom ons ondersoek ook DRIEHOEKGETALLE.</para>
+        <list id="id8205632" list-type="bulleted">
+          <item>Kyk goed na die volgende:</item>
+        </list>
+        <figure id="id6231218">
+          <media id="id6231218_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics2-4574.jpg" id="id6231218__onlineimage" height="137" width="562"/>
+          </media>
+        </figure>
+        <para id="id3286520">a) Voltooi nou die tabel:</para>
+        <table id="id6195230" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>Skets</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Aantal driehoeke</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6374267">b) Teken nou skets 5 en 6 en vul die tabel verder in.</para>
+        <section id="id6332210">
+          <title>c. Let op?</title>
+          <para id="id2784759">Ons kan die volgende formule gebruik om die aantal driehoeke in elke skets te bepaal:</para>
+          <figure id="id2841412">
+            <media id="id2841412_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics3-aa3c.png" id="id2841412__onlineimage" height="140" width="300"/>
+            </media>
+          </figure>
+          <para id="id4351812">Bv. Skets 5 (S<sub>5</sub>) = 5 × (5 + 1) ÷ 2 = 15</para>
+          <para id="id2994505">(i) Gebruik die formule en bepaal: (gebruik jou sakrekenaar, indien nodig)</para>
+          <para id="id7822988">_____________________________________________________________________</para>
+          <para id="id6382973">_____________________________________________________________________</para>
+          <list id="id3452310" list-type="bulleted">
+            <item>die 10de driehoekgetal __________________________________________</item>
+            <item>die 25ste driehoekgetal __________________________________________</item>
+          </list>
+        </section>
+      </section>
+    </section>
+    <section id="id7820177">
+      <title>Assessering</title>
+      <para id="id3452194"><emphasis><emphasis effect="italics">Leeruitkomste 2:</emphasis></emphasis>Die leerder is in staat om patrone en verwantskappe te herken, te beskryf en voor te stel en probleme op te los deur algebraïese taal en vaardighede te gebruik.</para>
+      <para id="id3452161"><emphasis><emphasis effect="italics">Assesseringstandaard 2.3:</emphasis></emphasis> Dit is duidelik wanneer die leerder voorstellings maak van en verwantskappe tussen veranderlikes gebruik sodat inset- en/of uitsetwaardes op ‘n verskeidenheid maniere bepaal kan word deur die gebruik van:</para>
+      <para id="id6277773"><emphasis effect="bold">2.3.3:</emphasis> tabelle.</para>
+    </section>
+  </content>
+</document>

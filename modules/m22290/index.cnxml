@@ -1,0 +1,91 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Modus, mediaan en rekenkundige gemiddelde</title>
+  <metadata>
+  <md:content-id>m22290</md:content-id><md:title>Modus, mediaan en rekenkundige gemiddelde</md:title>
+  <md:abstract/>
+  <md:uuid>112b9be8-e0cc-4925-9201-cabec58a5629</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1163897720537">
+      <title>WISKUNDE</title>
+      <para id="para-id1163897720537">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1163903600126">
+      <title>Nog Meetkunde, Datahantering en Waarskynlikheid</title>
+      <para id="para-id1163903600126">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1163897720220">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id1163897720220">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1163897567181">
+      <title>Memorandum</title>
+      <para id="para-id1163897567181">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1163903288480">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id1163903288480">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1163897621604">
+      <title>Inhoud</title>
+      <section id="id1163897689569">
+        <title>AKTIWITEIT: Modus, mediaan en rekenkundige gemiddelde [LU 5.6, LU 5.9]</title>
+        <para id="id1163897628889">11. Modus, mediaan en rekenkundige gemiddelde</para>
+        <para id="id1163897668075">11.1 LEER die volgende BEGRIPPE</para>
+        <para id="id1163903302687">MODUS : </para>
+        <para id="id1163897593700">Die waarde wat die meeste voorkom</para>
+        <para id="id1163897661208">Bv. 5; 6 ;6 ;7; 4 ; 8 ; 6 ; 6</para>
+        <para id="id1163897672939">Die modus is 6.</para>
+        <para id="id1163903284267">Soms is daar meer as een modus:</para>
+        <para id="id1163897686282">Bv. 2; 3 ; 3 ; 4 ; 6; 2 ; 5</para>
+        <para id="id1163897748889">Die modus is 2 en 3.</para>
+        <para id="id1163897881182">MEDIAAN : </para>
+        <para id="id1163897585447">Dit is die waarde wat in die middel lê wanneer data van klein na groot gerangskik word,</para>
+        <para id="id1163903621826">Bv. 18 ; 21 ; 22 ; 23 ; 27 ; 31 ; 40</para>
+        <para id="id1163903659158"><emphasis effect="bold">As daar ’n ewe getal waardes is, is die mediaan die gemiddeld van die middelste twee waardes</emphasis>:</para>
+        <para id="id1163897674507">Bv. 4 ; 5 ; 6 ; 6 ; 6 ; 7 ; 7 ; 9 ; 9 ; 10</para>
+        <para id="id1163897862775">Die mediaan = (7 + 6) ÷ 2 = 6,5</para>
+        <para id="id1163897692603">REKENKUNDIGE GEMIDDELDE :</para>
+        <para id="id1163897674895">Tel al die waardes bymekaar en deel die totaal deur die aantal waardes,</para>
+        <para id="id1163897745777">Bv. 2; 3; 5; 5; 6</para>
+        <para id="id1163897878538">= 21 ÷ 5</para>
+        <para id="id1163897877431">= 4,2</para>
+        <para id="id1163903302182">11.2 Tien Gr. 7-seuns se skoengroottes lyk so:</para>
+        <para id="id1163903304433">6 ; 7 ; 9 ; 8 ; 8 ; 9 ; 5 ; 6 ; 7 ; 8</para>
+        <para id="id1163897699314">a) Bereken die modus: ______________________________________________</para>
+        <para id="id1163897724444">b) Bereken die mediaan: ____________________________________________</para>
+        <para id="id1163897574074">c) As die skoengroottes ’n punt uit 10 was, wat was die rekenkundige gemiddelde van die “toets”?</para>
+        <para id="id1163897647455"/>
+        <para id="id1163903622791">11.3 Bereken die gemiddelde ouderdom (in jaar) van jou klas.</para>
+        <para id="id1163903648835">_____________________________________________________________________</para>
+        <para id="id1163897560924">_____________________________________________________________________</para>
+        <para id="id1163903573878">_____________________________________________________________________</para>
+        <para id="id1163897664466">_____________________________________________________________________</para>
+        <para id="id1163903614680">_____________________________________________________________________</para>
+        <para id="id1163903632909">11.4 Kies 10 van jou klasmaats en bepaal die gemiddelde aantal kinders per gesin.</para>
+        <para id="id1163897628460">_____________________________________________________________________</para>
+        <para id="id1163897705716">_____________________________________________________________________</para>
+        <para id="id1163903563301">_____________________________________________________________________</para>
+        <para id="id1163903287269">_____________________________________________________________________</para>
+        <para id="id1163897598367">_____________________________________________________________________</para>
+      </section>
+    </section>
+    <section id="id1163903580952">
+      <title>Assessering</title>
+      <para id="id1163897732054"><emphasis><emphasis effect="italics">Leeruitkomste 5:</emphasis></emphasis>Die leerder is in staat om data te versamel, op te som, voor te stel en krities te ontleed om gevolgtrekkings en voorspellings te maak en om toevallige variasie te interpreteer en te bepaal.</para>
+      <para id="id1163897652467"><emphasis><emphasis effect="italics">Assesseringstandaard 5.6:</emphasis></emphasis> Dit is duidelik wanneer die leerder opsommings maak van ongegroepeerde numeriese data deur die gemiddeld, mediaan en modus as bepalers van sentrale neigings te bereken, en daartussen onderskei;</para>
+      <para id="id1163903289571"><emphasis><emphasis effect="italics">Assesseringstandaard 5.9:</emphasis></emphasis> Dit is duidelik wanneer die leerder data wat op verskeie maniere voorgestel is krities lees en interpreteer ten einde gevolgtrekkings en voorspellings te maak wat sensitief is.</para>
+    </section>
+  </content>
+</document>

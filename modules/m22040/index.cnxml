@@ -1,0 +1,209 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Getallepatrone (Fibonacci spiraal)</title>
+  <metadata>
+  <md:content-id>m22040</md:content-id><md:title>Getallepatrone (Fibonacci spiraal)</md:title>
+  <md:abstract/>
+  <md:uuid>fb2e9856-706d-4c27-ae07-4c4cb856824c</md:uuid>
+</metadata>
+
+<content>
+    <section id="id8415584">
+      <title>WISKUNDE</title>
+      <para id="para-id8415584">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1793689">
+      <title>Getalpatrone</title>
+      <para id="para-id1793689">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5630270">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id5630270">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7814321">
+      <title>Memorandum</title>
+      <para id="id2414424">6.</para>
+      <para id="id1171526920912">a) 1 7 21 35  35  21  7  1</para>
+      <para id="id1171524723278"> 1 8 28 56  70  56 28  8 1</para>
+      <para id="id7676421"> 1 9 36 84 126 126 84 36 9 1</para>
+      <para id="id8150770">b). </para>
+      <para id="id2829086">i) Antwoorde sal verskil – hang af watter ry gekies is</para>
+      <para id="id1171517256762">ii) Die som van die boonste 2 getalle in die “driehoek” is die derde getal onder</para>
+      <list id="id1171529222232" list-type="bulleted">
+        <item>iii) 1; 2; 4; 8; 16; 32; 64; ens.</item>
+      </list>
+      <para id="id1171522569558">Antwoorde verdubbel (x2)</para>
+      <para id="id6698949">iv) 512</para>
+    </section>
+    <section id="id4533293">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id4533293">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171528213925">
+      <title>Inhoud</title>
+      <section id="id7554682">
+        <title>AKTIWITEIT: Getallepatrone (Fibonacci spiraal) [LU 2.1, LU 2.2] </title>
+        <para id="id5638078">Fibonacci se spiraal</para>
+        <figure id="id1171526109440">
+          <media id="id1171526109440_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-09b1.jpg" id="id1171526109440__onlineimage" height="725" width="535"/>
+          </media>
+        </figure>
+        <section id="id1171521806662">
+          <title>6. Het jy geweet?</title>
+          <para id="id8721333">In die 17de eeu was daar ’n Franse Wiskundige, Blaise Pascal. Die volgende interessante patroon is na hom vernoem en word “Pascal se driehoek” genoem.</para>
+          <table id="id1171529348905" summary="">
+            <tgroup cols="13">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <colspec colnum="7" colname="c7"/>
+              <colspec colnum="8" colname="c8"/>
+              <colspec colnum="9" colname="c9"/>
+              <colspec colnum="10" colname="c10"/>
+              <colspec colnum="11" colname="c11"/>
+              <colspec colnum="12" colname="c12"/>
+              <colspec colnum="13" colname="c13"/>
+              <tbody>
+                <row>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry>2</entry>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry>3</entry>
+                  <entry/>
+                  <entry>3</entry>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry>4</entry>
+                  <entry/>
+                  <entry>6</entry>
+                  <entry/>
+                  <entry>4</entry>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry>5</entry>
+                  <entry/>
+                  <entry>10</entry>
+                  <entry/>
+                  <entry>10</entry>
+                  <entry/>
+                  <entry>5</entry>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry>6</entry>
+                  <entry/>
+                  <entry>15</entry>
+                  <entry/>
+                  <entry>20</entry>
+                  <entry/>
+                  <entry>15</entry>
+                  <entry/>
+                  <entry>6</entry>
+                  <entry/>
+                  <entry>1</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id8025259">_____________________________________________________________________</para>
+          <para id="id1171531302815">a) Kan jy die volgende drie rye hierbo voltooi?___________________________</para>
+          <para id="id7514250">b) Werk saam met ’n maat en:</para>
+          <para id="id2094064">(i) Kies enige diagonaal (skuins ry). Watter patroon sien julle raak?______________</para>
+          <para id="id1171528190458">_____________________________________________________________________</para>
+          <para id="id1171527040172">_____________________________________________________________________</para>
+          <para id="id7834832">ii) Verduidelik aan jou maat hoe Pascal se driehoek werk.</para>
+          <para id="id1171521462976">iii) Bepaal die som van elke ry. Watter patroon word gevorm?</para>
+          <para id="id1171528343898">_____________________________________________________________________</para>
+          <para id="id1171524706334">_____________________________________________________________________</para>
+          <para id="id6167144">iv) Wat sal die som van die 10de ry wees?</para>
+          <para id="id1171518775615">_____________________________________________________________________</para>
+          <para id="id3754720">_____________________________________________________________________</para>
+        </section>
+      </section>
+    </section>
+    <section id="id8758116">
+      <title>Assessering</title>
+      <para id="id2843911"><emphasis><emphasis effect="italics">Leeruitkomste 2:</emphasis></emphasis>Die leerder is in staat om patrone en verwantskappe te herken, te beskryf en voor te stel en probleme op te los deur algebraïese taal en vaardighede te gebruik.</para>
+      <para id="id1171527260612"><emphasis><emphasis effect="italics">Assesseringstandaard 2.1:</emphasis></emphasis> Dit is duidelik wanneer die leerder numeriese en meetkundige patrone ondersoek en uitbrei op soek na ‘n verwantskap of reëls, insluitend patrone.</para>
+      <para id="id1171517307409"><emphasis><emphasis effect="italics">Assesseringstandaard 2.2:</emphasis></emphasis> Dit is duidelik wanneer die leerder verwantskappe of reëls wat waargeneem is, in eie woorde beskryf, verduidelik en bewys.</para>
+    </section>
+  </content>
+</document>

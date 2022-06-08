@@ -1,0 +1,199 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Pret met die sakrekenaar</title>
+  <metadata>
+  <md:content-id>m21771</md:content-id><md:title>Pret met die sakrekenaar</md:title>
+  <md:abstract/>
+  <md:uuid>4526a3be-a54c-46c6-8056-2f0f501ba48a</md:uuid>
+</metadata>
+
+<content>
+    <section id="id8199005">
+      <title>WISKUNDE</title>
+      <para id="para-id8199005">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17759015">
+      <title>Pret met die Sakrekenaar en Negatiewe Getalle</title>
+      <para id="para-id17759015">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id10576409">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id10576409">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id14759969">
+      <title>Memorandum</title>
+      <para id="id8658339">5. a) 108    </para>
+      <para id="id16989143">b)  9    </para>
+      <para id="id10561251"> c)  13    </para>
+      <para id="id16519132">d)  68    </para>
+      <para id="id14222288">e)  14    </para>
+      <para id="id10449703">f)  4     </para>
+      <para id="id7407218"> g)  48    </para>
+      <para id="id16504455"> h  72</para>
+      <para id="id18157257">i)  200</para>
+      <para id="id16758409"> j) 18 000</para>
+      <para id="id12144073">k) 20</para>
+      <para id="id8817503">l) 9</para>
+      <para id="id7009467">m) R238 </para>
+      <para id="id14259711">n) R6 080</para>
+      <para id="id17288391">o) 54</para>
+    </section>
+    <section id="id17855066">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id17855066">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17283044">
+      <title>Inhoud</title>
+      <section id="id7992331">
+        <title>AKTIWITEIT: Pret met die sakrekenaar [LU 1.9.2]</title>
+        <section id="id6725427">
+          <title>PRET MET DIE SAKREKENAAR</title>
+          <para id="id7898522">1. Het jy geweet dat sakrekenaars ook kan “praat”? Sleutel die volgende op jou sakrekenaar in: 0,65 + 0,1234 =</para>
+          <para id="id8815356">Draai nou jou sakrekenaar onderstebo. Wat lees jy?</para>
+          <para id="id19126097">___________________________________________________________</para>
+          <para id="id5488809">In hierdie module gaan ons leer hoe om die sakrekenaar effektief te gebruik om berekeninge maklik te doen.</para>
+          <para id="id15631007">2. HET JY GEWEET?</para>
+          <para id="id4358705">5 000 jaar gelede het die Babiloniërs ’n optelmasjien ontwerp wat hulle ’n abakus genoem het. Die Chinese gebruik vandag steeds ’n variasie hiervan. Hulle abakus bestaan uit krale wat jy op ’n telraam op en af moet skuif.</para>
+          <figure id="id8697975">
+            <media id="id8697975_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics1-c01c.png" id="id8697975__onlineimage" height="158" width="369"/>
+            </media>
+          </figure>
+          <para id="id10089903">In 1642 het Blaise Pascal van Frankryk ’n optelmasjien ontwerp wat met draaiknoppe gewerk het. Dit was egter te duur om te bou.</para>
+          <figure id="id14507604">
+            <media id="id14507604_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics2-1dec.png" id="id14507604__onlineimage" height="110" width="186"/>
+            </media>
+          </figure>
+          <para id="id11072065">’n Britse wiskundige, Charles Babbage, het in 1830 begin werk aan ’n analitiese enjin wat deur stoom aangedryf is. Hy het vir 37 jaar probeer om hierdie enjin , wat verskillende berekeninge kon doen, te bou, maar is oorlede voordat hy dit kon voltooi.</para>
+          <para id="id6291843">3. KOM ONS HERSIEN</para>
+          <figure id="id11388392">
+            <media id="id11388392_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics3-4f6b.png" id="id11388392__onlineimage" height="121" width="200"/>
+            </media>
+          </figure>
+          <para id="id14730532">Werk saam met ’n maat en soek die volgende sleutels op jou sakrekenaar:</para>
+          <table id="id10471329" summary="">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>AC </entry>
+                  <entry>=</entry>
+                  <entry>wis alles, insluitende die geheue, uit</entry>
+                </row>
+                <row>
+                  <entry>C</entry>
+                  <entry>=</entry>
+                  <entry>maak die vertoonvenster skoon</entry>
+                </row>
+                <row>
+                  <entry>CE / CM</entry>
+                  <entry>=</entry>
+                  <entry>maak die geheue skoon</entry>
+                </row>
+                <row>
+                  <entry>Min / M / M+</entry>
+                  <entry/>
+                  <entry>____________________________________</entry>
+                </row>
+                <row>
+                  <entry>STO</entry>
+                  <entry>=</entry>
+                  <entry>bêre in die geheue / tel op</entry>
+                </row>
+                <row>
+                  <entry>M-</entry>
+                  <entry>=</entry>
+                  <entry>trek van die geheue af</entry>
+                </row>
+                <row>
+                  <entry>
+                    <emphasis effect="bold">RCL / </emphasis>
+                    <emphasis effect="bold">x</emphasis>
+                    <emphasis effect="bold"> M</emphasis>
+                  </entry>
+                  <entry/>
+                  <entry>____________________________________</entry>
+                </row>
+                <row>
+                  <entry>MR / RM</entry>
+                  <entry>=</entry>
+                  <entry>roep die geheue op</entry>
+                </row>
+                <row>
+                  <entry>
+                    <emphasis effect="bold">O</emphasis>
+                    <emphasis effect="bold">m</emphasis>
+                    <emphasis effect="bold"> / O</emphasis>
+                    <emphasis effect="bold">m</emphasis>
+                  </entry>
+                  <entry>=</entry>
+                  <entry>jy het nie die geheue skoongemaak nie</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id17519209">Het jou sakrekenaar ’n ander sleutel wat jy moet druk om bogenoemde te doen? Skryf dit hieronder neer:</para>
+          <para id="id18909654">______________________________________________________________</para>
+          <para id="id19055630">______________________________________________________________</para>
+          <para id="id17063481">______________________________________________________________</para>
+          <para id="id17027403">______________________________________________________________</para>
+          <para id="id17027408">4. ONTHOU JY NOG?</para>
+          <para id="id18446072">Ons kry ’n gewone sakrekenaar en ’n wetenskaplike sakrekenaar. Laasgenoemde kan meer ingewikkelde berekeninge doen. Vergelyk jou sakrekenaar met dié van jou klasmaats en kyk hoe hul ooreenstem / verskil.</para>
+          <para id="id14014810">5. Voordat ons verder met die sakrekenaar gaan werk, moet jy eers jou eie breinkrag inspan. Voltooi die volgende hoofrekentoets so vinnig en akkuraat moontlik.</para>
+          <para id="id8883103">a) 12 × 9 = __________</para>
+          <para id="id14185075">b) __________ × 7 = 63</para>
+          <para id="id8322805">c) 48 + __________ = 61</para>
+          <para id="id18012333">d) __________ - 18 = 50</para>
+          <para id="id17723524">e) 63 - __________ = 49</para>
+          <para id="id17057767">f) (12 × 8) + __________ = 100</para>
+          <para id="id18424998">g) 8 × 3 × 3 = __________</para>
+          <para id="id10494668">h) __________ ÷ 8 = 9</para>
+          <para id="id14869948">i) 80 × 40 = __________</para>
+          <para id="id4139998">j) 300 × 60 __________</para>
+          <para id="id5499883">k) 500 ÷ 25 = __________</para>
+          <para id="id17898211">l) one third of 27 = __________</para>
+          <para id="id17936894">m) R2,38 × 100 = __________</para>
+          <para id="id14208879">n) R6,08 × 1 000 = __________</para>
+          <para id="id17067833">o) __________ ÷ 6 = 9</para>
+          <para id="id6488985">15</para>
+          <para id="id6488989">Voltooi deur die toepaslike blokkie in te kleur:</para>
+          <table id="id4560091" summary="">
+            <tgroup cols="5">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <tbody>
+                <row>
+                  <entry>Ek het</entry>
+                  <entry>GOED</entry>
+                  <entry>GEMIDDELD</entry>
+                  <entry>SWAK</entry>
+                  <entry>Gevaar.</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+      </section>
+    </section>
+    <section id="id17547552">
+      <title>Assessering</title>
+      <para id="id14237068"><emphasis><emphasis effect="italics">Leeruitkomste 1:</emphasis></emphasis>Die leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</para>
+      <para id="id6910251"><emphasis><emphasis effect="italics">Assesseringstandaard 1.9:</emphasis></emphasis> Dit is duidelik wanneer die leerder ‘n verskeidenheid tegnieke gebruik om berekeninge te doen, insluitend:</para>
+      <para id="id14906855">1.9.2: die gebruik van ‘n sakrekenaar.</para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,107 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Breuke - 03</title>
+  <metadata>
+  <md:content-id>m31221</md:content-id><md:title>Breuke - 03</md:title>
+  <md:abstract/>
+  <md:uuid>7f4d64cd-d079-4027-991d-a8c49f378c74</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1172289862698">
+      <title>WISKUNDE</title>
+      <para id="para-id1172289862698">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1172289896453">
+      <title>Gewone Breuke</title>
+      <para id="para-id1172289896453">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1172290385439">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id1172290385439">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1172290905915">
+      <title>Memorandum</title>
+      <para id="id1172289899006">7. </para>
+      <para id="id1172291020726">(a) 24    </para>
+      <para id="id1172290368264">(b) 34    </para>
+      <para id="id1172291979460">(c) 54    </para>
+      <para id="id1172292309752">(d) 22    </para>
+      <para id="id1172290091498">(e) 32    </para>
+      <para id="id1172292631099">(f) 42    </para>
+      <para id="id1172290300045">(g)  9    </para>
+      <para id="id1172289678267">(h)  7</para>
+      <para id="id1172292618735">(i)  6</para>
+      <para id="id1172290899806">(j)  56</para>
+      <para id="id1172292569557">(k) 108</para>
+      <para id="id1172289800185">(l) 109</para>
+      <para id="id1172291885887">(m)  24</para>
+      <para id="id1172292031438">(n)  76</para>
+      <para id="id1172290370674">(o)  64</para>
+    </section>
+    <section id="id1172290081839">
+      <title>Leerders Afdeling</title>
+      <para id="para-id1172290081839">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1172292184174">
+      <title>Inhoud</title>
+      <section id="id1172292166507">
+        <title>AKTIWITEIT: Breuke [LU 1.10]</title>
+        <para id="id1172291170209">6. KOPKRAPPER!</para>
+        <para id="id1172290082701">Kleur die gegewe breuk in die volgende figure in:</para>
+        <para id="id1172292270480"><figure id="id1172291901786"><media id="id1172291901786_media" alt=""><image mime-type="image/png" src="../../media/graphics1-1a40.png" id="id1172291901786__onlineimage" height="97" width="97"/></media></figure>a) </para>
+        <para id="id1172289911267"><figure id="id1172290034569"><media id="id1172290034569_media" alt=""><image mime-type="image/png" src="../../media/graphics2-02f6.png" id="id1172290034569__onlineimage" height="98" width="98"/></media></figure>b)</para>
+        <para id="id1172290902469">7. Kom ons kyk nou eers of jy nog flink kan dink. Voltooi die volgende hoofrekentoets so akkuraat en vinnig moontlik:</para>
+        <para id="id1172290906118"/>
+        <para id="id1172292723611">a) 6 + 18 = _______________</para>
+        <para id="id1172290365528">b) 16 + 18 = _______________</para>
+        <para id="id1172290384130">c) 16 + 38 = _______________</para>
+        <para id="id1172290868847">d) 14 + 8 = _______________</para>
+        <para id="id1172292284371">e) 18 + 14 = _______________</para>
+        <para id="id1172292697357">f) 18 + 24 = _______________</para>
+        <para id="id1172290645260">g) 4 x _______________ = 36   </para>
+        <para id="id1172289836539">h) 5 x _______________ = 35 </para>
+        <para id="id1172292259259">i) 48 ÷ _______________ = 8</para>
+        <para id="id1172292311610">j) _______________ ÷ 7 = 8</para>
+        <para id="id1172290916604">k) _______________ ÷ 9 = 12</para>
+        <para id="id1172292215697">l)  van 218 = _______________</para>
+        <para id="id1172293224978">m)  van 96 = _______________</para>
+        <para id="id1172290352803">n) 92 – 16 = _______________</para>
+        <para id="id1172289914593">o) 83 – 19 = _______________</para>
+        <list id="id1172290064502" list-type="bulleted">
+          <item>Kleur die toepaslike blokkie in:</item>
+        </list>
+        <table id="id1172297880178" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Ek het</entry>
+                <entry>GOED</entry>
+                <entry>GEMIDDELD</entry>
+                <entry>SWAK</entry>
+                <entry>gevaar.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id1172290149645">
+      <title>Assessering</title>
+      <para id="id1172290112890"><emphasis><emphasis effect="italics">Leeruitkomste 1:</emphasis></emphasis>Die leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</para>
+      <para id="id1172292035726"><emphasis><emphasis effect="italics">Assesseringstandaard 1.10:</emphasis></emphasis> Dit is duidelik wanneer die leerder ‘n verskeidenheid strategieë gebruik om oplossings te kontroleer en die redelikheid daarvan te beoordeel.</para>
+    </section>
+  </content>
+</document>
